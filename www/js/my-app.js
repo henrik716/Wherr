@@ -58,7 +58,7 @@ document.addEventListener('deviceready', function () {
     })
 
 	
-var div = document.getElementById("map_canvas");
+var div = document.getElementById("map_canvas1");
 var map = plugin.google.maps.Map.getMap(div, {
   'mapType': plugin.google.maps.MapTypeId.ROADMAP,
   'controls': {
