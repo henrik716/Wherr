@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-googleplayservices-check",
+        "scope": null,
+        "escapedName": "cordova-plugin-googleplayservices-check",
+        "name": "cordova-plugin-googleplayservices-check",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Henrik716\\Desktop\\Wherr"
+    ]
+  ],
+  "_from": "cordova-plugin-googleplayservices-check@latest",
+  "_id": "cordova-plugin-googleplayservices-check@1.0.4",
+  "_inCache": true,
+  "_location": "/cordova-plugin-googleplayservices-check",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-googleplayservices-check-1.0.4.tgz_1461152062860_0.623910847119987"
+  },
+  "_npmUser": {
+    "name": "rehmatt",
+    "email": "mattis.rehmke@me.com"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-googleplayservices-check",
+    "scope": null,
+    "escapedName": "cordova-plugin-googleplayservices-check",
+    "name": "cordova-plugin-googleplayservices-check",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-googleplayservices-check/-/cordova-plugin-googleplayservices-check-1.0.4.tgz",
+  "_shasum": "bce36852d14c81bed973330b6ff082b18a9e9c41",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-googleplayservices-check",
+  "_where": "C:\\Users\\Henrik716\\Desktop\\Wherr",
+  "author": {
+    "name": "rehmatt"
+  },
+  "bugs": {
+    "url": "https://github.com/rehmatt/cordova-plugin-googleplayservices-check/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-googleplayservices-check",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Simple cordova plugin for checking that the google play services are installed, updated and enabled.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bce36852d14c81bed973330b6ff082b18a9e9c41",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-googleplayservices-check/-/cordova-plugin-googleplayservices-check-1.0.4.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "gitHead": "d1da473080b4216bd7eff9a8b8ee85802636ff66",
+  "homepage": "https://github.com/rehmatt/cordova-plugin-googleplayservices-check#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "rehmatt",
+      "email": "mattis.rehmke@me.com"
+    }
+  ],
+  "name": "cordova-plugin-googleplayservices-check",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehmatt/cordova-plugin-googleplayservices-check.git"
+  },
+  "scripts": {},
+  "version": "1.0.4"
+}

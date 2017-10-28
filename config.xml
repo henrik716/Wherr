@@ -29,4 +29,5 @@
         <variable name="API_KEY_FOR_IOS" value="AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o" />
     </plugin>
     <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
+    <plugin name="cordova-plugin-googleplayservices-check" spec="^1.0.4" />
 </widget>

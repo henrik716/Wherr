@@ -169,6 +169,14 @@ module.exports = [
     "clobbers": [
       "plugin.google.maps"
     ]
+  },
+  {
+    "id": "cordova-plugin-googleplayservices-check.GooglePlayServicesCheck",
+    "file": "plugins/cordova-plugin-googleplayservices-check/www/GooglePlayServicesCheck.js",
+    "pluginId": "cordova-plugin-googleplayservices-check",
+    "clobbers": [
+      "GooglePlayServicesCheck"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -176,7 +184,8 @@ module.exports.metadata =
 {
   "com.googlemaps.ios": "2.4.0",
   "cordova-plugin-googlemaps": "2.0.11",
-  "cordova-plugin-whitelist": "1.3.2"
+  "cordova-plugin-whitelist": "1.3.2",
+  "cordova-plugin-googleplayservices-check": "1.0.0"
 };
 // BOTTOM OF METADATA
 });
