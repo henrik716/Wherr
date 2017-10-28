@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    }
+  }
+}
