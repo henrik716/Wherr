@@ -4,14 +4,16 @@ document.addEventListener('deviceready', function () {
         var success = function(response) {
             // response.isGooglePlayServicesAvailable is a boolean value 
             response.isGooglePlayServicesAvailable;
+			myApp.alert('facjfacj');
         } 
  
         var failure = function(response) {
             response.isGooglePlayServicesAvailable;
+			myApp.alert('nooooo');
         }
  
         GooglePlayServicesCheck.check(success, failure);
-    })
+    });
 
 	
 var div = document.getElementById("map");
