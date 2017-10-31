@@ -128,13 +128,17 @@ var Polygon = function(map, polygonId, polygonOptions, _exec) {
 utils.extend(Polygon, BaseClass);
 
 Polygon.prototype.remove = function() {
-    this.trigger(this.id + "_remove");
-    exec.call(this, null, this.errorHandler, this.getPluginName(), 'remove', [this.getId()]);
+    var self = this;
+    if (self._isRemoved) {
+      return;
+    }
     Object.defineProperty(self, "_isRemoved", {
         value: true,
         writable: false
     });
-    this.destroy();
+    self.trigger(this.id + "_remove");
+    exec.call(self, null, self.errorHandler, self.getPluginName(), 'remove', [self.getId()]);
+    self.destroy();
 };
 Polygon.prototype.getPluginName = function() {
     return this.map.getId() + "-polygon";

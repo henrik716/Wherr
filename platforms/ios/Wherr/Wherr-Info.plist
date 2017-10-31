@@ -52,17 +52,17 @@
       <key>NSAllowsArbitraryLoads</key>
       <true/>
     </dict>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>googlechromes</string>
+      <string>comgooglemaps</string>
+    </array>
     <key>Google Maps API Key</key>
     <string>AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o</string>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>Show your location on the map</string>
     <key>NSLocationAlwaysUsageDescription</key>
     <string>Trace your location on the map</string>
-    <key>LSApplicationQueriesSchemes</key>
-    <array>
-      <string>googlechromes</string>
-      <string>comgooglemaps</string>
-    </array>
     <key>CFBundleURLTypes</key>
     <array>
       <dict>

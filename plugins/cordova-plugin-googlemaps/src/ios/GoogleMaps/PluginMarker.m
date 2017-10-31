@@ -341,23 +341,25 @@
     marker = nil;
 
     [self.mapCtrl.executeQueue addOperationWithBlock:^{
-      if ([self.mapCtrl.objects objectForKey:iconCacheKey]) {
-
-        NSString *cacheKey = [self.mapCtrl.objects objectForKey:iconCacheKey];
-
-        if ([[UIImageCache sharedInstance].iconCacheKeys objectForKey:cacheKey]) {
-          int count = [[[UIImageCache sharedInstance].iconCacheKeys objectForKey:cacheKey] intValue];
-          count--;
-          if (count < 1) {
-            [[UIImageCache sharedInstance] removeCachedImageForKey:cacheKey];
-            [[UIImageCache sharedInstance].iconCacheKeys removeObjectForKey:cacheKey];
-          } else {
-            [[UIImageCache sharedInstance].iconCacheKeys setObject:[NSNumber numberWithInt:count] forKey:cacheKey];
-          }
-        }
-
+      @synchronized(self.mapCtrl.objects) {
         if ([self.mapCtrl.objects objectForKey:iconCacheKey]) {
-          [self.mapCtrl.objects removeObjectForKey:iconCacheKey];
+
+          NSString *cacheKey = [self.mapCtrl.objects objectForKey:iconCacheKey];
+
+          if ([[UIImageCache sharedInstance].iconCacheKeys objectForKey:cacheKey]) {
+            int count = [[[UIImageCache sharedInstance].iconCacheKeys objectForKey:cacheKey] intValue];
+            count--;
+            if (count < 1) {
+              [[UIImageCache sharedInstance] removeCachedImageForKey:cacheKey];
+              [[UIImageCache sharedInstance].iconCacheKeys removeObjectForKey:cacheKey];
+            } else {
+              [[UIImageCache sharedInstance].iconCacheKeys setObject:[NSNumber numberWithInt:count] forKey:cacheKey];
+            }
+          }
+
+          if ([self.mapCtrl.objects objectForKey:iconCacheKey]) {
+            [self.mapCtrl.objects removeObjectForKey:iconCacheKey];
+          }
         }
       }
     }];
@@ -1023,6 +1025,7 @@
         currentURL = [currentURL stringByDeletingLastPathComponent];
         currentURL = [currentURL stringByReplacingOccurrencesOfString:@"file:" withString:@""];
         currentURL = [currentURL stringByReplacingOccurrencesOfString:@"//" withString:@"/"];
+        currentURL = [currentURL stringByReplacingOccurrencesOfString:@"%20" withString:@" "];
         iconPath = [NSString stringWithFormat:@"file://%@/%@", currentURL, iconPath];
       } else {
         iconPath = [NSString stringWithFormat:@"file://%@", iconPath];

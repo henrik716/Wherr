@@ -7,14 +7,17 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-googlemaps": {
-      "API_KEY_FOR_ANDROID": "AIzaSyBPxerSuuOoZ0dts1YcUA4O-EPMgQ_JD6M",
-      "PACKAGE_NAME": "com.myCompany.Wherr"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.myCompany.Wherr"
     },
     "cordova-plugin-googleplayservices-check": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyBPxerSuuOoZ0dts1YcUA4O-EPMgQ_JD6M",
       "PACKAGE_NAME": "com.myCompany.Wherr"
     }
   },

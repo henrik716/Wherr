@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.myCompany.Wherr" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="GooglePlayServicesCheck">
+        <param name="android-package" value="cordova.plugin.googleplayservices.check.GooglePlayServicesCheck" />
+    </feature>
     <feature name="CordovaGoogleMaps">
         <param name="android-package" value="plugin.google.maps.CordovaGoogleMaps" />
         <param name="onload" value="true" />
@@ -29,9 +36,6 @@
     <feature name="KmlOverlay">
         <param name="android-package" value="plugin.google.maps.PluginKmlOverlay" />
     </feature>
-    <feature name="External">
-        <param name="android-package" value="plugin.google.maps.External" />
-    </feature>
     <feature name="Geocoder">
         <param name="android-package" value="plugin.google.maps.PluginGeocoder" />
     </feature>
@@ -40,13 +44,6 @@
     </feature>
     <feature name="MarkerCluster">
         <param name="android-package" value="plugin.google.maps.PluginMarkerCluster" />
-    </feature>
-    <feature name="Whitelist">
-        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
-        <param name="onload" value="true" />
-    </feature>
-    <feature name="GooglePlayServicesCheck">
-        <param name="android-package" value="cordova.plugin.googleplayservices.check.GooglePlayServicesCheck" />
     </feature>
     <name>Wherr</name>
     <description>

@@ -108,6 +108,13 @@ utils.extend(Marker, BaseClass);
 
 Marker.prototype.remove = function(callback) {
     var self = this;
+    if (self._isRemoved) {
+      return;
+    }
+    Object.defineProperty(self, "_isRemoved", {
+        value: true,
+        writable: false
+    });
     self.trigger(event.INFO_CLOSE);     // close open infowindow, otherwise it will stay
     self.trigger(self.id + "_remove");
     exec.call(self, function() {
@@ -115,13 +122,9 @@ Marker.prototype.remove = function(callback) {
         if (typeof callback === "function") {
             callback.call(self);
         }
-    }, self.errorHandler, self.getPluginName(), 'remove', [this.getId()]);
+    }, self.errorHandler, self.getPluginName(), 'remove', [self.getId()]);
 
-    Object.defineProperty(self, "_isRemoved", {
-        value: true,
-        writable: false
-    });
-    this.destroy();
+    self.destroy();
 };
 
 Marker.prototype.getOptions = function() {
@@ -276,6 +279,9 @@ Marker.prototype.showInfoWindow = function() {
     return this;
 };
 Marker.prototype.hideInfoWindow = function() {
+    if (this.map.get("active_marker_id") === this.id) {
+      this.map.set("active_marker_id", null);
+    }
     if (this.get("isInfoWindowVisible")) {
         this.set("isInfoWindowVisible", false);
         exec.call(this, null, this.errorHandler, this.getPluginName(), 'hideInfoWindow', [this.getId()], {sync: true});

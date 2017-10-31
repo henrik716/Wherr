@@ -1,6 +1,14 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
   {
+    "id": "cordova-plugin-googleplayservices-check.GooglePlayServicesCheck",
+    "file": "plugins/cordova-plugin-googleplayservices-check/www/GooglePlayServicesCheck.js",
+    "pluginId": "cordova-plugin-googleplayservices-check",
+    "clobbers": [
+      "GooglePlayServicesCheck"
+    ]
+  },
+  {
     "id": "cordova-plugin-googlemaps.BaseClass",
     "file": "plugins/cordova-plugin-googlemaps/www/BaseClass.js",
     "pluginId": "cordova-plugin-googlemaps",
@@ -103,14 +111,14 @@ module.exports = [
     "runs": true
   },
   {
-    "id": "cordova-plugin-googlemaps.Geocoder",
-    "file": "plugins/cordova-plugin-googlemaps/www/Geocoder.js",
+    "id": "cordova-plugin-googlemaps.poly",
+    "file": "plugins/cordova-plugin-googlemaps/www/poly.js",
     "pluginId": "cordova-plugin-googlemaps",
     "runs": true
   },
   {
-    "id": "cordova-plugin-googlemaps.ExternalService",
-    "file": "plugins/cordova-plugin-googlemaps/www/ExternalService.js",
+    "id": "cordova-plugin-googlemaps.Geocoder",
+    "file": "plugins/cordova-plugin-googlemaps/www/Geocoder.js",
     "pluginId": "cordova-plugin-googlemaps",
     "runs": true
   },
@@ -169,22 +177,15 @@ module.exports = [
     "clobbers": [
       "plugin.google.maps"
     ]
-  },
-  {
-    "id": "cordova-plugin-googleplayservices-check.GooglePlayServicesCheck",
-    "file": "plugins/cordova-plugin-googleplayservices-check/www/GooglePlayServicesCheck.js",
-    "pluginId": "cordova-plugin-googleplayservices-check",
-    "clobbers": [
-      "GooglePlayServicesCheck"
-    ]
   }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
-  "cordova-plugin-googlemaps": "2.0.11",
   "cordova-plugin-whitelist": "1.3.2",
-  "cordova-plugin-googleplayservices-check": "1.0.0"
+  "cordova-plugin-googleplayservices-check": "1.0.0",
+  "com.googlemaps.ios": "2.4.0",
+  "cordova-plugin-googlemaps": "2.1.0-beta-20171027-0054"
 };
 // BOTTOM OF METADATA
 });

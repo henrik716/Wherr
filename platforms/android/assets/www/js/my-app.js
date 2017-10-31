@@ -1,32 +1,3 @@
-var app = {
-    // Application Constructor
-    initialize: function() {
-        document.addEventListener('deviceready', this.onDeviceReady.bind(this), false);
-    },
-
-    // deviceready Event Handler
-    //
-    // Bind any cordova events here. Common events are:
-    // 'pause', 'resume', etc.
-    onDeviceReady: function() {
-        this.receivedEvent('deviceready');
-    },
-
-    // Update DOM on a Received Event
-    receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
-    }
-};
-
-app.initialize();
-
 // Initialize app
 var myApp = new Framework7();
 
@@ -87,7 +58,7 @@ document.addEventListener('deviceready', function () {
     })
 
 	
-var div = document.getElementById("map_canvas1");
+var div = document.getElementById("map_canvas");
 var map = plugin.google.maps.Map.getMap(div, {
   'mapType': plugin.google.maps.MapTypeId.ROADMAP,
   'controls': {
@@ -139,5 +110,5 @@ var map = plugin.google.maps.Map.getMap(div, {
   }
 });
 map.one(plugin.google.maps.event.MAP_READY, function() {
-  console.log("--> realMap : ready.");
+  console.log("--> map : ready.");
 });

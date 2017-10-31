@@ -250,6 +250,9 @@ Map.prototype.panBy = function(x, y) {
  */
 Map.prototype.clear = function(callback) {
     var self = this;
+    if (self._isRemoved) {
+      return;
+    }
 
     // Close the active infoWindow
     var active_marker_id = self.get("active_marker_id");
@@ -518,6 +521,13 @@ Map.prototype.getCameraPosition = function() {
  */
 Map.prototype.remove = function(callback) {
     var self = this;
+    if (self._isRemoved) {
+      return;
+    }
+    Object.defineProperty(self, "_isRemoved", {
+        value: true,
+        writable: false
+    });
     var div = this.get('div');
     if (div) {
         while (div) {
@@ -564,16 +574,11 @@ Map.prototype.remove = function(callback) {
     clearObj(self.MARKERS);
     clearObj(self.KML_LAYERS);
 
-    exec.call(this, function() {
+    exec.call(self, function() {
         if (typeof callback === "function") {
             callback.call(self);
         }
     }, self.errorHandler, 'CordovaGoogleMaps', 'removeMap', [self.id], {sync: true});
-
-    Object.defineProperty(self, "_isRemoved", {
-        value: true,
-        writable: false
-    });
 };
 
 
@@ -776,21 +781,23 @@ Map.prototype.addKmlOverlay = function(kmlOverlayOptions, callback) {
     var kmlId = "kml" + (Math.random() * 9999999).toFixed(0);
     kmlOverlayOptions.kmlId = kmlId;
 
-    var kmlOverlay = new KmlOverlay(self, kmlId, kmlOverlayOptions, exec);
-    self.OVERLAYS[kmlId] = kmlOverlay;
-    self.KML_LAYERS[kmlId] = kmlOverlay;
+    exec.call(this, function(kmlData) {
+        var kmlOverlay = new KmlOverlay(self, kmlId, kmlData, exec);
+        self.OVERLAYS[kmlId] = kmlOverlay;
+        self.KML_LAYERS[kmlId] = kmlOverlay;
 
-    exec.call(this, function() {
+/*
         kmlOverlay.one(kmlId + "_remove", function() {
             kmlOverlay.off();
             delete self.KML_LAYERS[kmlId];
             delete self.OVERLAYS[kmlId];
             kmlOverlay = undefined;
         });
+*/
         if (typeof callback === "function") {
             callback.call(self, kmlOverlay);
         }
-    }, self.errorHandler, self.id, 'loadPlugin', ['KmlOverlay', kmlOverlayOptions]);
+    }, self.errorHandler, self.id, 'loadPlugin', ['KmlOverlay', kmlOverlayOptions], {sync: true});
 
 };
 
@@ -953,7 +960,7 @@ Map.prototype.addPolyline = function(polylineOptions, callback) {
         if (typeof callback === "function") {
             callback.call(self, polyline);
         }
-    }, self.errorHandler, self.id, 'loadPlugin', ['Polyline', polylineOptions], {sync: true});
+    }, self.errorHandler, self.id, 'loadPlugin', ['Polyline', polylineOptions]);
 };
 
 //-------------

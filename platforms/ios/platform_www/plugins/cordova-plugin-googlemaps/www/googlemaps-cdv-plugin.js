@@ -33,8 +33,8 @@ if (!cordova) {
   var KmlOverlay = require('./KmlOverlay');
   var encoding = require('./encoding');
   var spherical = require('./spherical');
+  var poly = require('./poly');
   var Geocoder = require('./Geocoder');
-  var ExternalService = require('./ExternalService');
   var Environment = require('./Environment');
   var MapTypeId = require('./MapTypeId');
 
@@ -121,6 +121,7 @@ if (!cordova) {
     var longIdlingCnt = -1;
 
     var isChecking = false;
+    var pauseResizeTimer = false;
     var cacheDepth = {};
     document.head.appendChild(navDecorBlocker);
     var doNotTraceTags = [
@@ -245,7 +246,7 @@ if (!cordova) {
               prevDomPositions[elemId].zIndex === zIndex) {
               depth = cacheDepth[elemId];
           } else {
-              depth = common.getDomDepth(element, domIdx, parentZIndex, parentDepth, floorLevel);
+              depth = common.getDomDepth(element, domIdx, parentDepth, floorLevel);
               cacheDepth[elemId] = depth;
           }
 
@@ -363,7 +364,8 @@ if (!cordova) {
               MAPS[mapId].refreshLayout();
           });
         }
-        if (idlingCnt > 2) {
+        if (idlingCnt > 2 && !pauseResizeTimer) {
+          pauseResizeTimer = true;
           cordova_exec(null, null, 'CordovaGoogleMaps', 'pauseResizeTimer', []);
         }
         // Stop timer when user does not touch the app and no changes are occurred during 1500ms.
@@ -418,37 +420,41 @@ if (!cordova) {
       //-----------------------------------------------------------------
       // Ignore the elements that their z-index is smaller than map div
       //-----------------------------------------------------------------
-      var quickfilter = function(list, head, tail) {
-        var i = head, j = tail;
-        var leftRight = true;
-        while(i < j) {
-          if (leftRight) {
-            if (domPositions[list[j]].depth < minMapDepth) {
-              list[i] = list[j];
-              i++;
-              leftRight = false;
+      var finalDomPositions;
+      if (visibleMapList.length === 0) {
+        finalDomPositions = domPositions;
+      } else {
+        var quickfilter = function(list, head, tail) {
+          var i = head, j = tail;
+          var leftRight = true;
+          while(i < j) {
+            if (leftRight) {
+              if (domPositions[list[j]].depth < minMapDepth) {
+                list[i] = list[j];
+                i++;
+                leftRight = false;
+              } else {
+                j--;
+              }
             } else {
-              j--;
-            }
-          } else {
-            if (domPositions[list[i]].depth >= minMapDepth) {
-              list[j] = list[i];
-              j--;
-              leftRight = true;
-            } else {
-              i++;
+              if (domPositions[list[i]].depth >= minMapDepth) {
+                list[j] = list[i];
+                j--;
+                leftRight = true;
+              } else {
+                i++;
+              }
             }
           }
-        }
-        list.splice(0, j);
-      };
-      var list = Object.keys(domPositions);
-      quickfilter(list, 0, list.length - 1);
-      var finalDomPositions = {};
-      list.forEach(function(domId) {
-        finalDomPositions[domId] = domPositions[domId];
-      });
-
+          list.splice(0, j);
+        };
+        var list = Object.keys(domPositions);
+        quickfilter(list, 0, list.length - 1);
+        finalDomPositions = {};
+        list.forEach(function(domId) {
+          finalDomPositions[domId] = domPositions[domId];
+        });
+      }
       //-----------------------------------------------------------------
       // Pass information to native
       //-----------------------------------------------------------------
@@ -475,6 +481,7 @@ if (!cordova) {
       longIdlingCnt = -1;
       cacheDepth = {};
       cacheZIndex = {};
+      pauseResizeTimer = false;
       cordova_exec(null, null, 'CordovaGoogleMaps', 'resumeResizeTimer', []);
       putHtmlElements();
     }
@@ -497,7 +504,10 @@ if (!cordova) {
             putHtmlElements();
           } else {
             clearInterval(intervalTimer);
-            cordova_exec(null, null, 'CordovaGoogleMaps', 'pauseResizeTimer', []);
+            if (!pauseResizeTimer) {
+              pauseResizeTimer = true;
+              cordova_exec(null, null, 'CordovaGoogleMaps', 'pauseResizeTimer', []);
+            }
             intervalTimer = null;
           }
         }
@@ -530,10 +540,12 @@ if (!cordova) {
     // Hook the backbutton of Android action
     //--------------------------------------------
     var anotherBackbuttonHandler = null;
-    function onBackButton() {
+    function onBackButton(e) {
       cordova.fireDocumentEvent('plugin_touch', {});
       if (anotherBackbuttonHandler) {
-        anotherBackbuttonHandler();
+        // anotherBackbuttonHandler must handle the page moving transaction.
+        // The plugin does not take care anymore if another callback is registered.
+        anotherBackbuttonHandler(e);
       } else {
         cordova_exec(null, null, 'CordovaGoogleMaps', 'backHistory', []);
       }
@@ -634,12 +646,12 @@ if (!cordova) {
     LatLngBounds: LatLngBounds,
     Marker: Marker,
     MapTypeId: MapTypeId,
-    external: ExternalService,
     environment: Environment,
     Geocoder: Geocoder,
     geometry: {
         encoding: encoding,
-        spherical: spherical
+        spherical: spherical,
+        poly: poly
     }
   };
 

@@ -308,23 +308,13 @@ function getZIndex(dom) {
 
     return z;
 }
-
-function getDomDepth(dom, idx, parentZIndex, parentDepth, floorLevel) {
+function getDomDepth(dom, idx, parentDepth, floorLevel) {
     if (dom.nodeType !== Node.ELEMENT_NODE) {
       return 0;
     }
-    var orgDom = dom;
-    var zIndex = parentZIndex + getZIndex(dom);
-/*
-    var depth = 0;
-    while (dom.parentNode !== null && dom.parentNode != document) {
-        dom = dom.parentNode;
-        depth++;
-    }
-*/
-    //var result = ((zIndex + 1) << (depth + 1)) + idx;
-    var result = (parentDepth + ((zIndex + 1) / (floorLevel + 1)) + idx) - 0.01 ;
-    //orgDom.setAttribute("_depth", result); // for debugging
+    // In order to handle this value as double anytime, add 0.01 (for Android)
+    var result = parentDepth +  (getZIndex(dom) + 1 + idx) / (1 << floorLevel) + 0.01;
+    //dom.setAttribute("_depth", result); // for debugging
     return result;
 }
 
@@ -599,12 +589,13 @@ function markerOptionsFilter(markerOptions) {
       "y" in markerOptions.icon.anchor) {
       markerOptions.icon.anchor = [markerOptions.icon.anchor.x, markerOptions.icon.anchor.y];
     }
-    if ("infoWindowAnchor" in markerOptions.icon &&
-      !Array.isArray(markerOptions.icon.infoWindowAnchor) &&
-      "x" in markerOptions.icon.infoWindowAnchor &&
-      "y" in markerOptions.icon.infoWindowAnchor) {
-      markerOptions.icon.infoWindowAnchor = [markerOptions.icon.infoWindowAnchor.x, markerOptions.infoWindowAnchor.anchor.y];
-    }
+  }
+
+  if ("infoWindowAnchor" in markerOptions &&
+    !Array.isArray(markerOptions.infoWindowAnchor) &&
+    "x" in markerOptions.infoWindowAnchor &&
+    "y" in markerOptions.infoWindowAnchor) {
+    markerOptions.infoWindowAnchor = [markerOptions.infoWindowAnchor.x, markerOptions.infoWindowAnchor.anchor.y];
   }
 
   if ("styles" in markerOptions) {
