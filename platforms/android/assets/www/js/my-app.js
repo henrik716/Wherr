@@ -13,6 +13,7 @@ var mainView = myApp.addView('.view-main', {
 
 // Handle Cordova Device Ready Event
 $$(document).on('deviceready', function() {
+	document.addEventListener('deviceready')
     console.log("Device is ready!");
 });
 
@@ -55,10 +56,7 @@ document.addEventListener('deviceready', function () {
         }
  
         GooglePlayServicesCheck.check(success, failure);
-    })
-
-	
-var div = document.getElementById("map_canvas");
+		var div = document.getElementById("map_canvas");
 var map = plugin.google.maps.Map.getMap(div, {
   'mapType': plugin.google.maps.MapTypeId.ROADMAP,
   'controls': {
@@ -112,3 +110,6 @@ var map = plugin.google.maps.Map.getMap(div, {
 map.one(plugin.google.maps.event.MAP_READY, function() {
   console.log("--> map : ready.");
 });
+    })
+
+	
