@@ -7,6 +7,12 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
+    "cordova-plugin-googleplayservices-check": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
     "com.googlemaps.ios": {
       "PACKAGE_NAME": "com.myCompany.Wherr"
     },
@@ -14,12 +20,6 @@
       "API_KEY_FOR_IOS": "AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o",
       "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
       "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
-      "PACKAGE_NAME": "com.myCompany.Wherr"
-    },
-    "cordova-plugin-googleplayservices-check": {
-      "PACKAGE_NAME": "com.myCompany.Wherr"
-    },
-    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.myCompany.Wherr"
     }
   },
