@@ -1,6 +1,6 @@
 document.addEventListener('deviceready', function() {
-	
-	// Starter Google play (nødvendig for android)
+
+    // Starter Google play (nødvendig for android)
     var success = function(response) {
         // response.isGooglePlayServicesAvailable is a boolean value
         response.isGooglePlayServicesAvailable;
@@ -11,9 +11,9 @@ document.addEventListener('deviceready', function() {
     }
 
     GooglePlayServicesCheck.check(success, failure);
-	
-	
-	// Oppretting av kartet
+
+
+    // Oppretting av kartet
     var div = document.getElementById("map_canvas");
     var map = plugin.google.maps.Map.getMap(div, {
         'mapType': plugin.google.maps.MapTypeId.HYBRID,
@@ -69,9 +69,9 @@ document.addEventListener('deviceready', function() {
     map.one(plugin.google.maps.event.MAP_READY, function() {
         console.log("--> map : ready.");
     });
-	
-	// Denne bruker location fra google api for å sette en markør der du er, kanskje ltt unødvendig om vi har enable get location (venstre hjørne i appen).
-	// Men kan være aktuell om vi ikke bruker geolocation fra google lenger.
+
+    // Denne bruker location fra google api for å sette en markør der du er, kanskje ltt unødvendig om vi har enable get location (venstre hjørne i appen).
+    // Men kan være aktuell om vi ikke bruker geolocation fra google lenger.
     var onSuccess = function(location) {
         var msg = ["Current your location:\n",
             "latitude:" + location.latLng.lat,
@@ -94,6 +94,7 @@ document.addEventListener('deviceready', function() {
                 marker.showInfoWindow();
             });
         });
+
     };
 
     var onError = function(msg) {
@@ -104,5 +105,51 @@ document.addEventListener('deviceready', function() {
     button.addEventListener('click', function() {
         map.clear();
         map.getMyLocation(onSuccess, onError);
+    });
+
+
+    // Oppretting av punkter med clustering
+    map.on(plugin.google.maps.event.MAP_READY, function() {
+
+
+        map.addMarkerCluster({
+            markers: utesteder,
+            icons: [{
+                    min: 2,
+                    max: 100,
+                    url: "./img/blue.png",
+                    anchor: {
+                        x: 16,
+                        y: 16
+                    }
+                },
+                {
+                    min: 100,
+                    max: 1000,
+                    url: "./img/purple.png",
+                    anchor: {
+                        x: 16,
+                        y: 16
+                    }
+                },
+                {
+                    min: 1000,
+                    max: 2000,
+                    url: "./img/blue.png",
+                    anchor: {
+                        x: 24,
+                        y: 24
+                    }
+                },
+                {
+                    min: 2000,
+                    url: "./img/purple.png",
+                    anchor: {
+                        x: 32,
+                        y: 32
+                    }
+                },
+            ]
+        });
     });
 });
