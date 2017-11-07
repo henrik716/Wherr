@@ -10,7 +10,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Midtåsen Solvold",
-		"place_id": "ChIJG-5m65rARkYRMxSVnVHF_KA"
+		"place_id": "ChIJG-5m65rARkYRMxSVnVHF_KA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1317198,
@@ -22,7 +23,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rukla",
-		"place_id": "ChIJrXONYpHARkYRKdPNPlGL7yo"
+		"place_id": "ChIJrXONYpHARkYRKdPNPlGL7yo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1273763,
@@ -34,7 +36,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "James Clark Pub & Restaurant AS",
-		"place_id": "ChIJFY0Uk5rARkYRnVeTBO2s2f4"
+		"place_id": "ChIJFY0Uk5rARkYRnVeTBO2s2f4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1302707,
@@ -46,7 +49,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Draaben cafe og bar",
-		"place_id": "ChIJl-Soq5HARkYR-x1iCOrelJE"
+		"place_id": "ChIJl-Soq5HARkYR-x1iCOrelJE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1302643,
@@ -58,7 +62,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygghuset - Sandar Haandverksbryggeri AS",
-		"place_id": "ChIJdWUOiJDARkYRA7mMBKlR2FQ"
+		"place_id": "ChIJdWUOiJDARkYRA7mMBKlR2FQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.127218,
@@ -70,7 +75,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygga 11, Geir Skeie avd Sandefjord",
-		"place_id": "ChIJwavaUJvARkYRdqxZ--67zx8"
+		"place_id": "ChIJwavaUJvARkYRdqxZ--67zx8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1790727,
@@ -82,7 +88,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJy4EUJFzHRkYRfr7YzeBrvhs"
+		"place_id": "ChIJy4EUJFzHRkYRfr7YzeBrvhs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1478352,
@@ -94,7 +101,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Haukerød Puben",
-		"place_id": "ChIJJ-C-hdvARkYRju6sC_sn7lA"
+		"place_id": "ChIJJ-C-hdvARkYRju6sC_sn7lA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1378617,
@@ -106,7 +114,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fjordkjelleren Bryggeri",
-		"place_id": "ChIJHYSA_ujARkYRffyYsrbxupQ"
+		"place_id": "ChIJHYSA_ujARkYRffyYsrbxupQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1302733,
@@ -118,7 +127,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "dråbe Kulturbar",
-		"place_id": "ChIJl-Soq5HARkYRVArFmJrFGY4"
+		"place_id": "ChIJl-Soq5HARkYRVArFmJrFGY4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.128342,
@@ -130,7 +140,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kurbadet",
-		"place_id": "ChIJVd8P3prARkYRAg1qXlbXouw"
+		"place_id": "ChIJVd8P3prARkYRAg1qXlbXouw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.31216,
@@ -142,7 +153,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "uncle Oskar",
-		"place_id": "ChIJARzgOqrBdUYRWVzhG62R6pc"
+		"place_id": "ChIJARzgOqrBdUYRWVzhG62R6pc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.310674,
@@ -154,7 +166,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Niveau",
-		"place_id": "ChIJS1Uh6qnBdUYRf8MohoHY-LU"
+		"place_id": "ChIJS1Uh6qnBdUYRf8MohoHY-LU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.340109,
@@ -166,7 +179,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fregatten Ytteren",
-		"place_id": "ChIJ_4MsrczBdUYRRkzMNHNop7A"
+		"place_id": "ChIJ_4MsrczBdUYRRkzMNHNop7A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.3109348,
@@ -178,7 +192,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Koks",
-		"place_id": "ChIJbXAqlanBdUYRMn67j2sawII"
+		"place_id": "ChIJbXAqlanBdUYRMn67j2sawII",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.3096095,
@@ -190,7 +205,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Saga Bar",
-		"place_id": "ChIJ5bS-VwfBdUYRo4x_1yoTmkU"
+		"place_id": "ChIJ5bS-VwfBdUYRo4x_1yoTmkU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2058796,
@@ -202,7 +218,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "La Bodega - Spanish tapas restraurant in Skien",
-		"place_id": "ChIJi98qTSwhR0YRQsaBW-1_TKI"
+		"place_id": "ChIJi98qTSwhR0YRQsaBW-1_TKI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2072127,
@@ -214,7 +231,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lund Tangen pub AS",
-		"place_id": "ChIJH3y-BS0hR0YRj-a4_3UMNLw"
+		"place_id": "ChIJH3y-BS0hR0YRj-a4_3UMNLw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2071332,
@@ -226,7 +244,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "New Mets Sportsbar AS",
-		"place_id": "ChIJ0SYujSwhR0YRxQIeRFZec8U"
+		"place_id": "ChIJ0SYujSwhR0YRxQIeRFZec8U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2100116,
@@ -238,7 +257,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Parkbiografen",
-		"place_id": "ChIJsSe-0dImR0YRZDfu0STg-yA"
+		"place_id": "ChIJsSe-0dImR0YRZDfu0STg-yA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2073202,
@@ -250,7 +270,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Handelstorget Landhandel & Bar",
-		"place_id": "ChIJLY107SwhR0YRzkLdvYWEjuU"
+		"place_id": "ChIJLY107SwhR0YRzkLdvYWEjuU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.208634,
@@ -262,7 +283,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BAR Skien AS",
-		"place_id": "ChIJlSu2uSwhR0YRfKWUmF06riQ"
+		"place_id": "ChIJlSu2uSwhR0YRfKWUmF06riQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2093966,
@@ -274,7 +296,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gimle pub Skien",
-		"place_id": "ChIJA0oCKy0hR0YR_nzjgOS6yEo"
+		"place_id": "ChIJA0oCKy0hR0YR_nzjgOS6yEo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2082356,
@@ -286,7 +309,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Folque Café",
-		"place_id": "ChIJYe813CwhR0YRq21L07lhEg4"
+		"place_id": "ChIJYe813CwhR0YRq21L07lhEg4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2087497,
@@ -298,7 +322,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mariannes Bistro - Skien",
-		"place_id": "ChIJ7_djzywhR0YR8buoFMfBDT4"
+		"place_id": "ChIJ7_djzywhR0YR8buoFMfBDT4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2073315,
@@ -310,7 +335,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Glasshjørnet pub og nattklubb",
-		"place_id": "ChIJze9PkiwhR0YRyhlQOhQlk08"
+		"place_id": "ChIJze9PkiwhR0YRyhlQOhQlk08",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2037224,
@@ -322,7 +348,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hamburgskuret",
-		"place_id": "ChIJ-wa63ishR0YRAlGuw7ZNaDg"
+		"place_id": "ChIJ-wa63ishR0YRAlGuw7ZNaDg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.7427952,
@@ -334,7 +361,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Halsapuben",
-		"place_id": "ChIJtYHeKLaBdUYRwMD1IBnUNRs"
+		"place_id": "ChIJtYHeKLaBdUYRwMD1IBnUNRs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5345479,
@@ -346,7 +374,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Off Pist Lounge",
-		"place_id": "ChIJb_cKdSO7P0YR7ihxkojNRIY"
+		"place_id": "ChIJb_cKdSO7P0YR7ihxkojNRIY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5358286,
@@ -358,7 +387,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Recepten",
-		"place_id": "ChIJF3wSqiO7P0YRRKAuaGHsn7Y"
+		"place_id": "ChIJF3wSqiO7P0YRRKAuaGHsn7Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.535995,
@@ -370,7 +400,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skibaren",
-		"place_id": "ChIJF3wSqiO7P0YRQwNjrzUhSBE"
+		"place_id": "ChIJF3wSqiO7P0YRQwNjrzUhSBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5471533,
@@ -382,7 +413,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Havsdalen, Geilo Holiday",
-		"place_id": "ChIJx6_BjB27P0YRVLBTJRZSbRM"
+		"place_id": "ChIJx6_BjB27P0YRVLBTJRZSbRM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5474991,
@@ -394,7 +426,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gunvald Haugesplass",
-		"place_id": "ChIJ17a8gBq7P0YRP4HFw4zuVAQ"
+		"place_id": "ChIJ17a8gBq7P0YRP4HFw4zuVAQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2589571,
@@ -406,7 +439,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gutenberg Pub",
-		"place_id": "ChIJm1AfhOsJO0YRmqFPOd4hE2Q"
+		"place_id": "ChIJm1AfhOsJO0YRmqFPOd4hE2Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2801848,
@@ -418,7 +452,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Karmøy Kystkultursenter",
-		"place_id": "ChIJn9_iyCEKO0YR7EBkgex758I"
+		"place_id": "ChIJn9_iyCEKO0YR7EBkgex758I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2801848,
@@ -430,7 +465,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mannes Pub",
-		"place_id": "ChIJn9_iyCEKO0YRQbMOQzEjnrc"
+		"place_id": "ChIJn9_iyCEKO0YRQbMOQzEjnrc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2453044,
@@ -442,7 +478,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tove annie Gård",
-		"place_id": "ChIJya35-sQJO0YRDSQls1SB1gw"
+		"place_id": "ChIJya35-sQJO0YRDSQls1SB1gw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.629836,
@@ -454,7 +491,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jegerstugu Café og Bar",
-		"place_id": "ChIJTeKcQV6UP0YRUaZkYJnCl0M"
+		"place_id": "ChIJTeKcQV6UP0YRUaZkYJnCl0M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3557872,
@@ -466,7 +504,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mamma Mia Restaurant AS",
-		"place_id": "ChIJv_HhRza7QUYR8vsXC_vghko"
+		"place_id": "ChIJv_HhRza7QUYR8vsXC_vghko",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3669806,
@@ -478,7 +517,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Selveste Landemerke",
-		"place_id": "ChIJoxRi1EO7QUYRNzlJq6kdiBE"
+		"place_id": "ChIJoxRi1EO7QUYRNzlJq6kdiBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4744483,
@@ -490,7 +530,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kabb",
-		"place_id": "ChIJLaK-u0DaFkYRAGqQNOu-94k"
+		"place_id": "ChIJLaK-u0DaFkYRAGqQNOu-94k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4719432,
@@ -502,7 +543,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Steinovnen Bar & Pizzeria",
-		"place_id": "ChIJRaHdE0TaFkYR4RwodzZRapo"
+		"place_id": "ChIJRaHdE0TaFkYR4RwodzZRapo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.473573,
@@ -514,7 +556,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hoffmann Café & Bar",
-		"place_id": "ChIJMUlEskDaFkYRlKVlX6X4SRw"
+		"place_id": "ChIJMUlEskDaFkYRlKVlX6X4SRw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4712087,
@@ -526,7 +569,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brooklyn - 24 / 26 -",
-		"place_id": "ChIJRxG2HUfaFkYR2-1aUca3Uik"
+		"place_id": "ChIJRxG2HUfaFkYR2-1aUca3Uik",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4712571,
@@ -538,7 +582,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dirty Nelly Irish Pub",
-		"place_id": "ChIJwXJD8DjaFkYRsJhsr1XlCyo"
+		"place_id": "ChIJwXJD8DjaFkYRsJhsr1XlCyo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.474185,
@@ -550,7 +595,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "MILK Bar & Lounge",
-		"place_id": "ChIJo8f2pUDaFkYRmajtfcwIFmU"
+		"place_id": "ChIJo8f2pUDaFkYRmajtfcwIFmU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4696463,
@@ -562,7 +608,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Molo Brew AS",
-		"place_id": "ChIJ_dXYdjjaFkYRVxA57n5sYuI"
+		"place_id": "ChIJ_dXYdjjaFkYRVxA57n5sYuI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4715292,
@@ -574,7 +621,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cheers AS",
-		"place_id": "ChIJXzu2Y0faFkYRYRA6ZwsAGVo"
+		"place_id": "ChIJXzu2Y0faFkYRYRA6ZwsAGVo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4726825,
@@ -586,7 +634,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Banken Studenthus",
-		"place_id": "ChIJr4X0Y-raFkYRaGFBGMgYbo4"
+		"place_id": "ChIJr4X0Y-raFkYRaGFBGMgYbo4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.471089,
@@ -598,7 +647,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "T Bar & Restaurant",
-		"place_id": "ChIJczGUjjjaFkYRYWe3kNWm9pQ"
+		"place_id": "ChIJczGUjjjaFkYRYWe3kNWm9pQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4713625,
@@ -610,7 +660,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bachus Lounge & Club",
-		"place_id": "ChIJAcO2E0faFkYRjR8yURzf8yE"
+		"place_id": "ChIJAcO2E0faFkYRjR8yURzf8yE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4724729,
@@ -622,7 +673,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rolf Urke Kåre",
-		"place_id": "ChIJu_If3zjaFkYRRsr1Kcc-_cA"
+		"place_id": "ChIJu_If3zjaFkYRRsr1Kcc-_cA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4713851,
@@ -634,7 +686,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fisketorget",
-		"place_id": "ChIJEVAXEUfaFkYR2xoadXk6K3A"
+		"place_id": "ChIJEVAXEUfaFkYR2xoadXk6K3A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4742329,
@@ -646,7 +699,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Smutthullet pub",
-		"place_id": "ChIJ2Q5KxEDaFkYRLcVi7I7Wasw"
+		"place_id": "ChIJ2Q5KxEDaFkYRLcVi7I7Wasw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.465482,
@@ -658,7 +712,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaiser Willhelm Hotel",
-		"place_id": "ChIJ3QEsBinaFkYRKXtXddSJnz8"
+		"place_id": "ChIJ3QEsBinaFkYRKXtXddSJnz8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7700993,
@@ -670,7 +725,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rødberg Burger & Beer",
-		"place_id": "ChIJy9Q0vGY6OkYRqdvziLdg938"
+		"place_id": "ChIJy9Q0vGY6OkYRqdvziLdg938",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7793903,
@@ -682,7 +738,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Camp Nayus",
-		"place_id": "ChIJQ3Fcu3E6OkYRkByo-j-eHfQ"
+		"place_id": "ChIJQ3Fcu3E6OkYRkByo-j-eHfQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7792424,
@@ -694,7 +751,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fyra Brygg",
-		"place_id": "ChIJU2Dmag06OkYRuWpgDS0MK4M"
+		"place_id": "ChIJU2Dmag06OkYRuWpgDS0MK4M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0979261,
@@ -706,7 +764,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Experience Smoothie Bar",
-		"place_id": "ChIJRffZlalmN0YRyYB5SmlyGUA"
+		"place_id": "ChIJRffZlalmN0YRyYB5SmlyGUA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.587773,
@@ -718,7 +777,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dolen Hotel",
-		"place_id": "ChIJeaKCZRxqOEYRlyQtTWilH60"
+		"place_id": "ChIJeaKCZRxqOEYRlyQtTWilH60",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.585802,
@@ -730,7 +790,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Aases nightspots",
-		"place_id": "ChIJ5-QmnRtqOEYRHgeqUmY1R5o"
+		"place_id": "ChIJ5-QmnRtqOEYRHgeqUmY1R5o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.5870516,
@@ -742,7 +803,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "KOMST",
-		"place_id": "ChIJ7yitfRxqOEYRdHq-el0elUY"
+		"place_id": "ChIJ7yitfRxqOEYRdHq-el0elUY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8924617,
@@ -754,7 +816,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Modumstua AS",
-		"place_id": "ChIJ-ZIn1LfhQEYRJvGMhq3TuqA"
+		"place_id": "ChIJ-ZIn1LfhQEYRJvGMhq3TuqA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1331543,
@@ -766,7 +829,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Punktet",
-		"place_id": "ChIJ_WyGsC0XakYRVpLjyqd8o7c"
+		"place_id": "ChIJ_WyGsC0XakYRVpLjyqd8o7c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7257821,
@@ -778,7 +842,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Retro Bar",
-		"place_id": "ChIJwbs3twHQQUYRTZqtYbZ9v4c"
+		"place_id": "ChIJwbs3twHQQUYRTZqtYbZ9v4c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.110138,
@@ -790,7 +855,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tangentenbar.no as",
-		"place_id": "ChIJq7XsCmp2QUYRVeMdBedljtI"
+		"place_id": "ChIJq7XsCmp2QUYRVeMdBedljtI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1100981,
@@ -802,7 +868,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Marius & Joakims Bar",
-		"place_id": "ChIJq7XsCmp2QUYRnqZ_S8MLfzY"
+		"place_id": "ChIJq7XsCmp2QUYRnqZ_S8MLfzY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4121132,
@@ -814,7 +881,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Copa",
-		"place_id": "ChIJGYqdTC2eO0YR61TJLrhfPTo"
+		"place_id": "ChIJGYqdTC2eO0YR61TJLrhfPTo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4119793,
@@ -826,7 +894,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe MM",
-		"place_id": "ChIJlyeDDi2eO0YRrSI8Ii9OqIY"
+		"place_id": "ChIJlyeDDi2eO0YRrSI8Ii9OqIY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4137333,
@@ -838,7 +907,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Irish Viking AS",
-		"place_id": "ChIJkwG_Fi2eO0YRdGKaqWz1eLo"
+		"place_id": "ChIJkwG_Fi2eO0YRdGKaqWz1eLo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4131782,
@@ -850,7 +920,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sportsbaren",
-		"place_id": "ChIJD6-GNS2eO0YRa1s5Zmtm2YE"
+		"place_id": "ChIJD6-GNS2eO0YRa1s5Zmtm2YE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4131305,
@@ -862,7 +933,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stuelands Apothek Pub",
-		"place_id": "ChIJrYiJRy2eO0YRIwqXGJUn2Zk"
+		"place_id": "ChIJrYiJRy2eO0YRIwqXGJUn2Zk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4127772,
@@ -874,7 +946,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Zensa Bar and Nightclub",
-		"place_id": "ChIJV4gKOi2eO0YRvE_S7EzpLvY"
+		"place_id": "ChIJV4gKOi2eO0YRvE_S7EzpLvY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4126592,
@@ -886,7 +959,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rouge Bar and Nightclub",
-		"place_id": "ChIJ_1LPMC2eO0YR8LcLV0UhSfA"
+		"place_id": "ChIJ_1LPMC2eO0YR8LcLV0UhSfA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4121296,
@@ -898,7 +972,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Push",
-		"place_id": "ChIJGYqdTC2eO0YRnNm4OkBWg_k"
+		"place_id": "ChIJGYqdTC2eO0YRnNm4OkBWg_k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4121296,
@@ -910,7 +985,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Flytten",
-		"place_id": "ChIJGYqdTC2eO0YRZQfGc7kwiyg"
+		"place_id": "ChIJGYqdTC2eO0YRZQfGc7kwiyg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4119985,
@@ -922,7 +998,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Samson Bar & Café",
-		"place_id": "ChIJa5pKs9KfO0YRb-d6LCViJ5Y"
+		"place_id": "ChIJa5pKs9KfO0YRb-d6LCViJ5Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4140693,
@@ -934,7 +1011,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rabinowitz Bar",
-		"place_id": "ChIJCVlSEC2eO0YRsVP4C523jsU"
+		"place_id": "ChIJCVlSEC2eO0YRsVP4C523jsU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4129398,
@@ -946,7 +1024,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Winehouse",
-		"place_id": "ChIJX8TbOi2eO0YRjGCe0a5TDEA"
+		"place_id": "ChIJX8TbOi2eO0YRjGCe0a5TDEA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4127244,
@@ -958,7 +1037,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mack-Kjelleren",
-		"place_id": "ChIJiwFSNy2eO0YRH1MX1aBZlL0"
+		"place_id": "ChIJiwFSNy2eO0YRH1MX1aBZlL0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4125345,
@@ -970,7 +1050,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Munkekjelleren",
-		"place_id": "ChIJwyYFSS2eO0YRz42vv6fYSJs"
+		"place_id": "ChIJwyYFSS2eO0YRz42vv6fYSJs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4125213,
@@ -982,7 +1063,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Munkekjelleren AS",
-		"place_id": "ChIJwyYFSS2eO0YRRQyLEGKato0"
+		"place_id": "ChIJwyYFSS2eO0YRRQyLEGKato0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.411118,
@@ -994,7 +1076,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jonas's chill place",
-		"place_id": "ChIJJUNLOdOfO0YRwt78lJH4Bs0"
+		"place_id": "ChIJJUNLOdOfO0YRwt78lJH4Bs0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4119985,
@@ -1006,7 +1089,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Burlesque Bar & Club",
-		"place_id": "ChIJa5pKs9KfO0YR3tAudZSjq-A"
+		"place_id": "ChIJa5pKs9KfO0YR3tAudZSjq-A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4075588,
@@ -1018,7 +1102,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "D'Ale Basement Brewery",
-		"place_id": "ChIJydexY7KfO0YRn3Ss2bvcpoA"
+		"place_id": "ChIJydexY7KfO0YRn3Ss2bvcpoA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.90445,
@@ -1030,7 +1115,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stryn Vertshus",
-		"place_id": "ChIJoSYzG6xiFkYRnXLu3NiNmrU"
+		"place_id": "ChIJoSYzG6xiFkYRnXLu3NiNmrU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.9053855,
@@ -1042,7 +1128,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant 34 - Stryn",
-		"place_id": "ChIJgToN9KtiFkYRNu4kD8JzfBU"
+		"place_id": "ChIJgToN9KtiFkYRNu4kD8JzfBU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1239574,
@@ -1054,7 +1141,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "YesYes Pub",
-		"place_id": "ChIJk7tsI_MsQkYR8zVXT0RItbc"
+		"place_id": "ChIJk7tsI_MsQkYR8zVXT0RItbc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1237512,
@@ -1066,7 +1154,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "På Sporet Pub Hans Werner Sætran",
-		"place_id": "ChIJz2xhtfIsQkYR0L2-xrNccK0"
+		"place_id": "ChIJz2xhtfIsQkYR0L2-xrNccK0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1240362,
@@ -1078,7 +1167,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "La Perla Restaurant Bar",
-		"place_id": "ChIJ131mEPMsQkYRT2QuP9uld9s"
+		"place_id": "ChIJ131mEPMsQkYRT2QuP9uld9s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.6231382,
@@ -1090,7 +1180,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Aunasjø'n",
-		"place_id": "ChIJhzfpO9nYckYRg6_P_mBhGSY"
+		"place_id": "ChIJhzfpO9nYckYRg6_P_mBhGSY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.738974,
@@ -1102,7 +1193,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Panorama Bowling",
-		"place_id": "ChIJsSbZLJ1WEUYRs3TurPtnrhk"
+		"place_id": "ChIJsSbZLJ1WEUYRs3TurPtnrhk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.868488,
@@ -1114,7 +1206,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jensemann og kona",
-		"place_id": "ChIJb9naPAkER0YR4TS7xETEwpY"
+		"place_id": "ChIJb9naPAkER0YR4TS7xETEwpY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8689081,
@@ -1126,7 +1219,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Onkel Oskar Bar",
-		"place_id": "ChIJd0PkFQkER0YRavs20msqoTM"
+		"place_id": "ChIJd0PkFQkER0YRavs20msqoTM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8685864,
@@ -1138,7 +1232,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dose AS (Jensemann)",
-		"place_id": "ChIJb9naPAkER0YRfoNMvW3NBVs"
+		"place_id": "ChIJb9naPAkER0YRfoNMvW3NBVs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8684941,
@@ -1150,7 +1245,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mona's Lille Kragerø",
-		"place_id": "ChIJGRPaJAkER0YRHp1DgDtLd8U"
+		"place_id": "ChIJGRPaJAkER0YRHp1DgDtLd8U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8674438,
@@ -1162,7 +1258,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Galeien",
-		"place_id": "ChIJba850QgER0YR64UyOJPXKYM"
+		"place_id": "ChIJba850QgER0YR64UyOJPXKYM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.6162343,
@@ -1174,7 +1271,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stasjoen Pub",
-		"place_id": "ChIJqx4IgeE_OkYR7xscop8ba1g"
+		"place_id": "ChIJqx4IgeE_OkYR7xscop8ba1g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.296176,
@@ -1186,7 +1284,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Sarpsborg",
-		"place_id": "ChIJTSRw0bAGREYR6by_f-aLqbw"
+		"place_id": "ChIJTSRw0bAGREYR6by_f-aLqbw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.285832,
@@ -1198,7 +1297,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Forty-two Bar & Bowling",
-		"place_id": "ChIJ7zcCCogGREYR0BbSUKV9H80"
+		"place_id": "ChIJ7zcCCogGREYR0BbSUKV9H80",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2837238,
@@ -1210,7 +1310,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Edvarts Nye Pub",
-		"place_id": "ChIJZ8geWoYGREYRbCDKbU3yEEw"
+		"place_id": "ChIJZ8geWoYGREYRbCDKbU3yEEw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.283262,
@@ -1222,7 +1323,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dickens Sarpsborg",
-		"place_id": "ChIJA0le-IYGREYRyFxX5vWnsDw"
+		"place_id": "ChIJA0le-IYGREYRyFxX5vWnsDw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.282592,
@@ -1234,7 +1336,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Up And Down",
-		"place_id": "ChIJNR7AAocGREYRVYXCIB4Ixls"
+		"place_id": "ChIJNR7AAocGREYRVYXCIB4Ixls",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2821975,
@@ -1246,7 +1349,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kirkegata 51 AS",
-		"place_id": "ChIJvWu9GYcGREYRO8JOeQp9rYQ"
+		"place_id": "ChIJvWu9GYcGREYRO8JOeQp9rYQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2830682,
@@ -1258,7 +1362,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar 1016",
-		"place_id": "ChIJObZc_oYGREYRkRhxANl91KU"
+		"place_id": "ChIJObZc_oYGREYRkRhxANl91KU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2835864,
@@ -1270,7 +1375,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJT7COLIQGREYRsFjGrIM3gao"
+		"place_id": "ChIJT7COLIQGREYRsFjGrIM3gao",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2672603,
@@ -1282,7 +1388,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olav's pub",
-		"place_id": "ChIJb6v8s_cDREYRQPh9fMhwq7s"
+		"place_id": "ChIJb6v8s_cDREYRQPh9fMhwq7s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2822323,
@@ -1294,7 +1401,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sportspuben",
-		"place_id": "ChIJyRXDG4cGREYRh4MaXEKsgW0"
+		"place_id": "ChIJyRXDG4cGREYRh4MaXEKsgW0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.282277,
@@ -1306,7 +1414,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nye Neptune pub AS",
-		"place_id": "ChIJK5B9EIcGREYRcmI1_PooeEM"
+		"place_id": "ChIJK5B9EIcGREYRcmI1_PooeEM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2719459,
@@ -1318,7 +1427,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Blå Sports Bar",
-		"place_id": "ChIJW3shXHUGREYRcI5fRtBn0Oc"
+		"place_id": "ChIJW3shXHUGREYRcI5fRtBn0Oc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1107979,
@@ -1330,7 +1440,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Parkering Samsjøen",
-		"place_id": "ChIJ2frdXI3ebEYRqm5hCzF2K2M"
+		"place_id": "ChIJ2frdXI3ebEYRqm5hCzF2K2M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4847335,
@@ -1342,7 +1453,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Espen Sjursæter",
-		"place_id": "ChIJlzh56-UBPUYRnkbx81ccO30"
+		"place_id": "ChIJlzh56-UBPUYRnkbx81ccO30",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.3479708,
@@ -1354,7 +1466,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Naustet Pub",
-		"place_id": "ChIJy3-Gbwy0RkYR-srSTCZYGFg"
+		"place_id": "ChIJy3-Gbwy0RkYR-srSTCZYGFg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7004684,
@@ -1366,7 +1479,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Erik's Grill & Sportsbar",
-		"place_id": "ChIJr5VLQIj0P0YRIlf6g24YoVc"
+		"place_id": "ChIJr5VLQIj0P0YRIlf6g24YoVc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3341367,
@@ -1378,7 +1492,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Verket Pub",
-		"place_id": "ChIJQ7zeYjLcF0YRXZxyN0uN7cU"
+		"place_id": "ChIJQ7zeYjLcF0YRXZxyN0uN7cU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3572668,
@@ -1390,7 +1505,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holken Pub",
-		"place_id": "ChIJd1vLEFDcF0YRnfq840oHGNQ"
+		"place_id": "ChIJd1vLEFDcF0YRnfq840oHGNQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2299267,
@@ -1402,7 +1518,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Sogndal",
-		"place_id": "ChIJQSNXuYv5FUYR8AH05NdI5tM"
+		"place_id": "ChIJQSNXuYv5FUYR8AH05NdI5tM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2313736,
@@ -1414,7 +1531,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Studenthuset Meieriet",
-		"place_id": "ChIJq0yiJ4v5FUYRCo49UZSSgPo"
+		"place_id": "ChIJq0yiJ4v5FUYRCo49UZSSgPo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2297344,
@@ -1426,7 +1544,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sogndal Fjell- og fjordsportsenter",
-		"place_id": "ChIJLTMmR4v5FUYRksbfpPd_E8I"
+		"place_id": "ChIJLTMmR4v5FUYRksbfpPd_E8I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7942868,
@@ -1438,7 +1557,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kippers kafe",
-		"place_id": "ChIJ1fdvG8d2PEYRWtm3WNqU6rg"
+		"place_id": "ChIJ1fdvG8d2PEYRWtm3WNqU6rg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5604203,
@@ -1450,7 +1570,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Juno cafe",
-		"place_id": "ChIJienARtRJQUYRmjWEb2wFeX8"
+		"place_id": "ChIJienARtRJQUYRmjWEb2wFeX8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5693013,
@@ -1462,7 +1583,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Krokstranda Beach",
-		"place_id": "ChIJ754098w3QUYRcRKCExr5csQ"
+		"place_id": "ChIJ754098w3QUYRcRKCExr5csQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5444667,
@@ -1474,7 +1596,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Blacksmith Tavern and Gallery",
-		"place_id": "ChIJv78OYWo2QUYRR37TIiZ5Pv4"
+		"place_id": "ChIJv78OYWo2QUYRR37TIiZ5Pv4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.6292044,
@@ -1486,7 +1609,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tre Brør Kafé og Bar",
-		"place_id": "ChIJkShXor3aPUYRNRploR4gE3E"
+		"place_id": "ChIJkShXor3aPUYRNRploR4gE3E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.6291964,
@@ -1498,7 +1622,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Inside Voss Rock Café",
-		"place_id": "ChIJ51bR-ZbaPUYRogrjhtyD8Mg"
+		"place_id": "ChIJ51bR-ZbaPUYRogrjhtyD8Mg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.6294715,
@@ -1510,7 +1635,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Yazz Lounge & Sportsbar",
-		"place_id": "ChIJOXbhr73aPUYRoyZr8363sYk"
+		"place_id": "ChIJOXbhr73aPUYRoyZr8363sYk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.6276909,
@@ -1522,7 +1648,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Minigolfen Cafe",
-		"place_id": "ChIJJT5o77zaPUYR3ZIzI7_ZdyE"
+		"place_id": "ChIJJT5o77zaPUYR3ZIzI7_ZdyE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.0978476,
@@ -1534,7 +1661,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lærdalsørens HOTEL",
-		"place_id": "ChIJfdVOpoogPkYRBYjo8JBc6dU"
+		"place_id": "ChIJfdVOpoogPkYRBYjo8JBc6dU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7370255,
@@ -1546,7 +1674,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Siholmen BRØGGER",
-		"place_id": "ChIJryuhICBhEkYRvYo1fjb5REY"
+		"place_id": "ChIJryuhICBhEkYRvYo1fjb5REY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7092163,
@@ -1558,7 +1687,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ygdrasil Pub & Glæfs",
-		"place_id": "ChIJDZu6xrlgEkYRXviGEr2TsTg"
+		"place_id": "ChIJDZu6xrlgEkYRXviGEr2TsTg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1376095,
@@ -1570,7 +1700,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fat Tire Garage",
-		"place_id": "ChIJgUe8uKN_N0YRmcQmgw6i80A"
+		"place_id": "ChIJgUe8uKN_N0YRmcQmgw6i80A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0511082,
@@ -1582,7 +1713,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Grand Farris",
-		"place_id": "ChIJQ78ZXL3pRkYRRJgR12VZe5A"
+		"place_id": "ChIJQ78ZXL3pRkYRRJgR12VZe5A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0497525,
@@ -1594,7 +1726,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Becks Brasserie & Bar Larvik",
-		"place_id": "ChIJ2e6FWaPpRkYR0kP-4bXrzMI"
+		"place_id": "ChIJ2e6FWaPpRkYR0kP-4bXrzMI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0513118,
@@ -1606,7 +1739,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Larvik microbrewery AS",
-		"place_id": "ChIJL9KrNrvpRkYRfKHMTxAsBr8"
+		"place_id": "ChIJL9KrNrvpRkYRfKHMTxAsBr8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0529774,
@@ -1618,7 +1752,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Glassmestern Bar and lunch",
-		"place_id": "ChIJpfu_p73pRkYRTfswbO1FxTg"
+		"place_id": "ChIJpfu_p73pRkYRTfswbO1FxTg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0538363,
@@ -1630,7 +1765,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Thorstad underholdning PS",
-		"place_id": "ChIJoaLNk73pRkYRw44fBY31AAo"
+		"place_id": "ChIJoaLNk73pRkYRw44fBY31AAo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9977178,
@@ -1642,7 +1778,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tordenskiold Pub",
-		"place_id": "ChIJSyc1mFbpRkYR04-mAhPzW5Y"
+		"place_id": "ChIJSyc1mFbpRkYR04-mAhPzW5Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9973443,
@@ -1654,7 +1791,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tatiana",
-		"place_id": "ChIJ-5NDhFbpRkYRm9LOmSynA94"
+		"place_id": "ChIJ-5NDhFbpRkYRm9LOmSynA94",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0521124,
@@ -1666,7 +1804,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "To Sko Bar & Vinhus",
-		"place_id": "ChIJz9CQer3pRkYR8uB9Pa253Pg"
+		"place_id": "ChIJz9CQer3pRkYR8uB9Pa253Pg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4048526,
@@ -1678,7 +1817,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ågotnes Hotel",
-		"place_id": "ChIJYUboBTfhPEYRybrGvLljRxw"
+		"place_id": "ChIJYUboBTfhPEYRybrGvLljRxw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.426444,
@@ -1690,7 +1830,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Roger Landro's casa.",
-		"place_id": "ChIJSSus-uPgPEYR9A5Flo3lQE0"
+		"place_id": "ChIJSSus-uPgPEYR9A5Flo3lQE0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1373525,
@@ -1702,7 +1843,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Leirvik Kro og Motell AS",
-		"place_id": "ChIJwTjgqq18PUYRiKkUYwBxBTg"
+		"place_id": "ChIJwTjgqq18PUYRiKkUYwBxBTg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3265056,
@@ -1714,7 +1856,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjartan's Bar",
-		"place_id": "ChIJZ41d4HTmPEYRVKIHtqARf0s"
+		"place_id": "ChIJZ41d4HTmPEYRVKIHtqARf0s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1426873,
@@ -1726,7 +1869,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Torget pub",
-		"place_id": "ChIJC7hnULyBQUYRtbeDAn4KTNg"
+		"place_id": "ChIJC7hnULyBQUYRtbeDAn4KTNg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1424041,
@@ -1738,7 +1882,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Haven café and pub AS",
-		"place_id": "ChIJZ_fArr2BQUYRzaJMVVnhG_o"
+		"place_id": "ChIJZ_fArr2BQUYRzaJMVVnhG_o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1421244,
@@ -1750,7 +1895,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bowlers Jessheim As",
-		"place_id": "ChIJZxbLXLyBQUYR2ITUl40A3Rg"
+		"place_id": "ChIJZxbLXLyBQUYR2ITUl40A3Rg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1430244,
@@ -1762,7 +1908,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Castello",
-		"place_id": "ChIJaQqhq72BQUYRJtx2yN1OiBI"
+		"place_id": "ChIJaQqhq72BQUYRJtx2yN1OiBI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1425089,
@@ -1774,7 +1921,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulating",
-		"place_id": "ChIJTeKlkL2BQUYRSjzNONHqldk"
+		"place_id": "ChIJTeKlkL2BQUYRSjzNONHqldk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5968186,
@@ -1786,7 +1934,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ytter'n Pub",
-		"place_id": "ChIJ-XMiD0nBQUYRm3JC9En0uxw"
+		"place_id": "ChIJ-XMiD0nBQUYRm3JC9En0uxw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.293475,
@@ -1798,7 +1947,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kafe Koselig",
-		"place_id": "ChIJP-fdcGD9EkYRh66km0SqC6U"
+		"place_id": "ChIJP-fdcGD9EkYRh66km0SqC6U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0651965,
@@ -1810,7 +1960,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Charlie's Pub",
-		"place_id": "ChIJW_tAPYPOO0YREP42IboxdFk"
+		"place_id": "ChIJW_tAPYPOO0YREP42IboxdFk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.9668262,
@@ -1822,7 +1973,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barila pub",
-		"place_id": "ChIJozfqxHQUz0UR6DlkrUMcx9A"
+		"place_id": "ChIJozfqxHQUz0UR6DlkrUMcx9A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8306332,
@@ -1834,7 +1986,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Knut A. Pevik",
-		"place_id": "ChIJ0xI3ALNrQUYRLpKpgyzgtdQ"
+		"place_id": "ChIJ0xI3ALNrQUYRLpKpgyzgtdQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5996331,
@@ -1846,7 +1999,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brattvåg Bowling AS",
-		"place_id": "ChIJFQjrMA7MFkYRmxw3DgVJBmk"
+		"place_id": "ChIJFQjrMA7MFkYRmxw3DgVJBmk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.6130746,
@@ -1858,7 +2012,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vestre's Backyard",
-		"place_id": "ChIJMXjoDmzMFkYRPr7uhEUeTf0"
+		"place_id": "ChIJMXjoDmzMFkYRPr7uhEUeTf0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.322585,
@@ -1870,7 +2025,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Underberget",
-		"place_id": "ChIJDzMR18v6PEYRYl83nsJ4Png"
+		"place_id": "ChIJDzMR18v6PEYRYl83nsJ4Png",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.991726,
@@ -1882,7 +2038,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skjærgårdshuset",
-		"place_id": "ChIJF7aHgLnKO0YRb9fnI4evQD0"
+		"place_id": "ChIJF7aHgLnKO0YRb9fnI4evQD0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.3220351,
@@ -1894,7 +2051,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mea Pub",
-		"place_id": "ChIJ0f4Wj_XB3EUR-THyxqnSdZ0"
+		"place_id": "ChIJ0f4Wj_XB3EUR-THyxqnSdZ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.3243387,
@@ -1906,7 +2064,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Riggen Restaurant & Bar",
-		"place_id": "ChIJMWAEph_C3EURsp3to6vXJBU"
+		"place_id": "ChIJMWAEph_C3EURsp3to6vXJBU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.0455467,
@@ -1918,7 +2077,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Svingen cafe",
-		"place_id": "ChIJz3CHfQ8Y20URYz6BLIgQqRQ"
+		"place_id": "ChIJz3CHfQ8Y20URYz6BLIgQqRQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.4664178,
@@ -1930,7 +2090,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Onkel Oskar (Namsos Bar AS)",
-		"place_id": "ChIJYfz3Jy3mckYRaczNKUh8rUo"
+		"place_id": "ChIJYfz3Jy3mckYRaczNKUh8rUo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.4389702,
@@ -1942,7 +2103,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Småværet Pub og Kafe",
-		"place_id": "ChIJEzZe1I4zDUYRxjr8ufYU98c"
+		"place_id": "ChIJEzZe1I4zDUYRxjr8ufYU98c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4403419,
@@ -1954,7 +2116,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Grand Royal",
-		"place_id": "ChIJaccoRyi-20URNSEGzUBredY"
+		"place_id": "ChIJaccoRyi-20URNSEGzUBredY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4383299,
@@ -1966,7 +2129,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kafferiet Restaurant & Bar",
-		"place_id": "ChIJfUjlwim-20UROPB6mh0NK9g"
+		"place_id": "ChIJfUjlwim-20UROPB6mh0NK9g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4385874,
@@ -1978,7 +2142,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Narvikguten Pub",
-		"place_id": "ChIJXUv6xim-20URVKfk0iWk5co"
+		"place_id": "ChIJXUv6xim-20URVKfk0iWk5co",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.439653,
@@ -1990,7 +2155,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Astrup",
-		"place_id": "ChIJtWcF1Sm-20URB7vvlNjZRec"
+		"place_id": "ChIJtWcF1Sm-20URB7vvlNjZRec",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4358848,
@@ -2002,7 +2168,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Enter Bar",
-		"place_id": "ChIJdQGoDiq-20UReuU4HVF2Tig"
+		"place_id": "ChIJdQGoDiq-20UReuU4HVF2Tig",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4356484,
@@ -2014,7 +2181,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hinsides Studentkro",
-		"place_id": "ChIJHUaC2Cu-20URlQcf6ZDHPO4"
+		"place_id": "ChIJHUaC2Cu-20URlQcf6ZDHPO4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.4377508,
@@ -2026,7 +2194,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trappa Sports Bar",
-		"place_id": "ChIJQ-eV7ym-20UR-ASXYG6S3ho"
+		"place_id": "ChIJQ-eV7ym-20UR-ASXYG6S3ho",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5051349,
@@ -2038,7 +2207,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjellern",
-		"place_id": "ChIJJbdCgw23FkYRL5jImxGn0nk"
+		"place_id": "ChIJJbdCgw23FkYRL5jImxGn0nk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5051349,
@@ -2050,7 +2220,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjellern",
-		"place_id": "ChIJJbdCgw23FkYRAYaG9SRWZxg"
+		"place_id": "ChIJJbdCgw23FkYRAYaG9SRWZxg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4131349,
@@ -2062,7 +2233,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Saxon King",
-		"place_id": "ChIJ9xxLNLG0RkYRdrnPrmsrx64"
+		"place_id": "ChIJ9xxLNLG0RkYRdrnPrmsrx64",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4159597,
@@ -2074,7 +2246,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Horten Mikrobryggeri",
-		"place_id": "ChIJUX1t87O0RkYRPqOqnrVIDkA"
+		"place_id": "ChIJUX1t87O0RkYRPqOqnrVIDkA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4171052,
@@ -2086,7 +2259,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kroa",
-		"place_id": "ChIJPSfUp7O0RkYRM877tWRKf30"
+		"place_id": "ChIJPSfUp7O0RkYRM877tWRKf30",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4039205,
@@ -2098,7 +2272,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ulles Party Bar",
-		"place_id": "ChIJOffu0MC0RkYR3BK0mS0e2BY"
+		"place_id": "ChIJOffu0MC0RkYR3BK0mS0e2BY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0206407,
@@ -2110,7 +2285,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Treungen Guest",
-		"place_id": "ChIJhdlsLsZiR0YRQvhUrqcNHRU"
+		"place_id": "ChIJhdlsLsZiR0YRQvhUrqcNHRU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.457982,
@@ -2122,7 +2298,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Tyholmen",
-		"place_id": "ChIJW7Rms92UR0YRtE7xPzb_JPw"
+		"place_id": "ChIJW7Rms92UR0YRtE7xPzb_JPw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4592764,
@@ -2134,7 +2311,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Madam Reiersen AS",
-		"place_id": "ChIJuZIkvd2UR0YRvxG-s-reYwk"
+		"place_id": "ChIJuZIkvd2UR0YRvxG-s-reYwk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4584391,
@@ -2146,7 +2324,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barrique øl og Vinstue",
-		"place_id": "ChIJ4VbUsd2UR0YR_ZQkXDbnrv8"
+		"place_id": "ChIJ4VbUsd2UR0YR_ZQkXDbnrv8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4519353,
@@ -2158,7 +2337,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Moringen",
-		"place_id": "ChIJEQ-mFtmUR0YRqWxiFIcZs7U"
+		"place_id": "ChIJEQ-mFtmUR0YRqWxiFIcZs7U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4594887,
@@ -2170,7 +2350,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fusion of Asia",
-		"place_id": "ChIJMx3MlN2UR0YRws95L9BWOpE"
+		"place_id": "ChIJMx3MlN2UR0YRws95L9BWOpE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4589657,
@@ -2182,7 +2363,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Andevinge",
-		"place_id": "ChIJV5cNh92UR0YRaOdO7zEqHBE"
+		"place_id": "ChIJV5cNh92UR0YRaOdO7zEqHBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4602529,
@@ -2194,7 +2376,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "No1 Sportsbar",
-		"place_id": "ChIJCYf-jt2UR0YR0hBQb1zaYC8"
+		"place_id": "ChIJCYf-jt2UR0YR0hBQb1zaYC8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4602553,
@@ -2206,7 +2389,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Annen Etage Cocktailbar",
-		"place_id": "ChIJpY4Bj92UR0YRw3IKzBea6Us"
+		"place_id": "ChIJpY4Bj92UR0YRw3IKzBea6Us",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4589626,
@@ -2218,7 +2402,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Andevinge",
-		"place_id": "ChIJc6qwpN2UR0YR_gkMD7z9QR8"
+		"place_id": "ChIJc6qwpN2UR0YR_gkMD7z9QR8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.3850313,
@@ -2230,7 +2415,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lindheim Ølkompani",
-		"place_id": "ChIJ2bHU7DE2R0YRY0baVpItBSg"
+		"place_id": "ChIJ2bHU7DE2R0YRY0baVpItBSg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.705231,
@@ -2242,7 +2428,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dampen Cafe",
-		"place_id": "ChIJkx74yrZAQUYRQtrdAtwX7rc"
+		"place_id": "ChIJkx74yrZAQUYRQtrdAtwX7rc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6823763,
@@ -2254,7 +2441,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Losen på Sætre",
-		"place_id": "ChIJnzreJztHQUYRQ-ayiifr37A"
+		"place_id": "ChIJnzreJztHQUYRQ-ayiifr37A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6769403,
@@ -2266,7 +2454,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hammerborg Bar & Grill",
-		"place_id": "ChIJS_RM5jxHQUYRwedu1yvCvoQ"
+		"place_id": "ChIJS_RM5jxHQUYRwedu1yvCvoQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6761605,
@@ -2278,7 +2467,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Midtskogstubben Film- og Pianobar",
-		"place_id": "ChIJraa3AD1HQUYREqpM_-y_xdw"
+		"place_id": "ChIJraa3AD1HQUYREqpM_-y_xdw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.184675,
@@ -2290,7 +2480,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "ÅPENBARTA",
-		"place_id": "ChIJL4zAB7S7RkYRaubdHmC55AY"
+		"place_id": "ChIJL4zAB7S7RkYRaubdHmC55AY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1860051,
@@ -2302,7 +2493,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Toppen-Bar",
-		"place_id": "ChIJdUy4brS7RkYRfbZ1YHt1p_Q"
+		"place_id": "ChIJdUy4brS7RkYRfbZ1YHt1p_Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.793425,
@@ -2314,7 +2506,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Seb's Hotel",
-		"place_id": "ChIJw8sKxDjhQUYRhF2K_HZUjjY"
+		"place_id": "ChIJw8sKxDjhQUYRhF2K_HZUjjY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7953324,
@@ -2326,7 +2519,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gregers",
-		"place_id": "ChIJw7uwuTjhQUYRV9ZyXTUupSk"
+		"place_id": "ChIJw7uwuTjhQUYRV9ZyXTUupSk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7940458,
@@ -2338,7 +2532,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hamar Sportsbar",
-		"place_id": "ChIJSf2vqj7hQUYRkDRfPvFaeeE"
+		"place_id": "ChIJSf2vqj7hQUYRkDRfPvFaeeE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7926424,
@@ -2350,7 +2545,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nagomi",
-		"place_id": "ChIJR5kS4zjhQUYRqZah9cTXFf0"
+		"place_id": "ChIJR5kS4zjhQUYRqZah9cTXFf0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.793447,
@@ -2362,7 +2558,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Seb`s Hotel",
-		"place_id": "ChIJcadtxDjhQUYR8L6mWnwbl3E"
+		"place_id": "ChIJcadtxDjhQUYR8L6mWnwbl3E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7934931,
@@ -2374,7 +2571,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "district 23",
-		"place_id": "ChIJSciKxDjhQUYRQ6JC3_1mNNI"
+		"place_id": "ChIJSciKxDjhQUYRQ6JC3_1mNNI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7956462,
@@ -2386,7 +2584,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brødrene Jacobsen vinbar",
-		"place_id": "ChIJMwsqDDzhQUYRLK4bW3zKQvE"
+		"place_id": "ChIJMwsqDDzhQUYRLK4bW3zKQvE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7956462,
@@ -2398,7 +2597,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Docile Kontor & Pub",
-		"place_id": "ChIJMwsqDDzhQUYRoPsuzYjU_gc"
+		"place_id": "ChIJMwsqDDzhQUYRoPsuzYjU_gc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.793174,
@@ -2410,7 +2610,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nellie Pub",
-		"place_id": "ChIJPWd03TjhQUYRsjwG3ZQQOcI"
+		"place_id": "ChIJPWd03TjhQUYRsjwG3ZQQOcI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7935334,
@@ -2422,7 +2623,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gullkorn Ølbar",
-		"place_id": "ChIJO3RrIznhQUYRwiKwF6HPux4"
+		"place_id": "ChIJO3RrIznhQUYRwiKwF6HPux4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7950196,
@@ -2434,7 +2636,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ballroom Hamar",
-		"place_id": "ChIJSf2vqj7hQUYRgxGjLAj0--M"
+		"place_id": "ChIJSf2vqj7hQUYRgxGjLAj0--M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7946676,
@@ -2446,7 +2649,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Innimellom AS",
-		"place_id": "ChIJcU7h-zvhQUYRCmrJ-IBlWhQ"
+		"place_id": "ChIJcU7h-zvhQUYRCmrJ-IBlWhQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.794575,
@@ -2458,7 +2662,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heia Hamar",
-		"place_id": "ChIJK5BN-jvhQUYRB_RJBB7n3N4"
+		"place_id": "ChIJK5BN-jvhQUYRB_RJBB7n3N4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9556147,
@@ -2470,7 +2675,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Martins",
-		"place_id": "ChIJ042iR6B8QUYRlNG6e8bLh_Q"
+		"place_id": "ChIJ042iR6B8QUYRlNG6e8bLh_Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9555172,
@@ -2482,7 +2688,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "rePUBlic Whisky Bar",
-		"place_id": "ChIJSzx1RyB7QUYR4ks5UnM-obE"
+		"place_id": "ChIJSzx1RyB7QUYR4ks5UnM-obE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9544425,
@@ -2494,7 +2701,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lillestrøm Kulturpub AS",
-		"place_id": "ChIJg7uciaB8QUYR6mapYQZyHBc"
+		"place_id": "ChIJg7uciaB8QUYR6mapYQZyHBc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.957457,
@@ -2506,7 +2714,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Raus Bar and Bistro",
-		"place_id": "ChIJaXG5iZ98QUYR8i2bmC1Erg8"
+		"place_id": "ChIJaXG5iZ98QUYR8i2bmC1Erg8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9557262,
@@ -2518,7 +2727,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulating Pub & Restaurant",
-		"place_id": "ChIJK_5PtaF8QUYRWougkMoAAxU"
+		"place_id": "ChIJK_5PtaF8QUYRWougkMoAAxU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9556186,
@@ -2530,7 +2740,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barcode Lounge og nattklubb",
-		"place_id": "ChIJnziVSKB8QUYRyyHParu3edc"
+		"place_id": "ChIJnziVSKB8QUYRyyHParu3edc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9553158,
@@ -2542,7 +2753,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mirabel Lillestrøm",
-		"place_id": "ChIJ0ymNRKB8QUYRzxfHiQT7U-4"
+		"place_id": "ChIJ0ymNRKB8QUYRzxfHiQT7U-4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.957384,
@@ -2554,7 +2766,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jekyll and Hyde Public House",
-		"place_id": "ChIJD7DZgZ98QUYRKLFZSu_CkqY"
+		"place_id": "ChIJD7DZgZ98QUYRKLFZSu_CkqY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9569923,
@@ -2566,7 +2779,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "KLIMT NATTKLUBB",
-		"place_id": "ChIJkZWUKKB8QUYRUcMaICU14NU"
+		"place_id": "ChIJkZWUKKB8QUYRUcMaICU14NU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9554518,
@@ -2578,7 +2792,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Strøm Bar",
-		"place_id": "ChIJTxtjTp58QUYRLBoOs63fHDE"
+		"place_id": "ChIJTxtjTp58QUYRLBoOs63fHDE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9539289,
@@ -2590,7 +2805,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skedsmo Blues Club",
-		"place_id": "ChIJz9-YjaB8QUYRX3zbSbiMkD4"
+		"place_id": "ChIJz9-YjaB8QUYRX3zbSbiMkD4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.024353,
@@ -2602,7 +2818,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Frogner Lunsjbar AS",
-		"place_id": "ChIJJ7KV0TJ8QUYR1EuOI9JUVMw"
+		"place_id": "ChIJJ7KV0TJ8QUYR1EuOI9JUVMw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9554972,
@@ -2614,7 +2831,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Republic Lillestrøm",
-		"place_id": "ChIJD2KGtqF8QUYRpRaXwnWEOHE"
+		"place_id": "ChIJD2KGtqF8QUYRpRaXwnWEOHE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.118666,
@@ -2626,7 +2844,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kongens Brygge",
-		"place_id": "ChIJCWNfvNsSREYRPWJK3xymSrk"
+		"place_id": "ChIJCWNfvNsSREYRPWJK3xymSrk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1229588,
@@ -2638,7 +2857,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Feelgod",
-		"place_id": "ChIJSQ8BqcQSREYRYZPCJg5g_Sk"
+		"place_id": "ChIJSQ8BqcQSREYRYZPCJg5g_Sk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.120132,
@@ -2650,7 +2870,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Halden microbrewery",
-		"place_id": "ChIJ5VwrctsSREYRypKAo74wmbw"
+		"place_id": "ChIJ5VwrctsSREYRypKAo74wmbw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1204863,
@@ -2662,7 +2883,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Campino",
-		"place_id": "ChIJB0svm9wSREYRAB8U55SPRBI"
+		"place_id": "ChIJB0svm9wSREYRAB8U55SPRBI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1192294,
@@ -2674,7 +2896,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggerhuset",
-		"place_id": "ChIJpQpQgdsSREYRRexLPfOB5sw"
+		"place_id": "ChIJpQpQgdsSREYRRexLPfOB5sw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1230418,
@@ -2686,7 +2909,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O´Brian",
-		"place_id": "ChIJBxpWqMQSREYRZijhVc2deBc"
+		"place_id": "ChIJBxpWqMQSREYRZijhVc2deBc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1205232,
@@ -2698,7 +2922,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fredrikshald Bar",
-		"place_id": "ChIJ0WkhF9sSREYRMZtZfwJP40w"
+		"place_id": "ChIJ0WkhF9sSREYRMZtZfwJP40w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1201198,
@@ -2710,7 +2935,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Siste Reis Pub",
-		"place_id": "ChIJXT8khNwSREYRRT6_j29v87o"
+		"place_id": "ChIJXT8khNwSREYRRT6_j29v87o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8607507,
@@ -2722,7 +2948,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lier Paintball Park",
-		"place_id": "ChIJ7V22V80ZQUYR0m0iPklfyRo"
+		"place_id": "ChIJ7V22V80ZQUYR0m0iPklfyRo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3761841,
@@ -2734,7 +2961,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tønna",
-		"place_id": "ChIJ55wnTb7SF0YRFiKNVxMFj8M"
+		"place_id": "ChIJ55wnTb7SF0YRFiKNVxMFj8M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.73963,
@@ -2746,7 +2974,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Casa La Bekkis",
-		"place_id": "ChIJf0wNe-37QUYR8pi-L-6ECZ8"
+		"place_id": "ChIJf0wNe-37QUYR8pi-L-6ECZ8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4833356,
@@ -2758,7 +2987,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lars Arne Veka",
-		"place_id": "ChIJmd3O7WfjO0YRncZjIKoRXXQ"
+		"place_id": "ChIJmd3O7WfjO0YRncZjIKoRXXQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4836943,
@@ -2770,7 +3000,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Wanke klubben",
-		"place_id": "ChIJP2xiG2jjO0YRG9lIc7pHJQM"
+		"place_id": "ChIJP2xiG2jjO0YRG9lIc7pHJQM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6499978,
@@ -2782,7 +3013,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Collection Hotel Aurora",
-		"place_id": "ChIJMQlqN1PExEURZbBm7p5Rttw"
+		"place_id": "ChIJMQlqN1PExEURZbBm7p5Rttw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6472048,
@@ -2794,7 +3026,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel The Edge",
-		"place_id": "ChIJJdbn5azFxEURzEBLIepn5gc"
+		"place_id": "ChIJJdbn5azFxEURzEBLIepn5gc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6489615,
@@ -2806,7 +3039,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "CHARLY'S RESTAURANT & BAR",
-		"place_id": "ChIJUfQbs6zFxEURaxMRdTLVMeo"
+		"place_id": "ChIJUfQbs6zFxEURaxMRdTLVMeo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6489929,
@@ -2818,7 +3052,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rorbua Pub",
-		"place_id": "ChIJUfQbs6zFxEURru44l0hiIKY"
+		"place_id": "ChIJUfQbs6zFxEURru44l0hiIKY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.64694,
@@ -2830,7 +3065,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Blårock Cafe",
-		"place_id": "ChIJ1R7--KzFxEURL3jwnkLzkKg"
+		"place_id": "ChIJ1R7--KzFxEURL3jwnkLzkKg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6460185,
@@ -2842,7 +3078,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Studenthouse Driv",
-		"place_id": "ChIJjXc2oFPExEURfQypmnHYkIQ"
+		"place_id": "ChIJjXc2oFPExEURfQypmnHYkIQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6479717,
@@ -2854,7 +3091,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gründer Tromsø",
-		"place_id": "ChIJY4794KzFxEURCqDoYqGdJ-M"
+		"place_id": "ChIJY4794KzFxEURCqDoYqGdJ-M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6476583,
@@ -2866,7 +3104,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tromsø Railstation",
-		"place_id": "ChIJkZoo76zFxEURwPxdApCW8Ps"
+		"place_id": "ChIJkZoo76zFxEURwPxdApCW8Ps",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6458507,
@@ -2878,7 +3117,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ølhallen AS",
-		"place_id": "ChIJEXNus63FxEURbc7K0-tv6T4"
+		"place_id": "ChIJEXNus63FxEURbc7K0-tv6T4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6473282,
@@ -2890,7 +3130,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bastard Bar",
-		"place_id": "ChIJKW_I-qzFxEURnwHp1vkce5E"
+		"place_id": "ChIJKW_I-qzFxEURnwHp1vkce5E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6511454,
@@ -2902,7 +3143,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rogers Pub",
-		"place_id": "ChIJN6jZGVPExEURJZM6wmPDuSM"
+		"place_id": "ChIJN6jZGVPExEURJZM6wmPDuSM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6473409,
@@ -2914,7 +3156,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Circa",
-		"place_id": "ChIJKcr5_KzFxEURpNWj1qulTrk"
+		"place_id": "ChIJKcr5_KzFxEURpNWj1qulTrk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6476827,
@@ -2926,7 +3169,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "G Tromsø AS",
-		"place_id": "ChIJD6Gx5qzFxEUR-MKymeumwas"
+		"place_id": "ChIJD6Gx5qzFxEUR-MKymeumwas",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.651778,
@@ -2938,7 +3182,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sivertsens Kafe",
-		"place_id": "ChIJ08SW7lLExEURA36PCXwDkNg"
+		"place_id": "ChIJ08SW7lLExEURA36PCXwDkNg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6482288,
@@ -2950,7 +3195,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Maskineriet bar",
-		"place_id": "ChIJt8vo3azFxEURIi2QNEJ06bE"
+		"place_id": "ChIJt8vo3azFxEURIi2QNEJ06bE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6504793,
@@ -2962,7 +3208,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bardus Bar",
-		"place_id": "ChIJQdKFJ1PExEURl2e6flWSZrY"
+		"place_id": "ChIJQdKFJ1PExEURl2e6flWSZrY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6473903,
@@ -2974,7 +3221,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skybar",
-		"place_id": "ChIJfy4Rk6zFxEURGVaq-gxck8U"
+		"place_id": "ChIJfy4Rk6zFxEURGVaq-gxck8U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.681282,
@@ -2986,7 +3234,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norges Arktiske Studentsamskipnad",
-		"place_id": "ChIJ5ZGv-m7ExEURfp30SJtryIk"
+		"place_id": "ChIJ5ZGv-m7ExEURfp30SJtryIk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6495968,
@@ -2998,7 +3247,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Galleriet Bar",
-		"place_id": "ChIJXwpuV1PExEURXVsUqlavbFg"
+		"place_id": "ChIJXwpuV1PExEURXVsUqlavbFg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.647758,
@@ -3010,7 +3260,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'learys Sportsbar & Restaurant",
-		"place_id": "ChIJ-UEs5KzFxEURuarMire9j5U"
+		"place_id": "ChIJ-UEs5KzFxEURuarMire9j5U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6473361,
@@ -3022,7 +3273,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Huken Pub",
-		"place_id": "ChIJJ0fC-qzFxEURBJtbNjocWC0"
+		"place_id": "ChIJJ0fC-qzFxEURBJtbNjocWC0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6478612,
@@ -3034,7 +3286,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJsUiM5qzFxEUR6ZS8eG8yYjw"
+		"place_id": "ChIJsUiM5qzFxEUR6ZS8eG8yYjw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6499991,
@@ -3046,7 +3299,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Prelate tavern & scene - Mackbar AS",
-		"place_id": "ChIJ3Q_VL1PExEUR_WjIxfrCvKI"
+		"place_id": "ChIJ3Q_VL1PExEUR_WjIxfrCvKI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6499991,
@@ -3058,7 +3312,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Agenturet",
-		"place_id": "ChIJ3Q_VL1PExEURlFCToV7ZhQ0"
+		"place_id": "ChIJ3Q_VL1PExEURlFCToV7ZhQ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6521428,
@@ -3070,7 +3325,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Verdensteateret Kafé & Bar",
-		"place_id": "ChIJa-cDB1PExEUR20t0AxfCi24"
+		"place_id": "ChIJa-cDB1PExEUR20t0AxfCi24",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6529963,
@@ -3082,7 +3338,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hildr Gastro Bar",
-		"place_id": "ChIJBxWLvFPExEUR84TYozH1G_U"
+		"place_id": "ChIJBxWLvFPExEUR84TYozH1G_U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6794467,
@@ -3094,7 +3351,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJ7UX5GiPExEURWOee8dhzcY8"
+		"place_id": "ChIJ7UX5GiPExEURWOee8dhzcY8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6795238,
@@ -3106,7 +3364,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Caffé Ritazza",
-		"place_id": "ChIJ-a_dURrExEURcA3ivzPJcU0"
+		"place_id": "ChIJ-a_dURrExEURcA3ivzPJcU0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.679617,
@@ -3118,7 +3377,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nordlysbaren - TOS International Flights",
-		"place_id": "ChIJy0sUExjExEURP2Nk83qgiQ8"
+		"place_id": "ChIJy0sUExjExEURP2Nk83qgiQ8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.6811082,
@@ -3130,7 +3390,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Bodega",
-		"place_id": "ChIJ95RHG2_ExEURAG56Ss7FN-I"
+		"place_id": "ChIJ95RHG2_ExEURAG56Ss7FN-I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.0250018,
@@ -3142,7 +3403,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brekkestranda Fjordhotell",
-		"place_id": "ChIJsRraVa1wPUYRJOVU7TiQ6sE"
+		"place_id": "ChIJsRraVa1wPUYRJOVU7TiQ6sE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.372232,
@@ -3154,7 +3416,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Revetal Kro & Catering AS",
-		"place_id": "ChIJQ3NR5LTLRkYR6S3iljEIKbk"
+		"place_id": "ChIJQ3NR5LTLRkYR6S3iljEIKbk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.147434,
@@ -3166,7 +3429,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ringerike Gjestegård AS",
-		"place_id": "ChIJN1earCMHQUYRtaGh5n3eFLg"
+		"place_id": "ChIJN1earCMHQUYRtaGh5n3eFLg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3467228,
@@ -3178,7 +3442,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Askvoll Sjøbuer AS",
-		"place_id": "ChIJWwbPnkHnF0YRHNpMZAjCRAk"
+		"place_id": "ChIJWwbPnkHnF0YRHNpMZAjCRAk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.2645206,
@@ -3190,7 +3455,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Biffen Kjelleren",
-		"place_id": "ChIJwdOQGSsFOEYRoRIiOVb5EhQ"
+		"place_id": "ChIJwdOQGSsFOEYRoRIiOVb5EhQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.2639108,
@@ -3202,7 +3468,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hunsfos Bryggeri",
-		"place_id": "ChIJbbsIBSkFOEYReaCsTLDegxg"
+		"place_id": "ChIJbbsIBSkFOEYReaCsTLDegxg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8316841,
@@ -3214,7 +3481,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Leangkollen",
-		"place_id": "ChIJiwLSvgcVQUYRuK88qM8XQ1M"
+		"place_id": "ChIJiwLSvgcVQUYRuK88qM8XQ1M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8209683,
@@ -3226,7 +3494,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dønn Ærlig Catering AS",
-		"place_id": "ChIJb85PvQ0VQUYRf5nmi7ToCjQ"
+		"place_id": "ChIJb85PvQ0VQUYRf5nmi7ToCjQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8262123,
@@ -3238,7 +3507,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kråka Pub",
-		"place_id": "ChIJzd9uLRAVQUYR1ViwXzK7wi0"
+		"place_id": "ChIJzd9uLRAVQUYR1ViwXzK7wi0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8341027,
@@ -3250,7 +3520,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Royal Lounge Vin & Champagne Bar",
-		"place_id": "ChIJ-f__OLcVQUYRRdvKl2Gx5r4"
+		"place_id": "ChIJ-f__OLcVQUYRRdvKl2Gx5r4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4146719,
@@ -3262,7 +3533,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pizzafjoset AS",
-		"place_id": "ChIJmU0lCklJR0YRLSZTTRZ0iuw"
+		"place_id": "ChIJmU0lCklJR0YRLSZTTRZ0iuw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4146719,
@@ -3274,7 +3546,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Bull inn AS",
-		"place_id": "ChIJmU0lCklJR0YRkzFJur8Ktp8"
+		"place_id": "ChIJmU0lCklJR0YRkzFJur8Ktp8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5912467,
@@ -3286,7 +3559,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Piazza Lu t'Hagen",
-		"place_id": "ChIJM9_HN3njQ0YRXG4zrJWlhB0"
+		"place_id": "ChIJM9_HN3njQ0YRXG4zrJWlhB0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.5894817,
@@ -3298,7 +3572,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "-Resident à Patrick Eriksen",
-		"place_id": "ChIJ2xnuDQNKbUYRmyKTSoZqDnY"
+		"place_id": "ChIJ2xnuDQNKbUYRmyKTSoZqDnY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.743843,
@@ -3310,7 +3585,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Comfort Hotel Union Brygge",
-		"place_id": "ChIJ60cagkkjQUYRv-J0XKf_Zz8"
+		"place_id": "ChIJ60cagkkjQUYRv-J0XKf_Zz8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7388883,
@@ -3322,7 +3598,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kings Arms Pub",
-		"place_id": "ChIJLWwqcbM8QUYRLdFHc0vVcjc"
+		"place_id": "ChIJLWwqcbM8QUYRLdFHc0vVcjc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7421239,
@@ -3334,7 +3611,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Glass Grill & Bar",
-		"place_id": "ChIJT5gnVLQ8QUYR5dbNx8SeJns"
+		"place_id": "ChIJT5gnVLQ8QUYR5dbNx8SeJns",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7438868,
@@ -3346,7 +3624,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "La Vida",
-		"place_id": "ChIJRzyesUojQUYRTJdrplUBqtQ"
+		"place_id": "ChIJRzyesUojQUYRTJdrplUBqtQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7443032,
@@ -3358,7 +3637,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pigen Cafe & Bar",
-		"place_id": "ChIJ6WW-E7U8QUYRwKR_04LqtZ4"
+		"place_id": "ChIJ6WW-E7U8QUYRwKR_04LqtZ4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7443721,
@@ -3370,7 +3650,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "anchas Bodega",
-		"place_id": "ChIJxYosQrU8QUYR2d31ljdPhmk"
+		"place_id": "ChIJxYosQrU8QUYR2d31ljdPhmk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7439851,
@@ -3382,7 +3663,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lauritz Drammen",
-		"place_id": "ChIJ_zsEPLU8QUYRCpeqW290sEI"
+		"place_id": "ChIJ_zsEPLU8QUYRCpeqW290sEI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7392318,
@@ -3394,7 +3676,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rekord Bar",
-		"place_id": "ChIJtXJvZbM8QUYRNkTiDXaP_U8"
+		"place_id": "ChIJtXJvZbM8QUYRNkTiDXaP_U8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.744187,
@@ -3406,7 +3689,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Goggen Sportpub",
-		"place_id": "ChIJ6WW-E7U8QUYRzK0ounuB-a4"
+		"place_id": "ChIJ6WW-E7U8QUYRzK0ounuB-a4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.743067,
@@ -3418,7 +3702,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Becks Brasserie & Bar Drammen",
-		"place_id": "ChIJZXQIyksjQUYR0tPe6AYGdyY"
+		"place_id": "ChIJZXQIyksjQUYR0tPe6AYGdyY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.743906,
@@ -3430,7 +3715,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJgeHdCrU8QUYRrh8EjD8ScAc"
+		"place_id": "ChIJgeHdCrU8QUYRrh8EjD8ScAc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.743962,
@@ -3442,7 +3728,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Lounge Cocktailbar",
-		"place_id": "ChIJ_-e7DLU8QUYRqXuZqL9PAb4"
+		"place_id": "ChIJ_-e7DLU8QUYRqXuZqL9PAb4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7432185,
@@ -3454,7 +3741,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Papirhuset Drammen",
-		"place_id": "ChIJ06TW00sjQUYR00DW6rl3pvk"
+		"place_id": "ChIJ06TW00sjQUYR00DW6rl3pvk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7433625,
@@ -3466,7 +3754,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gummibaren as",
-		"place_id": "ChIJ8e-YzLc8QUYRfJfnpZiHk8s"
+		"place_id": "ChIJ8e-YzLc8QUYRfJfnpZiHk8s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7419406,
@@ -3478,7 +3767,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggerhuset",
-		"place_id": "ChIJo6r4hrY8QUYR8JI61OwzC7U"
+		"place_id": "ChIJo6r4hrY8QUYR8JI61OwzC7U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7381453,
@@ -3490,7 +3780,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skjenkestua AS",
-		"place_id": "ChIJQUiFobM8QUYREaZQ-Y9tzTU"
+		"place_id": "ChIJQUiFobM8QUYREaZQ-Y9tzTU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7393,
@@ -3502,7 +3793,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Drammen Cocktails",
-		"place_id": "ChIJ5ZyqWrM8QUYRSnQz5JOiZ1M"
+		"place_id": "ChIJ5ZyqWrM8QUYRSnQz5JOiZ1M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.744446,
@@ -3514,7 +3806,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rust and Pipes",
-		"place_id": "ChIJ2xn7cbU8QUYRiUQOPohStK8"
+		"place_id": "ChIJ2xn7cbU8QUYRiUQOPohStK8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.744541,
@@ -3526,7 +3819,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vertshuset Oscar & Stallen",
-		"place_id": "ChIJwWXESLU8QUYR_Wv6itX69Gg"
+		"place_id": "ChIJwWXESLU8QUYR_Wv6itX69Gg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7449377,
@@ -3538,7 +3832,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "corner Bar",
-		"place_id": "ChIJv6olTrU8QUYRFLw1_HKDgwo"
+		"place_id": "ChIJv6olTrU8QUYRFLw1_HKDgwo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1406125,
@@ -3550,7 +3845,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "FF i Bergen",
-		"place_id": "ChIJY4R43HP1PEYRkJo_8PIHzks"
+		"place_id": "ChIJY4R43HP1PEYRkJo_8PIHzks",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8506268,
@@ -3562,7 +3858,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tribute",
-		"place_id": "ChIJHfSKKVg2OkYRfEfUcUEn208"
+		"place_id": "ChIJHfSKKVg2OkYRfEfUcUEn208",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8532387,
@@ -3574,7 +3871,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Megleren Øl & Vinstue Sandnes",
-		"place_id": "ChIJ49fHo1k2OkYRSYL7-clZ_dQ"
+		"place_id": "ChIJ49fHo1k2OkYRSYL7-clZ_dQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.853294,
@@ -3586,7 +3884,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Milk Bar AS",
-		"place_id": "ChIJdxADpFk2OkYRD5lgQ2LRW2I"
+		"place_id": "ChIJdxADpFk2OkYRD5lgQ2LRW2I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8536871,
@@ -3598,7 +3897,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bank Pub",
-		"place_id": "ChIJH2xFB1k2OkYRD7Ynh1aVK34"
+		"place_id": "ChIJH2xFB1k2OkYRD7Ynh1aVK34",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8505655,
@@ -3610,7 +3910,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pontus",
-		"place_id": "ChIJg0_Qh1c2OkYRtPutcwGF1d4"
+		"place_id": "ChIJg0_Qh1c2OkYRtPutcwGF1d4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8529968,
@@ -3622,7 +3923,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Moneytalks Sandnes",
-		"place_id": "ChIJy3X8j1k2OkYREU_bv6MjNxM"
+		"place_id": "ChIJy3X8j1k2OkYREU_bv6MjNxM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8521953,
@@ -3634,7 +3936,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sommerrevyen",
-		"place_id": "ChIJW8GbSlg2OkYRqiHU4MFeicE"
+		"place_id": "ChIJW8GbSlg2OkYRqiHU4MFeicE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8308908,
@@ -3646,7 +3949,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sagbruket",
-		"place_id": "ChIJM1KkHyZIOkYRG1CZ_DvMbP4"
+		"place_id": "ChIJM1KkHyZIOkYRG1CZ_DvMbP4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8219239,
@@ -3658,7 +3962,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Løå På Lea",
-		"place_id": "ChIJhS71LyJIOkYRrwnHt3USF8A"
+		"place_id": "ChIJhS71LyJIOkYRrwnHt3USF8A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.853294,
@@ -3670,7 +3975,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Petite AS",
-		"place_id": "ChIJdxADpFk2OkYRttlJV5hO0t4"
+		"place_id": "ChIJdxADpFk2OkYRttlJV5hO0t4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8536005,
@@ -3682,7 +3988,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Madame Aase",
-		"place_id": "ChIJhYqBqlk2OkYR5k4aEj2Cwo4"
+		"place_id": "ChIJhYqBqlk2OkYR5k4aEj2Cwo4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8232491,
@@ -3694,7 +4001,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "JAYTEE BAR AND CLUB",
-		"place_id": "ChIJxU6wJA43OkYRpjSfp5nOd8Q"
+		"place_id": "ChIJxU6wJA43OkYRpjSfp5nOd8Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8535702,
@@ -3706,7 +4014,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bakgården Pub/nattklubb",
-		"place_id": "ChIJS8T1VVg2OkYRT2HH0l9O8Lk"
+		"place_id": "ChIJS8T1VVg2OkYRT2HH0l9O8Lk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1443457,
@@ -3718,7 +4027,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Ernst",
-		"place_id": "ChIJxcj6KV4COEYRzKoygNAgmMI"
+		"place_id": "ChIJxcj6KV4COEYRzKoygNAgmMI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1469577,
@@ -3730,7 +4040,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Håndverkeren Restaurant & Pub",
-		"place_id": "ChIJp--ogF4COEYRMHJU_HK_Wr0"
+		"place_id": "ChIJp--ogF4COEYRMHJU_HK_Wr0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1426943,
@@ -3742,7 +4053,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Telfords Pub",
-		"place_id": "ChIJgzvzyWACOEYRKWXooHDt_xo"
+		"place_id": "ChIJgzvzyWACOEYRKWXooHDt_xo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1445881,
@@ -3754,7 +4066,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Patrick's Pub",
-		"place_id": "ChIJZyKdGV4COEYRYD_ITBjKXGY"
+		"place_id": "ChIJZyKdGV4COEYRYD_ITBjKXGY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1438933,
@@ -3766,7 +4079,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "KOMBINAT",
-		"place_id": "ChIJqTKUqGACOEYRDCOj6iCZl1M"
+		"place_id": "ChIJqTKUqGACOEYRDCOj6iCZl1M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1442941,
@@ -3778,7 +4092,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bakgården Både Og",
-		"place_id": "ChIJu3X3nWACOEYRBEr0h1iT7S4"
+		"place_id": "ChIJu3X3nWACOEYRBEr0h1iT7S4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1441782,
@@ -3790,7 +4105,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Harveys Bar and Restaurant Kristiansand",
-		"place_id": "ChIJi96unWACOEYRE8hg6dvn0kc"
+		"place_id": "ChIJi96unWACOEYRE8hg6dvn0kc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.143757,
@@ -3802,7 +4118,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ms. Larsen & Home Cocktail",
-		"place_id": "ChIJ2w7mVGcCOEYRIBL0RfG5FkY"
+		"place_id": "ChIJ2w7mVGcCOEYRIBL0RfG5FkY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1469173,
@@ -3814,7 +4131,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant Skrubbsulten - Pizzakiosken",
-		"place_id": "ChIJZ2iNteoCOEYRydUSdE6wc7k"
+		"place_id": "ChIJZ2iNteoCOEYRydUSdE6wc7k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1457836,
@@ -3826,7 +4144,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Midnight Cafe",
-		"place_id": "ChIJkQEI7F8COEYRq-pZqZYJJ1g"
+		"place_id": "ChIJkQEI7F8COEYRq-pZqZYJJ1g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1452301,
@@ -3838,7 +4157,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Victoria Pub",
-		"place_id": "ChIJsy5xMV4COEYR1HJzlvEAD54"
+		"place_id": "ChIJsy5xMV4COEYR1HJzlvEAD54",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1433379,
@@ -3850,7 +4170,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant Compaqniet Sør AS",
-		"place_id": "ChIJZ_T0vGACOEYRnzBI6rqoqXs"
+		"place_id": "ChIJZ_T0vGACOEYRnzBI6rqoqXs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1425095,
@@ -3862,7 +4183,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Lobby Bar - Radisson Blu Caledonien Hotel",
-		"place_id": "ChIJpfGbyGACOEYRi7VEpdyQaWA"
+		"place_id": "ChIJpfGbyGACOEYRi7VEpdyQaWA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.143311,
@@ -3874,7 +4196,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Charlies Bar",
-		"place_id": "ChIJe_Onu2ACOEYRINDUaYDdx4M"
+		"place_id": "ChIJe_Onu2ACOEYRINDUaYDdx4M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1440636,
@@ -3886,7 +4209,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Onkel Aksel - Musikkbistro",
-		"place_id": "ChIJhwQOfmACOEYRlL8zdSvuSZY"
+		"place_id": "ChIJhwQOfmACOEYRlL8zdSvuSZY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1443846,
@@ -3898,7 +4222,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tollboden Burger & Bar",
-		"place_id": "ChIJ-71vIF4COEYRrPkM-1_15EY"
+		"place_id": "ChIJ-71vIF4COEYRrPkM-1_15EY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.144463,
@@ -3910,7 +4235,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gatsby Club",
-		"place_id": "ChIJacBqHF4COEYRSKF83-5ZRb8"
+		"place_id": "ChIJacBqHF4COEYRSKF83-5ZRb8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1238667,
@@ -3922,7 +4248,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vågsbygd Turn",
-		"place_id": "ChIJkWsLbIICOEYRKAy5Lo1YXNY"
+		"place_id": "ChIJkWsLbIICOEYRKAy5Lo1YXNY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.143642,
@@ -3934,7 +4261,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barbarossa Restaurant, Bar & Scene",
-		"place_id": "ChIJOVLXhWACOEYRqoW1ln1mTgk"
+		"place_id": "ChIJOVLXhWACOEYRqoW1ln1mTgk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1439106,
@@ -3946,7 +4274,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Javel Pub",
-		"place_id": "ChIJ1ZmghmACOEYRDuGGB7k7hLg"
+		"place_id": "ChIJ1ZmghmACOEYRDuGGB7k7hLg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1438336,
@@ -3958,7 +4287,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "All Inn",
-		"place_id": "ChIJSbvgm2ACOEYRn3hOzc19Wjs"
+		"place_id": "ChIJSbvgm2ACOEYRn3hOzc19Wjs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1442941,
@@ -3970,7 +4300,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bakgården Bar & Restaurant",
-		"place_id": "ChIJMXBTJ14COEYRkaMYi7Qb-bc"
+		"place_id": "ChIJMXBTJ14COEYRkaMYi7Qb-bc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1437572,
@@ -3982,7 +4313,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "No 15 Fun Pub & Sportsbar",
-		"place_id": "ChIJffOcVGcCOEYRBsJf90-MjDU"
+		"place_id": "ChIJffOcVGcCOEYRBsJf90-MjDU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1445219,
@@ -3994,7 +4326,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Christiansand Brygghus",
-		"place_id": "ChIJWeOYIV4COEYRu7Pi54nb0hk"
+		"place_id": "ChIJWeOYIV4COEYRu7Pi54nb0hk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1521518,
@@ -4006,7 +4339,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lundskråga Pub and Bar",
-		"place_id": "ChIJP-oyIEUCOEYRWsF5Xkg0gwQ"
+		"place_id": "ChIJP-oyIEUCOEYRWsF5Xkg0gwQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0543634,
@@ -4018,7 +4352,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olavs Pub",
-		"place_id": "ChIJPWc1imtxOUYR7twBk3MY81g"
+		"place_id": "ChIJPWc1imtxOUYR7twBk3MY81g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2216951,
@@ -4030,7 +4365,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Saloon 7null4",
-		"place_id": "ChIJ_UI8ktSNakYRVzZUQrN_8Gc"
+		"place_id": "ChIJ_UI8ktSNakYRVzZUQrN_8Gc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.611611,
@@ -4042,7 +4378,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Loftet afterski",
-		"place_id": "ChIJa5Abe0JRE0YRuzKdusjG8R4"
+		"place_id": "ChIJa5Abe0JRE0YRuzKdusjG8R4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5955459,
@@ -4054,7 +4391,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nabo'N",
-		"place_id": "ChIJS9QkRPBTE0YR2em9zxE3YuM"
+		"place_id": "ChIJS9QkRPBTE0YR2em9zxE3YuM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5953702,
@@ -4066,7 +4404,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grøseth Kafe AS",
-		"place_id": "ChIJ07VZ4eJTE0YRhaEANFqZQlY"
+		"place_id": "ChIJ07VZ4eJTE0YRhaEANFqZQlY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3688142,
@@ -4078,7 +4417,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "SapDesign AS",
-		"place_id": "ChIJJeFXNK24FkYRXC4NSafdQ6E"
+		"place_id": "ChIJJeFXNK24FkYRXC4NSafdQ6E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.638372,
@@ -4090,7 +4430,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barius & Kaktus",
-		"place_id": "ChIJ9-SHnF_SFkYRKG6DK_rizt0"
+		"place_id": "ChIJ9-SHnF_SFkYRKG6DK_rizt0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7179492,
@@ -4102,7 +4443,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Anton Hoels Kro",
-		"place_id": "ChIJrSwEaR7lQUYRRbmOI6cGBoo"
+		"place_id": "ChIJrSwEaR7lQUYRRbmOI6cGBoo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.967475,
@@ -4114,7 +4456,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Stavanger",
-		"place_id": "ChIJW5Y9jUg1OkYRTOA8DdB_rc0"
+		"place_id": "ChIJW5Y9jUg1OkYRTOA8DdB_rc0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9630518,
@@ -4126,7 +4469,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "City Bistro",
-		"place_id": "ChIJg_x6iUY1OkYRpelt8iKRS7A"
+		"place_id": "ChIJg_x6iUY1OkYRpelt8iKRS7A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9712853,
@@ -4138,7 +4482,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cardinal",
-		"place_id": "ChIJp6hxj0k1OkYRLte0MqrK02A"
+		"place_id": "ChIJp6hxj0k1OkYRLte0MqrK02A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.970712,
@@ -4150,7 +4495,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tango Bar and Kitchen",
-		"place_id": "ChIJDwQWakk1OkYRO5HQgi_ctp8"
+		"place_id": "ChIJDwQWakk1OkYRO5HQgi_ctp8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9703691,
@@ -4162,7 +4508,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Martinique",
-		"place_id": "ChIJSbp7iTY1OkYRJXxdOq4edCA"
+		"place_id": "ChIJSbp7iTY1OkYRJXxdOq4edCA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9676408,
@@ -4174,7 +4521,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Charlottenlund guesthouses",
-		"place_id": "ChIJKw6D3Dc1OkYR_UFN99a-hO4"
+		"place_id": "ChIJKw6D3Dc1OkYR_UFN99a-hO4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.973536,
@@ -4186,7 +4534,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hall Toll",
-		"place_id": "ChIJy_N6uEs1OkYRNqYCxxrj5Dc"
+		"place_id": "ChIJy_N6uEs1OkYRNqYCxxrj5Dc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9707084,
@@ -4198,7 +4547,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ovenpaa",
-		"place_id": "ChIJjUMFmUk1OkYRrpSn6Afy-ow"
+		"place_id": "ChIJjUMFmUk1OkYRrpSn6Afy-ow",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9727873,
@@ -4210,7 +4560,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gaffel & Karaffel",
-		"place_id": "ChIJvcbyO0o1OkYRb9YWxyfh-lE"
+		"place_id": "ChIJvcbyO0o1OkYRb9YWxyfh-lE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.972632,
@@ -4222,7 +4573,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Harry Pepper",
-		"place_id": "ChIJb2KoO0o1OkYRA-1rlM-GyIY"
+		"place_id": "ChIJb2KoO0o1OkYRA-1rlM-GyIY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.970132,
@@ -4234,7 +4586,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Barrock",
-		"place_id": "ChIJlRa8FEk1OkYRefpufGNzpZY"
+		"place_id": "ChIJlRa8FEk1OkYRefpufGNzpZY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9700103,
@@ -4246,7 +4599,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Checkpoint Charlie",
-		"place_id": "ChIJFeFPSkk1OkYRjQFeJRKIJZ0"
+		"place_id": "ChIJFeFPSkk1OkYRjQFeJRKIJZ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.970258,
@@ -4258,7 +4612,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Alf & Werner",
-		"place_id": "ChIJ531JDEk1OkYR4TLjooIWycA"
+		"place_id": "ChIJ531JDEk1OkYR4TLjooIWycA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9705747,
@@ -4270,7 +4625,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dickens",
-		"place_id": "ChIJhUEzm0k1OkYRhbTAgSGlcy0"
+		"place_id": "ChIJhUEzm0k1OkYRhbTAgSGlcy0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9715903,
@@ -4282,7 +4638,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Irishman",
-		"place_id": "ChIJFUxQ_0k1OkYRcv4dJTYCksM"
+		"place_id": "ChIJFUxQ_0k1OkYRcv4dJTYCksM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.972806,
@@ -4294,7 +4651,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bøker og Børst",
-		"place_id": "ChIJB97oE0o1OkYR0Njc3He6fJc"
+		"place_id": "ChIJB97oE0o1OkYR0Njc3He6fJc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9706827,
@@ -4306,7 +4664,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Munken",
-		"place_id": "ChIJWQqsk0k1OkYR9192sLX0eVQ"
+		"place_id": "ChIJWQqsk0k1OkYR9192sLX0eVQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9706674,
@@ -4318,7 +4677,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cementen",
-		"place_id": "ChIJDwQWakk1OkYR-kRnYOPJb88"
+		"place_id": "ChIJDwQWakk1OkYR-kRnYOPJb88",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.970147,
@@ -4330,7 +4690,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nåløyet Bar",
-		"place_id": "ChIJ531JDEk1OkYRlR67M8zn5Aw"
+		"place_id": "ChIJ531JDEk1OkYRlR67M8zn5Aw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9720293,
@@ -4342,7 +4703,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hovmesteren Bar",
-		"place_id": "ChIJTQlt1Us1OkYRpLMtEaw1zUQ"
+		"place_id": "ChIJTQlt1Us1OkYRpLMtEaw1zUQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9729722,
@@ -4354,7 +4716,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "På Kornet",
-		"place_id": "ChIJfzR-M0o1OkYRMdV53eyMXnA"
+		"place_id": "ChIJfzR-M0o1OkYRMdV53eyMXnA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9726145,
@@ -4366,7 +4729,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulating Pub",
-		"place_id": "ChIJjZ14O0o1OkYRlyDGxHmxf9M"
+		"place_id": "ChIJjZ14O0o1OkYRlyDGxHmxf9M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9726236,
@@ -4378,7 +4742,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "CIRKUS",
-		"place_id": "ChIJbfIwFko1OkYRcQNcGQk5p0o"
+		"place_id": "ChIJbfIwFko1OkYRcQNcGQk5p0o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9726228,
@@ -4390,7 +4755,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Chill House",
-		"place_id": "ChIJTZ0NEUo1OkYRMMUJhbHBbks"
+		"place_id": "ChIJTZ0NEUo1OkYRMMUJhbHBbks",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9724528,
@@ -4402,7 +4768,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pjolter & Punsj",
-		"place_id": "ChIJk-6cF0o1OkYRZIGn_XKoGbY"
+		"place_id": "ChIJk-6cF0o1OkYRZIGn_XKoGbY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9712288,
@@ -4414,7 +4781,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Chevy's Rockbar",
-		"place_id": "ChIJp6hxj0k1OkYR06P_TD5VJJM"
+		"place_id": "ChIJp6hxj0k1OkYR06P_TD5VJJM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9707119,
@@ -4426,7 +4794,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cocktailfabrikken",
-		"place_id": "ChIJfZG1a0k1OkYR733ndvAXVlg"
+		"place_id": "ChIJfZG1a0k1OkYR733ndvAXVlg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9707022,
@@ -4438,7 +4807,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gnu Bar",
-		"place_id": "ChIJpZZGakk1OkYRNWXK6fF8nuw"
+		"place_id": "ChIJpZZGakk1OkYRNWXK6fF8nuw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.971348,
@@ -4450,7 +4820,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Piren pub",
-		"place_id": "ChIJzeqffzY1OkYRHGumFJL3BCM"
+		"place_id": "ChIJzeqffzY1OkYRHGumFJL3BCM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9698686,
@@ -4462,7 +4833,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Groovy Burger & Dogs",
-		"place_id": "ChIJw_rKpEk1OkYR-OFVkgj_Bjk"
+		"place_id": "ChIJw_rKpEk1OkYR-OFVkgj_Bjk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.969243,
@@ -4474,7 +4846,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Daran Thai Restaurant",
-		"place_id": "ChIJ1zujKUk1OkYRKGxuHeUVv_g"
+		"place_id": "ChIJ1zujKUk1OkYRKGxuHeUVv_g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9679606,
@@ -4486,7 +4859,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "True North",
-		"place_id": "ChIJy4iX2jc1OkYRLlh9wbLRdtc"
+		"place_id": "ChIJy4iX2jc1OkYRLlh9wbLRdtc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9689446,
@@ -4498,7 +4872,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Yeastside Brewing Company",
-		"place_id": "ChIJ18IkOS41OkYR1RAS073i7ZQ"
+		"place_id": "ChIJ18IkOS41OkYR1RAS073i7ZQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9662151,
@@ -4510,7 +4885,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grazyna Skierkowska",
-		"place_id": "ChIJu-NIiDA1OkYRTxROyvtQezE"
+		"place_id": "ChIJu-NIiDA1OkYRTxROyvtQezE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9722455,
@@ -4522,7 +4898,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "påfyll musikk cafe bar",
-		"place_id": "ChIJg0NZJEo1OkYRQWooYU1VtHU"
+		"place_id": "ChIJg0NZJEo1OkYRQWooYU1VtHU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9707908,
@@ -4534,7 +4911,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Garman Piano Bar",
-		"place_id": "ChIJbzvzgUk1OkYRLG-SBI7e3wk"
+		"place_id": "ChIJbzvzgUk1OkYRLG-SBI7e3wk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9697963,
@@ -4546,7 +4924,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BAR Social Eating",
-		"place_id": "ChIJ44zYpEk1OkYRv9RIMOuw9UU"
+		"place_id": "ChIJ44zYpEk1OkYRv9RIMOuw9UU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9694356,
@@ -4558,7 +4937,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Øst",
-		"place_id": "ChIJVbK7vi41OkYRU5pjvBZlBRc"
+		"place_id": "ChIJVbK7vi41OkYRU5pjvBZlBRc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9711467,
@@ -4570,7 +4950,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Champs Sports Bar",
-		"place_id": "ChIJp6hxj0k1OkYRlLVS1IzwasM"
+		"place_id": "ChIJp6hxj0k1OkYRlLVS1IzwasM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9730289,
@@ -4582,7 +4963,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holmen Bar",
-		"place_id": "ChIJZ-8ZyUs1OkYR2QuK3zRWLEM"
+		"place_id": "ChIJZ-8ZyUs1OkYR2QuK3zRWLEM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9697962,
@@ -4594,7 +4976,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Korvetten Karaoke Bar",
-		"place_id": "ChIJDcy3ukk1OkYRtYq0Oe0ak7I"
+		"place_id": "ChIJDcy3ukk1OkYRtYq0Oe0ak7I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9727761,
@@ -4606,7 +4989,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Bache",
-		"place_id": "ChIJDyHmM0o1OkYR92WZqxMv5VQ"
+		"place_id": "ChIJDyHmM0o1OkYR92WZqxMv5VQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9711079,
@@ -4618,7 +5002,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vinkontoret",
-		"place_id": "ChIJhUEzm0k1OkYRwM7ha-gJ2xQ"
+		"place_id": "ChIJhUEzm0k1OkYRwM7ha-gJ2xQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9735622,
@@ -4630,7 +5015,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Broremann Bar",
-		"place_id": "ChIJ3-Int0s1OkYRTsyfTpCpxOo"
+		"place_id": "ChIJ3-Int0s1OkYRTsyfTpCpxOo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9727624,
@@ -4642,7 +5028,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hanekam",
-		"place_id": "ChIJO5fWFUo1OkYRasqHTYN1ZOA"
+		"place_id": "ChIJO5fWFUo1OkYRasqHTYN1ZOA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9722414,
@@ -4654,7 +5041,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "DELHI Bar & Restaurant",
-		"place_id": "ChIJg0NZJEo1OkYRMRnmdoAb9WU"
+		"place_id": "ChIJg0NZJEo1OkYRMRnmdoAb9WU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9717458,
@@ -4666,7 +5054,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bullock Steak & Bar",
-		"place_id": "ChIJe9Eo1Es1OkYR_V5rJNbuCcU"
+		"place_id": "ChIJe9Eo1Es1OkYR_V5rJNbuCcU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9716966,
@@ -4678,7 +5067,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Inside Kong Oscar Stavanger",
-		"place_id": "ChIJP7q6hkk1OkYRlb67VmJRoDQ"
+		"place_id": "ChIJP7q6hkk1OkYRlb67VmJRoDQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9715177,
@@ -4690,7 +5080,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "NB! Bar",
-		"place_id": "ChIJS_mcf0k1OkYRr-q3l_wMdFc"
+		"place_id": "ChIJS_mcf0k1OkYRr-q3l_wMdFc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9716176,
@@ -4702,7 +5093,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hygge",
-		"place_id": "ChIJ7xW1ikk1OkYR8fFMtD2J5hQ"
+		"place_id": "ChIJ7xW1ikk1OkYR8fFMtD2J5hQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9714744,
@@ -4714,7 +5106,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Negroni",
-		"place_id": "ChIJOa9vgUk1OkYR_JDvvxi8rkM"
+		"place_id": "ChIJOa9vgUk1OkYR_JDvvxi8rkM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.970962,
@@ -4726,7 +5119,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stavanger Sports Cafe",
-		"place_id": "ChIJZYl9gkk1OkYRAToTu03l7Xw"
+		"place_id": "ChIJZYl9gkk1OkYRAToTu03l7Xw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9709282,
@@ -4738,7 +5132,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Beverly Hills Fun Pub",
-		"place_id": "ChIJIU4am0k1OkYRqqzmTi7XKto"
+		"place_id": "ChIJIU4am0k1OkYRqqzmTi7XKto",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9709154,
@@ -4750,7 +5145,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Døgnvill Burger Stavanger",
-		"place_id": "ChIJyQUVkkk1OkYR_svHF_keglg"
+		"place_id": "ChIJyQUVkkk1OkYR_svHF_keglg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.6210207,
@@ -4762,7 +5158,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bakgaarden pub & Lodging AS",
-		"place_id": "ChIJkcKRtrCiR0YRhxIurcOy3D8"
+		"place_id": "ChIJkcKRtrCiR0YRhxIurcOy3D8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.8353174,
@@ -4774,7 +5171,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Corner Bar and Outdoor",
-		"place_id": "ChIJG1mps0JadEYRqYyLeNxPs9k"
+		"place_id": "ChIJG1mps0JadEYRqYyLeNxPs9k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.8357654,
@@ -4786,7 +5184,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fruen Bar",
-		"place_id": "ChIJ15g6rEJadEYRlt26wpsSMxo"
+		"place_id": "ChIJ15g6rEJadEYRlt26wpsSMxo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.247886,
@@ -4798,7 +5197,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Kingdom of Denmark Pub",
-		"place_id": "ChIJt1VXECX6R0YRS0cP7f59TjI"
+		"place_id": "ChIJt1VXECX6R0YRS0cP7f59TjI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0943308,
@@ -4810,7 +5210,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Leanaustet",
-		"place_id": "ChIJyd_6oseMPEYRFW75g-MC_kQ"
+		"place_id": "ChIJyd_6oseMPEYRFW75g-MC_kQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3679287,
@@ -4822,7 +5223,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Garasjen Pub",
-		"place_id": "ChIJwWqzNrY8QkYRXB5qQ7rgeKQ"
+		"place_id": "ChIJwWqzNrY8QkYRXB5qQ7rgeKQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7407451,
@@ -4834,7 +5236,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Yorker Pub",
-		"place_id": "ChIJpeAv56ZBQUYR2B62v72xkFI"
+		"place_id": "ChIJpeAv56ZBQUYR2B62v72xkFI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.920095,
@@ -4846,7 +5249,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skui Gård",
-		"place_id": "ChIJKxU0IMQTQUYRgefPffygMO4"
+		"place_id": "ChIJKxU0IMQTQUYRgefPffygMO4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9171759,
@@ -4858,7 +5262,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lahore - The taste of Punjab",
-		"place_id": "ChIJ74Qmyi8TQUYR4YAYX-zPpJA"
+		"place_id": "ChIJ74Qmyi8TQUYR4YAYX-zPpJA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.944299,
@@ -4870,7 +5275,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bålplass Berglia Mountain",
-		"place_id": "ChIJA80Ew_ASQUYRykf0CbM7PGU"
+		"place_id": "ChIJA80Ew_ASQUYRykf0CbM7PGU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.669189,
@@ -4882,7 +5288,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Grand, Kongsberg",
-		"place_id": "ChIJzQP2p3_QQEYR2h-Kqghw7oQ"
+		"place_id": "ChIJzQP2p3_QQEYR2h-Kqghw7oQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.669118,
@@ -4894,7 +5301,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant Fryd",
-		"place_id": "ChIJg18ZCH_QQEYRjD9jcR9rdsE"
+		"place_id": "ChIJg18ZCH_QQEYRjD9jcR9rdsE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6682136,
@@ -4906,7 +5314,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Private cafe and Bar AS",
-		"place_id": "ChIJbUz2Un7QQEYRN4k9f96q02s"
+		"place_id": "ChIJbUz2Un7QQEYRN4k9f96q02s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6698314,
@@ -4918,7 +5327,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gamle Norge pub AS",
-		"place_id": "ChIJNfy0Cn_QQEYRRAbaiUsBdHg"
+		"place_id": "ChIJNfy0Cn_QQEYRRAbaiUsBdHg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6641901,
@@ -4930,7 +5340,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kåre João Café & Bar",
-		"place_id": "ChIJAydTQHzQQEYRz93NZC3uXgI"
+		"place_id": "ChIJAydTQHzQQEYRz93NZC3uXgI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6682136,
@@ -4942,7 +5353,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "MEEAT Gastropub",
-		"place_id": "ChIJNU-IUn7QQEYRXjDGdM_THYo"
+		"place_id": "ChIJNU-IUn7QQEYRXjDGdM_THYo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6685255,
@@ -4954,7 +5366,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Louis Studentkro",
-		"place_id": "ChIJC2JByn_QQEYRGH2MCwgFXgI"
+		"place_id": "ChIJC2JByn_QQEYRGH2MCwgFXgI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6678328,
@@ -4966,7 +5379,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Musikkhuset Energimølla",
-		"place_id": "ChIJ-wQzMn7QQEYR84MXmTg79GE"
+		"place_id": "ChIJ-wQzMn7QQEYR84MXmTg79GE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6641694,
@@ -4978,7 +5392,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggeripuben",
-		"place_id": "ChIJU7HXQXzQQEYR64WlltotoBE"
+		"place_id": "ChIJU7HXQXzQQEYR64WlltotoBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6640427,
@@ -4990,7 +5405,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kongsberg Bryggeri",
-		"place_id": "ChIJDaOFQXzQQEYRmHrRclBF0t8"
+		"place_id": "ChIJDaOFQXzQQEYRmHrRclBF0t8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0069964,
@@ -5002,7 +5418,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stenhoggern bar",
-		"place_id": "ChIJzayLgFZqREYRsIq49mBrAU0"
+		"place_id": "ChIJzayLgFZqREYRsIq49mBrAU0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.5758016,
@@ -5014,7 +5431,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pøbben Ø",
-		"place_id": "ChIJC9CY16jJxEURKfQdKIQ-MNY"
+		"place_id": "ChIJC9CY16jJxEURKfQdKIQ-MNY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.575922,
@@ -5026,7 +5444,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The pub in Straumsbukta",
-		"place_id": "ChIJ_cwo2qjJxEURdh1sY2HTW4w"
+		"place_id": "ChIJ_cwo2qjJxEURdh1sY2HTW4w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.1643053,
@@ -5038,7 +5457,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mathisen Brygge",
-		"place_id": "ChIJ82ND851A20URjzhOPNqWKYk"
+		"place_id": "ChIJ82ND851A20URjzhOPNqWKYk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3025571,
@@ -5050,7 +5470,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjevlingen Beachclub",
-		"place_id": "ChIJzdzfIFikQUYREJlTbYQ0ZEc"
+		"place_id": "ChIJzdzfIFikQUYREJlTbYQ0ZEc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.209795,
@@ -5062,7 +5483,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vikingertreff - Restaurant, Café & Bar",
-		"place_id": "ChIJSxDGhCwdFkYRF7y6ZB3J2X4"
+		"place_id": "ChIJSxDGhCwdFkYRF7y6ZB3J2X4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.8345605,
@@ -5074,7 +5496,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Frodos Kafé og Pub",
-		"place_id": "ChIJg83U0St830URJC-y0lbB0m0"
+		"place_id": "ChIJg83U0St830URJC-y0lbB0m0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.8678678,
@@ -5086,7 +5509,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vikingen Pub & Spiseri",
-		"place_id": "ChIJVYGxpNt-30URJ49O3BJ7ynU"
+		"place_id": "ChIJVYGxpNt-30URJ49O3BJ7ynU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.251047,
@@ -5098,7 +5522,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Moheim Forsamlingshus",
-		"place_id": "ChIJ2UPWE2cbbUYRKwz6ZKvu0cw"
+		"place_id": "ChIJ2UPWE2cbbUYRKwz6ZKvu0cw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2744414,
@@ -5110,7 +5535,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Carpark",
-		"place_id": "ChIJDxgrnRe3RkYR75eqczGkuC8"
+		"place_id": "ChIJDxgrnRe3RkYR75eqczGkuC8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.6484569,
@@ -5122,7 +5548,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Åsvang",
-		"place_id": "ChIJvaV0OFpeEkYRT3ZppKnbo7o"
+		"place_id": "ChIJvaV0OFpeEkYRT3ZppKnbo7o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.396131,
@@ -5134,7 +5561,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Comfort Hotel Holberg",
-		"place_id": "ChIJWSOPoRz8PEYRaxs6qkqKg7s"
+		"place_id": "ChIJWSOPoRz8PEYRaxs6qkqKg7s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3956133,
@@ -5146,7 +5574,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Admiral",
-		"place_id": "ChIJq6_6JR38PEYRICAGDQzUtTw"
+		"place_id": "ChIJq6_6JR38PEYRICAGDQzUtTw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3956174,
@@ -5158,7 +5587,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kippers Bar & Kafe USF",
-		"place_id": "ChIJWzQRzhr8PEYR49LS75WWR9w"
+		"place_id": "ChIJWzQRzhr8PEYR49LS75WWR9w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.39559,
@@ -5170,7 +5600,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bergen Jazz Forum",
-		"place_id": "ChIJWzQRzhr8PEYRY20dCdQFXog"
+		"place_id": "ChIJWzQRzhr8PEYRY20dCdQFXog",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3917607,
@@ -5182,7 +5613,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Henrik øl og vinstove",
-		"place_id": "ChIJpVeEigL8PEYRVB_N4Ri1QGU"
+		"place_id": "ChIJpVeEigL8PEYRVB_N4Ri1QGU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3913313,
@@ -5194,7 +5626,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Escalón",
-		"place_id": "ChIJe_YgUQL8PEYRFFOgTeILYLE"
+		"place_id": "ChIJe_YgUQL8PEYRFFOgTeILYLE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3927185,
@@ -5206,7 +5639,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ricks AS",
-		"place_id": "ChIJXWGfkQL8PEYRgq_G5t-MB6w"
+		"place_id": "ChIJXWGfkQL8PEYRgq_G5t-MB6w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.39559,
@@ -5218,7 +5652,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nattjazz",
-		"place_id": "ChIJO54Exxr8PEYRqfg0x30p33I"
+		"place_id": "ChIJO54Exxr8PEYRqfg0x30p33I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3961479,
@@ -5230,7 +5665,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vestnorsk Jazzsenter",
-		"place_id": "ChIJWzQRzhr8PEYRO1PZPuEXTR4"
+		"place_id": "ChIJWzQRzhr8PEYRO1PZPuEXTR4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3978921,
@@ -5242,7 +5678,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Horn of Africa",
-		"place_id": "ChIJ33IT_xr8PEYRE2PsS_TXN_E"
+		"place_id": "ChIJ33IT_xr8PEYRE2PsS_TXN_E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3957639,
@@ -5254,7 +5691,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Altona Wine Bar & Kitchen",
-		"place_id": "ChIJ3_A5xBz8PEYR7X8Mk9_iiog"
+		"place_id": "ChIJ3_A5xBz8PEYR7X8Mk9_iiog",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3974937,
@@ -5266,7 +5704,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggen Nightclub",
-		"place_id": "ChIJhbLjnR38PEYRjJUA8J7yZv8"
+		"place_id": "ChIJhbLjnR38PEYRjJUA8J7yZv8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3948123,
@@ -5278,7 +5717,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The monastery Café",
-		"place_id": "ChIJhf0kVQP8PEYR2O9Ty6BZkRU"
+		"place_id": "ChIJhf0kVQP8PEYR2O9Ty6BZkRU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4005377,
@@ -5290,7 +5730,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dr. Wiesener",
-		"place_id": "ChIJnxnp4R38PEYRvMNkl39inm0"
+		"place_id": "ChIJnxnp4R38PEYRvMNkl39inm0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3926408,
@@ -5302,7 +5743,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ricks AS",
-		"place_id": "ChIJXWGfkQL8PEYRBIbJMISf3z4"
+		"place_id": "ChIJXWGfkQL8PEYRBIbJMISf3z4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3921751,
@@ -5314,7 +5756,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trikken 106",
-		"place_id": "ChIJ40X_dgP8PEYRyrEPdyzIFDw"
+		"place_id": "ChIJ40X_dgP8PEYRyrEPdyzIFDw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3975921,
@@ -5326,7 +5769,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggen Pianobar AS",
-		"place_id": "ChIJhbLjnR38PEYRCui64uRFigE"
+		"place_id": "ChIJhbLjnR38PEYRCui64uRFigE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3996028,
@@ -5338,7 +5782,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bastant Stølegaten",
-		"place_id": "ChIJPduqWqf-PEYRJ1s9-DMz0Rw"
+		"place_id": "ChIJPduqWqf-PEYRJ1s9-DMz0Rw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3976511,
@@ -5350,7 +5795,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Baklommen",
-		"place_id": "ChIJy6qKfx38PEYRXIeYif-hb7U"
+		"place_id": "ChIJy6qKfx38PEYRXIeYif-hb7U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3920931,
@@ -5362,7 +5808,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "HEM",
-		"place_id": "ChIJt5NZ_gL8PEYRzs8fm_ShTco"
+		"place_id": "ChIJt5NZ_gL8PEYRzs8fm_ShTco",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3973644,
@@ -5374,7 +5821,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BarBarista",
-		"place_id": "ChIJT6yqWqf-PEYRilSaC1yEHkQ"
+		"place_id": "ChIJT6yqWqf-PEYRilSaC1yEHkQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3925523,
@@ -5386,7 +5834,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Teaterkjelleren",
-		"place_id": "ChIJjc1c7QL8PEYRWQvNqYQ6kMU"
+		"place_id": "ChIJjc1c7QL8PEYRWQvNqYQ6kMU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3926745,
@@ -5398,7 +5847,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Finnegans",
-		"place_id": "ChIJXWGfkQL8PEYRl2HO6X59gvI"
+		"place_id": "ChIJXWGfkQL8PEYRl2HO6X59gvI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3926999,
@@ -5410,7 +5860,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rick Group",
-		"place_id": "ChIJaU62kwL8PEYR0IcGdwn1pGQ"
+		"place_id": "ChIJaU62kwL8PEYR0IcGdwn1pGQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915058,
@@ -5422,7 +5873,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vaskeriet",
-		"place_id": "ChIJ-Ra6XgL8PEYRaTArH95-4hg"
+		"place_id": "ChIJ-Ra6XgL8PEYRaTArH95-4hg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3962129,
@@ -5434,7 +5886,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Una",
-		"place_id": "ChIJQx27k6f-PEYRNXmaomPq7xQ"
+		"place_id": "ChIJQx27k6f-PEYRNXmaomPq7xQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3972823,
@@ -5446,7 +5899,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dagr",
-		"place_id": "ChIJU4NMp6f-PEYRVM777UvcBjE"
+		"place_id": "ChIJU4NMp6f-PEYRVM777UvcBjE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3952469,
@@ -5458,7 +5912,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bergenhus Bryggeri",
-		"place_id": "ChIJy2yA76f-PEYRbNp_2FfRAnk"
+		"place_id": "ChIJy2yA76f-PEYRbNp_2FfRAnk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3974578,
@@ -5470,7 +5925,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Magic Ice Bar",
-		"place_id": "ChIJCbqUDBv8PEYR7D3k1IrUFSo"
+		"place_id": "ChIJCbqUDBv8PEYR7D3k1IrUFSo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.400838,
@@ -5482,7 +5938,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Snekkerbrakken",
-		"place_id": "ChIJ_RJjqB78PEYRd7aM0jQqAVs"
+		"place_id": "ChIJ_RJjqB78PEYRd7aM0jQqAVs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3981362,
@@ -5494,7 +5951,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Statsraaden Bar & Reception",
-		"place_id": "ChIJSzHkrB38PEYRwLgLKcmGTOo"
+		"place_id": "ChIJSzHkrB38PEYRwLgLKcmGTOo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3927151,
@@ -5506,7 +5964,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The English Pub",
-		"place_id": "ChIJv4dfkgL8PEYRVVMnotI5tfE"
+		"place_id": "ChIJv4dfkgL8PEYRVVMnotI5tfE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3926408,
@@ -5518,7 +5977,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rick Gruppen AS",
-		"place_id": "ChIJXWGfkQL8PEYRGBQiFAgCZ4E"
+		"place_id": "ChIJXWGfkQL8PEYRGBQiFAgCZ4E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.395392,
@@ -5530,7 +5990,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Taket",
-		"place_id": "ChIJ0_Qv8Kf-PEYRL2soWYsNEIw"
+		"place_id": "ChIJ0_Qv8Kf-PEYRL2soWYsNEIw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3916434,
@@ -5542,7 +6003,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Konrads Kåk",
-		"place_id": "ChIJWznQXwL8PEYRSfl04CT6kz8"
+		"place_id": "ChIJWznQXwL8PEYRSfl04CT6kz8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3916081,
@@ -5554,7 +6016,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Elefanten",
-		"place_id": "ChIJ383MXwL8PEYRpu-fZ6GDKkY"
+		"place_id": "ChIJ383MXwL8PEYRpu-fZ6GDKkY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3918387,
@@ -5566,7 +6029,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Tasting Room",
-		"place_id": "ChIJQwW7igL8PEYRzfXIXkIorIo"
+		"place_id": "ChIJQwW7igL8PEYRzfXIXkIorIo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3954515,
@@ -5578,7 +6042,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Flying Dutchman Bar",
-		"place_id": "ChIJOyJW7qf-PEYR3eLDneMDAM8"
+		"place_id": "ChIJOyJW7qf-PEYR3eLDneMDAM8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.392466,
@@ -5590,7 +6055,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Theatro",
-		"place_id": "ChIJV3N526f-PEYRdp1huJoVjDg"
+		"place_id": "ChIJV3N526f-PEYRdp1huJoVjDg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3964227,
@@ -5602,7 +6068,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Beyer'en Bar & Restaurant",
-		"place_id": "ChIJ0U2Gvaf-PEYRl0pRTDJDj-w"
+		"place_id": "ChIJ0U2Gvaf-PEYRl0pRTDJDj-w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5937089,
@@ -5614,7 +6081,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kolonialen Pub",
-		"place_id": "ChIJU1aNnHvaakYRvz8m1jk3Qbc"
+		"place_id": "ChIJU1aNnHvaakYRvz8m1jk3Qbc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.310474,
@@ -5626,7 +6094,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sømna Kro & Gjestegård",
-		"place_id": "ChIJAQAAAEBhc0YRe-V2OxEAkgU"
+		"place_id": "ChIJAQAAAEBhc0YRe-V2OxEAkgU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2481397,
@@ -5638,7 +6107,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bergo Hotel",
-		"place_id": "ChIJL1jg0sNEFUYR6_sPNMt1teE"
+		"place_id": "ChIJL1jg0sNEFUYR6_sPNMt1teE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2471607,
@@ -5650,7 +6120,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggerihuset AS",
-		"place_id": "ChIJT1RWKx9FFUYRrZPWVu1xIRA"
+		"place_id": "ChIJT1RWKx9FFUYRrZPWVu1xIRA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2482264,
@@ -5662,7 +6133,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Svingen Pub",
-		"place_id": "ChIJB48x-x5FFUYRajWucfHwKiE"
+		"place_id": "ChIJB48x-x5FFUYRajWucfHwKiE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9138677,
@@ -5674,7 +6146,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Collection Hotel Folketeateret",
-		"place_id": "ChIJNZ1vJGJuQUYRV0UnbnZKKPM"
+		"place_id": "ChIJNZ1vJGJuQUYRV0UnbnZKKPM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9094582,
@@ -5686,7 +6159,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "First Hotel Grims Grenka",
-		"place_id": "ChIJb7AmhIhuQUYRstsPaVLR-2U"
+		"place_id": "ChIJb7AmhIhuQUYRstsPaVLR-2U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.917714,
@@ -5698,7 +6172,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Anker Hotel",
-		"place_id": "ChIJFVLTKWduQUYRK4owC-eIqBg"
+		"place_id": "ChIJFVLTKWduQUYRK4owC-eIqBg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9141532,
@@ -5710,7 +6185,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hotel Continental",
-		"place_id": "ChIJKUfL-n1uQUYRo4M6Cup-2xE"
+		"place_id": "ChIJKUfL-n1uQUYRo4M6Cup-2xE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9076062,
@@ -5722,7 +6198,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "THE THIEF",
-		"place_id": "ChIJq4hRC4JuQUYRy08gB15SGHU"
+		"place_id": "ChIJq4hRC4JuQUYRy08gB15SGHU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.914176,
@@ -5734,7 +6211,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grilleriet",
-		"place_id": "ChIJrZVMMGJuQUYRcGYMTxXKHPg"
+		"place_id": "ChIJrZVMMGJuQUYRcGYMTxXKHPg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9140771,
@@ -5746,7 +6224,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJLfXLb31uQUYRNIPuoy_8sE0"
+		"place_id": "ChIJLfXLb31uQUYRNIPuoy_8sE0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9146482,
@@ -5758,7 +6237,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hard Rock Cafe",
-		"place_id": "ChIJ25upon1uQUYRj7R5e80yEck"
+		"place_id": "ChIJ25upon1uQUYRj7R5e80yEck",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9088849,
@@ -5770,7 +6250,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Engebret Cafe",
-		"place_id": "ChIJowEvk4huQUYROE70i3p_oUU"
+		"place_id": "ChIJowEvk4huQUYROE70i3p_oUU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.918761,
@@ -5782,7 +6263,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Delicatessen Grünerløkka",
-		"place_id": "ChIJxZBd4GZuQUYR0nQLhIK_KiY"
+		"place_id": "ChIJxZBd4GZuQUYR0nQLhIK_KiY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9138409,
@@ -5794,7 +6276,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dinner Restaurant",
-		"place_id": "ChIJ11438n1uQUYRviOgFwdQk18"
+		"place_id": "ChIJ11438n1uQUYRviOgFwdQk18",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9229042,
@@ -5806,7 +6289,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BAR Vulkan",
-		"place_id": "ChIJKabHf2VuQUYRb7U7kVuQl-M"
+		"place_id": "ChIJKabHf2VuQUYRb7U7kVuQl-M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9134082,
@@ -5818,7 +6302,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stortorvets Gjæstgiveri",
-		"place_id": "ChIJOej1lmJuQUYR6JfMQSTwC8s"
+		"place_id": "ChIJOej1lmJuQUYR6JfMQSTwC8s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9105699,
@@ -5830,7 +6315,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Underbar",
-		"place_id": "ChIJX3KhqYFuQUYRIRTHKX_VpZ0"
+		"place_id": "ChIJX3KhqYFuQUYRIRTHKX_VpZ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9154327,
@@ -5842,7 +6328,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Herr Nilsen",
-		"place_id": "ChIJY0isJn1uQUYRGFgwCsFhuRc"
+		"place_id": "ChIJY0isJn1uQUYRGFgwCsFhuRc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.92016,
@@ -5854,7 +6341,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Blå",
-		"place_id": "ChIJSf8IMWRuQUYRjmHoBRtLi4M"
+		"place_id": "ChIJSf8IMWRuQUYRjmHoBRtLi4M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9139739,
@@ -5866,7 +6354,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Mono",
-		"place_id": "ChIJ_84ORmJuQUYRdsurSIA0bnQ"
+		"place_id": "ChIJ_84ORmJuQUYRdsurSIA0bnQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.909878,
@@ -5878,7 +6367,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Dubliner Oslo",
-		"place_id": "ChIJ1aHff4huQUYRjHvlfY5947I"
+		"place_id": "ChIJ1aHff4huQUYRjHvlfY5947I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9147565,
@@ -5890,7 +6380,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tukthuset Mat&Drikke",
-		"place_id": "ChIJ1Q8w1WNuQUYRRYEw-8Nh-B4"
+		"place_id": "ChIJ1Q8w1WNuQUYRRYEw-8Nh-B4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.912258,
@@ -5902,7 +6393,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olympen",
-		"place_id": "ChIJk9WpmF9uQUYRyNvyMWK1aYQ"
+		"place_id": "ChIJk9WpmF9uQUYRyNvyMWK1aYQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9147255,
@@ -5914,7 +6406,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Last Train",
-		"place_id": "ChIJ25upon1uQUYRStlYX9894vE"
+		"place_id": "ChIJ25upon1uQUYRStlYX9894vE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9111463,
@@ -5926,7 +6419,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gangnam Restaurant",
-		"place_id": "ChIJiU9geypsQUYROO9-_4rRkVI"
+		"place_id": "ChIJiU9geypsQUYROO9-_4rRkVI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.913838,
@@ -5938,7 +6432,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dovrehallen - Restaurang med Tradisjonell Norsk Mat",
-		"place_id": "ChIJ5Q9xJ2JuQUYRES9XEekZbUo"
+		"place_id": "ChIJ5Q9xJ2JuQUYRES9XEekZbUo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9136839,
@@ -5950,7 +6445,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eight",
-		"place_id": "ChIJhxTybn1uQUYR5wfXVLeg0rs"
+		"place_id": "ChIJhxTybn1uQUYR5wfXVLeg0rs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9105713,
@@ -5962,7 +6458,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brasserie Hansken",
-		"place_id": "ChIJNUctz4duQUYRft4pW7dWnMI"
+		"place_id": "ChIJNUctz4duQUYRft4pW7dWnMI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9097943,
@@ -5974,7 +6471,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "TGI Fridays Aker brygge",
-		"place_id": "ChIJ_dj9n4FuQUYRqvcmKUL-02I"
+		"place_id": "ChIJ_dj9n4FuQUYRqvcmKUL-02I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9122373,
@@ -5986,7 +6484,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pigalle",
-		"place_id": "ChIJk9WpmF9uQUYRjYTIWsT7uus"
+		"place_id": "ChIJk9WpmF9uQUYRjYTIWsT7uus",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.919785,
@@ -5998,7 +6497,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Markveien Mat & Vinhus AS",
-		"place_id": "ChIJAcj-82ZuQUYR4fjowR4zpVQ"
+		"place_id": "ChIJAcj-82ZuQUYR4fjowR4zpVQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.91234,
@@ -6010,7 +6510,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Venner Restaurant & Bar",
-		"place_id": "ChIJd8oR4V9uQUYR9iiyWqF_oVI"
+		"place_id": "ChIJd8oR4V9uQUYR9iiyWqF_oVI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9152432,
@@ -6022,7 +6523,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "London pub",
-		"place_id": "ChIJY0isJn1uQUYRrzpLun_SycA"
+		"place_id": "ChIJY0isJn1uQUYRrzpLun_SycA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9082616,
@@ -6034,7 +6536,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hanami",
-		"place_id": "ChIJzcR-AIJuQUYR2DlFt0juc4o"
+		"place_id": "ChIJzcR-AIJuQUYR2DlFt0juc4o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9217107,
@@ -6046,7 +6549,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Døgnvill Burger Vulkan",
-		"place_id": "ChIJf9hZu2VuQUYRiu4EGiwGEoQ"
+		"place_id": "ChIJf9hZu2VuQUYRiu4EGiwGEoQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9121116,
@@ -6058,7 +6562,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Fiasco",
-		"place_id": "ChIJsVM202FuQUYRQJf5uNwqSXQ"
+		"place_id": "ChIJsVM202FuQUYRQJf5uNwqSXQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.913845,
@@ -6070,7 +6575,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Con Bar",
-		"place_id": "ChIJVdsPU2BuQUYRNrjovEXsAjE"
+		"place_id": "ChIJVdsPU2BuQUYRNrjovEXsAjE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.914195,
@@ -6082,7 +6588,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Buddha Sportsbar",
-		"place_id": "ChIJgYQOJmJuQUYRocjFK4wkuwI"
+		"place_id": "ChIJgYQOJmJuQUYRocjFK4wkuwI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9085538,
@@ -6094,7 +6601,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Escalón Tjuvholmen",
-		"place_id": "ChIJ0xm1-IFuQUYRMgNzWeOYcOc"
+		"place_id": "ChIJ0xm1-IFuQUYRMgNzWeOYcOc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.924584,
@@ -6106,7 +6614,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Elmer's Pub & Billiards ANS",
-		"place_id": "ChIJ92bqgkNuQUYRvn5FG4I2w3s"
+		"place_id": "ChIJ92bqgkNuQUYRvn5FG4I2w3s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9141035,
@@ -6118,7 +6627,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ett glass",
-		"place_id": "ChIJLfXLb31uQUYRtM-BRX9L-xw"
+		"place_id": "ChIJLfXLb31uQUYRtM-BRX9L-xw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9170173,
@@ -6130,7 +6640,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Revolver",
-		"place_id": "ChIJvdBLkGNuQUYR187YvTbPpR4"
+		"place_id": "ChIJvdBLkGNuQUYR187YvTbPpR4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9116757,
@@ -6142,7 +6653,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sir Winston's Public House",
-		"place_id": "ChIJMWqf04luQUYR462as-7Uwz4"
+		"place_id": "ChIJMWqf04luQUYR462as-7Uwz4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9163344,
@@ -6154,7 +6666,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Arakataka",
-		"place_id": "ChIJ3Ume7GNuQUYRdpKwDiAdbLw"
+		"place_id": "ChIJ3Ume7GNuQUYRdpKwDiAdbLw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9217529,
@@ -6166,7 +6679,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Reillys Irish pub",
-		"place_id": "ChIJZZrfGWZuQUYREVEoC_81Ktw"
+		"place_id": "ChIJZZrfGWZuQUYREVEoC_81Ktw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9141819,
@@ -6178,7 +6692,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Sør",
-		"place_id": "ChIJ-ajWRGJuQUYRbrBu3Piy4to"
+		"place_id": "ChIJ-ajWRGJuQUYRbrBu3Piy4to",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9106804,
@@ -6190,7 +6705,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Posthallen Restaurant",
-		"place_id": "ChIJf92utYluQUYRVSD2nSX79po"
+		"place_id": "ChIJf92utYluQUYRVSD2nSX79po",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9132693,
@@ -6202,7 +6718,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dattera til Hagen",
-		"place_id": "ChIJWcbDcGBuQUYRX3-G130GXNs"
+		"place_id": "ChIJWcbDcGBuQUYRX3-G130GXNs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9146871,
@@ -6214,7 +6731,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Justisen Restaurant, Bar & Bakgård",
-		"place_id": "ChIJeY3x-GJuQUYRY7gUtfnzWOM"
+		"place_id": "ChIJeY3x-GJuQUYRY7gUtfnzWOM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9167033,
@@ -6226,7 +6744,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant Eik",
-		"place_id": "ChIJaatMWHxuQUYRyJoQkcG64Jk"
+		"place_id": "ChIJaatMWHxuQUYRyJoQkcG64Jk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9141397,
@@ -6238,7 +6757,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "TGI Friday's",
-		"place_id": "ChIJQzAKdH1uQUYR6q3YAp6zbp8"
+		"place_id": "ChIJQzAKdH1uQUYR6q3YAp6zbp8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9124687,
@@ -6250,7 +6770,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skybar",
-		"place_id": "ChIJIQtoNGBuQUYR_Y2rL6g4BvQ"
+		"place_id": "ChIJIQtoNGBuQUYR_Y2rL6g4BvQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9145318,
@@ -6262,7 +6783,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Internasjonalen",
-		"place_id": "ChIJTQoGNmJuQUYRCljEbAEaMS8"
+		"place_id": "ChIJTQoGNmJuQUYRCljEbAEaMS8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.91404,
@@ -6274,7 +6796,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Theatercaféen",
-		"place_id": "ChIJKUfL-n1uQUYRBQem1qv03-8"
+		"place_id": "ChIJKUfL-n1uQUYRBQem1qv03-8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.915657,
@@ -6286,7 +6809,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hells Kitchen Oslo",
-		"place_id": "ChIJSysIr2NuQUYR0D4ZLQbzriE"
+		"place_id": "ChIJSysIr2NuQUYR0D4ZLQbzriE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.913714,
@@ -6298,7 +6822,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kampen Bistro",
-		"place_id": "ChIJ_7fCZ1duQUYRI9GCapmxAwA"
+		"place_id": "ChIJ_7fCZ1duQUYRI9GCapmxAwA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.914552,
@@ -6310,7 +6835,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Paleet",
-		"place_id": "ChIJA8iwdX1uQUYRMaNNoMjAFBc"
+		"place_id": "ChIJA8iwdX1uQUYRMaNNoMjAFBc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9125332,
@@ -6322,7 +6848,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "T.G.I. Friday's",
-		"place_id": "ChIJqeOSBWJuQUYRAjUekWtziUk"
+		"place_id": "ChIJqeOSBWJuQUYRAjUekWtziUk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9196838,
@@ -6334,7 +6861,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "SYNG",
-		"place_id": "ChIJmaY4j2ZuQUYR3SgKDQh6NTQ"
+		"place_id": "ChIJmaY4j2ZuQUYR3SgKDQh6NTQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9176068,
@@ -6346,7 +6874,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Sara",
-		"place_id": "ChIJbbryrGZuQUYRtz169fSMEG4"
+		"place_id": "ChIJbbryrGZuQUYRtz169fSMEG4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.912682,
@@ -6358,7 +6887,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Scotsman",
-		"place_id": "ChIJxUdpoGJuQUYRmUAGYdnaFKA"
+		"place_id": "ChIJxUdpoGJuQUYRmUAGYdnaFKA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.912266,
@@ -6370,7 +6900,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Joe's Sportsbar ANS",
-		"place_id": "ChIJ2R2IaYduQUYR94ohGAlqZVk"
+		"place_id": "ChIJ2R2IaYduQUYR94ohGAlqZVk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.911353,
@@ -6382,7 +6913,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Oslo Mekaniske Verksted",
-		"place_id": "ChIJpVMx9F9uQUYR6OyVZ4zkMQI"
+		"place_id": "ChIJpVMx9F9uQUYR6OyVZ4zkMQI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.408027,
@@ -6394,7 +6926,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kroa i Bø",
-		"place_id": "ChIJI5wWxWpJR0YRLDcpoOJp40Q"
+		"place_id": "ChIJI5wWxWpJR0YRLDcpoOJp40Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0228263,
@@ -6406,7 +6939,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Korshamn pub",
-		"place_id": "ChIJDZJogrZ5N0YR-d8-YsOcIp4"
+		"place_id": "ChIJDZJogrZ5N0YR-d8-YsOcIp4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4054425,
@@ -6418,7 +6952,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stokkebrygga Kafé",
-		"place_id": "ChIJSwFdY0X5EkYRTdi2xGYzVoY"
+		"place_id": "ChIJSwFdY0X5EkYRTdi2xGYzVoY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.190671,
@@ -6430,7 +6965,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Salt Restaurant - Restaurant and Catering in Sarpsborg",
-		"place_id": "ChIJ7wzX3ukPREYRslOY0Rpjv6Y"
+		"place_id": "ChIJ7wzX3ukPREYRslOY0Rpjv6Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8549778,
@@ -6442,7 +6978,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pumpeviktangen Beach Club",
-		"place_id": "ChIJKax7leADR0YR96FgArTNPnY"
+		"place_id": "ChIJKax7leADR0YR96FgArTNPnY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6022993,
@@ -6454,7 +6991,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olsahuset Bømlo",
-		"place_id": "ChIJFXKcMwZ5O0YRDQId73rmDp0"
+		"place_id": "ChIJFXKcMwZ5O0YRDQId73rmDp0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.221937,
@@ -6466,7 +7004,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eldnes Bussreiser AS",
-		"place_id": "ChIJV8yc50a-ckYR6DnRDDfFVTQ"
+		"place_id": "ChIJV8yc50a-ckYR6DnRDDfFVTQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3866539,
@@ -6478,7 +7017,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kalfaret Brygghus - mikrobryggeri",
-		"place_id": "ChIJjeLcC7T-PEYRcI0Mfn-c3-4"
+		"place_id": "ChIJjeLcC7T-PEYRcI0Mfn-c3-4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3897013,
@@ -6490,7 +7030,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Academic Quarter",
-		"place_id": "ChIJUR9SCAL8PEYRdWFRmjy03ws"
+		"place_id": "ChIJUR9SCAL8PEYRdWFRmjy03ws",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3880362,
@@ -6502,7 +7043,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Marg & bein",
-		"place_id": "ChIJHZY_Lqr-PEYRcZaf4xguPgk"
+		"place_id": "ChIJHZY_Lqr-PEYRcZaf4xguPgk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915066,
@@ -6514,7 +7056,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Boha Restaurant",
-		"place_id": "ChIJuy6WYwL8PEYRwykjlPE8X10"
+		"place_id": "ChIJuy6WYwL8PEYRwykjlPE8X10",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3942558,
@@ -6526,7 +7069,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Femte i andre Bar -",
-		"place_id": "ChIJVT2hC6j-PEYRQ3-HDkn1avU"
+		"place_id": "ChIJVT2hC6j-PEYRQ3-HDkn1avU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.384759,
@@ -6538,7 +7082,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hulen in Bergen",
-		"place_id": "ChIJEy1p5Kr-PEYROGeVy5m8JBE"
+		"place_id": "ChIJEy1p5Kr-PEYROGeVy5m8JBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3906336,
@@ -6550,7 +7095,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sumo restaurant",
-		"place_id": "ChIJE6uVcQL8PEYRd5UyOW4R8IE"
+		"place_id": "ChIJE6uVcQL8PEYRd5UyOW4R8IE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.396218,
@@ -6562,7 +7108,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Escalón Fløien",
-		"place_id": "ChIJDyW5Tab-PEYRoFXT_npx6UI"
+		"place_id": "ChIJDyW5Tab-PEYRoFXT_npx6UI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3894323,
@@ -6574,7 +7121,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Garage",
-		"place_id": "ChIJzeH57an-PEYR9dw02VwMwSM"
+		"place_id": "ChIJzeH57an-PEYR9dw02VwMwSM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3928282,
@@ -6586,7 +7134,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jacob Aall Brasserie & Bar Bergen",
-		"place_id": "ChIJu3S-Xaj-PEYRiV0QNnQKXao"
+		"place_id": "ChIJu3S-Xaj-PEYRiV0QNnQKXao",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.391402,
@@ -6598,7 +7147,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Inside Live & Rock cafe",
-		"place_id": "ChIJFXBwfAL8PEYRScMQLJUMq6E"
+		"place_id": "ChIJFXBwfAL8PEYRScMQLJUMq6E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.391147,
@@ -6610,7 +7160,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pingvinen",
-		"place_id": "ChIJS3_-egL8PEYR5JfrwhPxdiI"
+		"place_id": "ChIJS3_-egL8PEYR5JfrwhPxdiI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3947594,
@@ -6622,7 +7173,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Felix",
-		"place_id": "ChIJ8zua3qf-PEYRltBuEukw3D8"
+		"place_id": "ChIJ8zua3qf-PEYRltBuEukw3D8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3896437,
@@ -6634,7 +7186,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fincken",
-		"place_id": "ChIJi7MA5an-PEYRSjJHnVVt0Fw"
+		"place_id": "ChIJi7MA5an-PEYRSjJHnVVt0Fw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915188,
@@ -6646,7 +7199,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dreams Showbar",
-		"place_id": "ChIJ1UR0fwL8PEYRFfChiPBvedQ"
+		"place_id": "ChIJ1UR0fwL8PEYRFfChiPBvedQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.391178,
@@ -6658,7 +7212,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Biskopen",
-		"place_id": "ChIJYQaPZwL8PEYR_BXi4JotmbM"
+		"place_id": "ChIJYQaPZwL8PEYR_BXi4JotmbM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3912731,
@@ -6670,7 +7225,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pars Restaurant",
-		"place_id": "ChIJy4JxZwL8PEYRoKgFClNNGqY"
+		"place_id": "ChIJy4JxZwL8PEYRoKgFClNNGqY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.395255,
@@ -6682,7 +7238,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "scruffy Murphys",
-		"place_id": "ChIJB4caw6f-PEYRObMTD7WNkTE"
+		"place_id": "ChIJB4caw6f-PEYRObMTD7WNkTE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3902635,
@@ -6694,7 +7251,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BrukBar",
-		"place_id": "ChIJK1ZcFQL8PEYRvbJOPrKxfps"
+		"place_id": "ChIJK1ZcFQL8PEYRvbJOPrKxfps",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.38942,
@@ -6706,7 +7264,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Legal",
-		"place_id": "ChIJBTaA-qn-PEYReDdaDbslgMs"
+		"place_id": "ChIJBTaA-qn-PEYReDdaDbslgMs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.391945,
@@ -6718,7 +7277,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Wessel Bar",
-		"place_id": "ChIJM-sihgL8PEYR3xCwQon88iw"
+		"place_id": "ChIJM-sihgL8PEYR3xCwQon88iw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.39058,
@@ -6730,7 +7290,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brasilia Bergen",
-		"place_id": "ChIJcVyq3qn-PEYRtD4gnjhVY28"
+		"place_id": "ChIJcVyq3qn-PEYRtD4gnjhVY28",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915778,
@@ -6742,7 +7303,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kontoret Bar",
-		"place_id": "ChIJmzyQ1an-PEYRxg0Qxg8XBRk"
+		"place_id": "ChIJmzyQ1an-PEYRxg0Qxg8XBRk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3911359,
@@ -6754,7 +7316,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Bar & Lounge",
-		"place_id": "ChIJqzY-egL8PEYRudQQ9OqCRXU"
+		"place_id": "ChIJqzY-egL8PEYRudQQ9OqCRXU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3932316,
@@ -6766,7 +7329,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Allmuen",
-		"place_id": "ChIJm8ejH6j-PEYRaSk-oFSJe6o"
+		"place_id": "ChIJm8ejH6j-PEYRaSk-oFSJe6o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.393217,
@@ -6778,7 +7342,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jovial",
-		"place_id": "ChIJm8ejH6j-PEYRdX-jpqtH84s"
+		"place_id": "ChIJm8ejH6j-PEYRdX-jpqtH84s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.395006,
@@ -6790,7 +7355,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Harbour Café",
-		"place_id": "ChIJX9mF3Kf-PEYRu_0lGooLSt0"
+		"place_id": "ChIJX9mF3Kf-PEYRu_0lGooLSt0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3902936,
@@ -6802,7 +7368,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fotballpuben",
-		"place_id": "ChIJJeotEwL8PEYRbITilt7o4Xo"
+		"place_id": "ChIJJeotEwL8PEYRbITilt7o4Xo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.389704,
@@ -6814,7 +7381,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Landmark",
-		"place_id": "ChIJ0Y4Xnqn-PEYRn0o-Jpk7RIY"
+		"place_id": "ChIJ0Y4Xnqn-PEYRn0o-Jpk7RIY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.395102,
@@ -6826,7 +7394,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dyvekes",
-		"place_id": "ChIJFVe72qf-PEYRAH-6PFH8Z98"
+		"place_id": "ChIJFVe72qf-PEYRAH-6PFH8Z98",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3898614,
@@ -6838,7 +7407,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ujevnt",
-		"place_id": "ChIJPSRf7qn-PEYRd0tdw3kCH6Q"
+		"place_id": "ChIJPSRf7qn-PEYRd0tdw3kCH6Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3893748,
@@ -6850,7 +7420,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaos Bergen",
-		"place_id": "ChIJm8ejH6j-PEYRY7sORXNAUQY"
+		"place_id": "ChIJm8ejH6j-PEYRY7sORXNAUQY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3895925,
@@ -6862,7 +7433,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Apollon",
-		"place_id": "ChIJfSy58qn-PEYR2vE6V2SLW3I"
+		"place_id": "ChIJfSy58qn-PEYR2vE6V2SLW3I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3958921,
@@ -6874,7 +7446,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Library Bar",
-		"place_id": "ChIJZ88Wtqf-PEYReiCCV4-OZ2Q"
+		"place_id": "ChIJZ88Wtqf-PEYReiCCV4-OZ2Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3892656,
@@ -6886,7 +7459,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lysverket",
-		"place_id": "ChIJA5Bcbqn-PEYRiN3lhF2jfvw"
+		"place_id": "ChIJA5Bcbqn-PEYRiN3lhF2jfvw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3947019,
@@ -6898,7 +7472,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pergola mat & Vinbar",
-		"place_id": "ChIJKRykLqb-PEYRFNA_wHJyvYU"
+		"place_id": "ChIJKRykLqb-PEYRFNA_wHJyvYU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3948863,
@@ -6910,7 +7485,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "No Stress",
-		"place_id": "ChIJz7oV2qf-PEYRyPcuSze-g5c"
+		"place_id": "ChIJz7oV2qf-PEYRyPcuSze-g5c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3912703,
@@ -6922,7 +7498,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skipperstuen",
-		"place_id": "ChIJ0ecsfwL8PEYRk_osjEw_tZo"
+		"place_id": "ChIJ0ecsfwL8PEYRk_osjEw_tZo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.394246,
@@ -6934,7 +7511,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "People & Robbers",
-		"place_id": "ChIJzSCjgaj-PEYRuGZK7VYo8nA"
+		"place_id": "ChIJzSCjgaj-PEYRuGZK7VYo8nA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.391575,
@@ -6946,7 +7524,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The drop Wine Bar",
-		"place_id": "ChIJIy9UhwL8PEYRal7XVNqMRjk"
+		"place_id": "ChIJIy9UhwL8PEYRal7XVNqMRjk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3875503,
@@ -6958,7 +7537,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ad fontes",
-		"place_id": "ChIJxXLWoQH8PEYRDZWw_gg4cxE"
+		"place_id": "ChIJxXLWoQH8PEYRDZWw_gg4cxE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8251248,
@@ -6970,7 +7550,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Entry",
-		"place_id": "ChIJpftve_BoQUYRhV_Y7BTIJjA"
+		"place_id": "ChIJpftve_BoQUYRhV_Y7BTIJjA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9795988,
@@ -6982,7 +7563,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skøttruparken",
-		"place_id": "ChIJR689RX2yQ0YRm-DDkgzD_Yg"
+		"place_id": "ChIJR689RX2yQ0YRm-DDkgzD_Yg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4812856,
@@ -6994,7 +7576,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rått & Rococco",
-		"place_id": "ChIJoWHykAqNQ0YRnPwU58bUP2g"
+		"place_id": "ChIJoWHykAqNQ0YRnPwU58bUP2g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.1570001,
@@ -7006,7 +7589,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hagstua",
-		"place_id": "ChIJ6w1xRJty3kURLc3hhLG_voY"
+		"place_id": "ChIJ6w1xRJty3kURLc3hhLG_voY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.146208,
@@ -7018,7 +7602,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Surfer The Bar",
-		"place_id": "ChIJg91t9K0S3kUR7HSt8nVGrVU"
+		"place_id": "ChIJg91t9K0S3kUR7HSt8nVGrVU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.8595837,
@@ -7030,7 +7615,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Neptun pub Ltd",
-		"place_id": "ChIJK4gds-RqykURgS1fKbZnZk0"
+		"place_id": "ChIJK4gds-RqykURgS1fKbZnZk0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.5688166,
@@ -7042,7 +7628,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rødbrygga AS",
-		"place_id": "ChIJd0kGYPc03EURJ6OkNF2KloU"
+		"place_id": "ChIJd0kGYPc03EURJ6OkNF2KloU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2897425,
@@ -7054,7 +7641,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sku Bare",
-		"place_id": "ChIJM9hkgmEX30URWqIY9JLbRRY"
+		"place_id": "ChIJM9hkgmEX30URWqIY9JLbRRY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2896894,
@@ -7066,7 +7654,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Studenthuset UFO",
-		"place_id": "ChIJ77k7lWAX30UR1ZDiT0ywN84"
+		"place_id": "ChIJ77k7lWAX30UR1ZDiT0ywN84",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0950086,
@@ -7078,7 +7667,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygghuset Farsund",
-		"place_id": "ChIJnW0sz6ZkN0YRtcbtSUNu8Bg"
+		"place_id": "ChIJnW0sz6ZkN0YRtcbtSUNu8Bg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.094927,
@@ -7090,7 +7680,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygghuset Farsund AS",
-		"place_id": "ChIJh38DMI9kN0YR74Qh23OAbGE"
+		"place_id": "ChIJh38DMI9kN0YR74Qh23OAbGE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0945921,
@@ -7102,7 +7693,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bondeheimen Kulturpub",
-		"place_id": "ChIJkXb5tKZkN0YREoXWlqBkid4"
+		"place_id": "ChIJkXb5tKZkN0YREoXWlqBkid4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3965195,
@@ -7114,7 +7706,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar3",
-		"place_id": "ChIJ8xpKo6f-PEYRVwgj13XgwpI"
+		"place_id": "ChIJ8xpKo6f-PEYRVwgj13XgwpI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.396407,
@@ -7126,7 +7719,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Harbor Jetty & Hotel",
-		"place_id": "ChIJ7UiSuiX8PEYR-LgnG7MOdLE"
+		"place_id": "ChIJ7UiSuiX8PEYR-LgnG7MOdLE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3960559,
@@ -7138,7 +7732,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "FG Restaurant & Bar",
-		"place_id": "ChIJe2Yxv6f-PEYRVX9ncf1rCFY"
+		"place_id": "ChIJe2Yxv6f-PEYRVX9ncf1rCFY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2904838,
@@ -7150,7 +7745,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Bergen Airport",
-		"place_id": "ChIJGcFvH37wPEYRaTheCZpmEGM"
+		"place_id": "ChIJGcFvH37wPEYRaTheCZpmEGM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2888072,
@@ -7162,7 +7758,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJL2W_bX7wPEYRkCFQ5esngdA"
+		"place_id": "ChIJL2W_bX7wPEYRkCFQ5esngdA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.1526683,
@@ -7174,7 +7771,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bjerka Kro AS",
-		"place_id": "ChIJw6lXSa63dUYRTR4hBAlsL1Y"
+		"place_id": "ChIJw6lXSa63dUYRTR4hBAlsL1Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7569167,
@@ -7186,7 +7784,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nysvehaugen Elgpost",
-		"place_id": "ChIJKcCOM6MBQkYRwtvvPqnhO2E"
+		"place_id": "ChIJKcCOM6MBQkYRwtvvPqnhO2E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.014026,
@@ -7198,7 +7797,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Skjærgården",
-		"place_id": "ChIJP8vc_lfhRkYRtgo0i6kjRgs"
+		"place_id": "ChIJP8vc_lfhRkYRtgo0i6kjRgs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0547203,
@@ -7210,7 +7810,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stålpressa Bear & Wine - Brevik",
-		"place_id": "ChIJiUz4HanhRkYR25aFnai4Aqc"
+		"place_id": "ChIJiUz4HanhRkYR25aFnai4Aqc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0530999,
@@ -7222,7 +7823,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygga Isbar",
-		"place_id": "ChIJgcBukqjhRkYRKI7OKobaOGQ"
+		"place_id": "ChIJgcBukqjhRkYRKI7OKobaOGQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0522337,
@@ -7234,7 +7836,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brevik MC Klubb",
-		"place_id": "ChIJYTuhgaXhRkYR4oU8Fv8Dw20"
+		"place_id": "ChIJYTuhgaXhRkYR4oU8Fv8Dw20",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3241546,
@@ -7246,7 +7849,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fagernes Yacht Club Bergen",
-		"place_id": "ChIJPZw7MTr6PEYRS1nq1WnECGc"
+		"place_id": "ChIJPZw7MTr6PEYRS1nq1WnECGc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2976994,
@@ -7258,7 +7862,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "OSS Craft Distillery",
-		"place_id": "ChIJBYnx25z6PEYRfn73eJHih1w"
+		"place_id": "ChIJBYnx25z6PEYRfn73eJHih1w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4743244,
@@ -7270,7 +7875,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sirkus Råmunddal",
-		"place_id": "ChIJGZrY--9VR0YRzmJisyq7Uw8"
+		"place_id": "ChIJGZrY--9VR0YRzmJisyq7Uw8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.9066254,
@@ -7282,7 +7888,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Duehuset",
-		"place_id": "ChIJRQWlo9YQPkYR4-FOYo7LlYw"
+		"place_id": "ChIJRQWlo9YQPkYR4-FOYo7LlYw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.8375,
@@ -7294,7 +7901,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sneppen cafè",
-		"place_id": "ChIJOabQFWhadEYRwTEyVfjS-O0"
+		"place_id": "ChIJOabQFWhadEYRwTEyVfjS-O0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.8369309,
@@ -7306,7 +7914,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lokaln AS",
-		"place_id": "ChIJYdX2I2hadEYRbye_40sBucY"
+		"place_id": "ChIJYdX2I2hadEYRbye_40sBucY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.012019,
@@ -7318,7 +7927,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Halvorseth",
-		"place_id": "ChIJRdWeNdHtQEYRvVwG0VkE7Ls"
+		"place_id": "ChIJRdWeNdHtQEYRvVwG0VkE7Ls",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.9337409,
@@ -7330,7 +7940,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jibe - Restaurant Operations Maloy",
-		"place_id": "ChIJE0LFiV-eF0YR_z6LpxMh858"
+		"place_id": "ChIJE0LFiV-eF0YR_z6LpxMh858",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.0745944,
@@ -7342,7 +7953,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tyst",
-		"place_id": "ChIJ_xOswkvBFEYR5MZ2bWvIOTk"
+		"place_id": "ChIJ_xOswkvBFEYR5MZ2bWvIOTk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7813689,
@@ -7354,7 +7966,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Pipe, Gastropub",
-		"place_id": "ChIJwQhRrfo_QUYRywilLaZJOLg"
+		"place_id": "ChIJwQhRrfo_QUYRywilLaZJOLg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.2727212,
@@ -7366,7 +7979,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Smithy Pub & Cafe",
-		"place_id": "ChIJ0V4ROFTo3EURkJaOkNSsNKI"
+		"place_id": "ChIJ0V4ROFTo3EURkJaOkNSsNKI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4856682,
@@ -7378,7 +7992,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Winos Crew Hadeland",
-		"place_id": "ChIJp3KIlHK3QUYR_1fQtqp_2Bc"
+		"place_id": "ChIJp3KIlHK3QUYR_1fQtqp_2Bc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.770512,
@@ -7390,7 +8005,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pillarguri Kafè",
-		"place_id": "ChIJG5-yhesqa0YReXjO0kCSmJI"
+		"place_id": "ChIJG5-yhesqa0YReXjO0kCSmJI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.7704475,
@@ -7402,7 +8018,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "VILLA ITALIANO OTTA",
-		"place_id": "ChIJgS45_-oqa0YR0s5ccqS7e_g"
+		"place_id": "ChIJgS45_-oqa0YR0s5ccqS7e_g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.8754943,
@@ -7414,7 +8031,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Club Bowling and bar",
-		"place_id": "ChIJaYNUO-fbFEYRqC2qmapjXgM"
+		"place_id": "ChIJaYNUO-fbFEYRqC2qmapjXgM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.932257,
@@ -7426,7 +8044,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Chateau Neuf - The Norwegian Students' Society",
-		"place_id": "ChIJn3h4UtttQUYR1srR-Zcr2q0"
+		"place_id": "ChIJn3h4UtttQUYR1srR-Zcr2q0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9275049,
@@ -7438,7 +8057,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Riwaj of India",
-		"place_id": "ChIJOTMoRGluQUYRHEkc3FohzrU"
+		"place_id": "ChIJOTMoRGluQUYRHEkc3FohzrU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9257163,
@@ -7450,7 +8070,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tamara Casanare",
-		"place_id": "ChIJxU3Q_2huQUYRIpJpbX5oTCw"
+		"place_id": "ChIJxU3Q_2huQUYRIpJpbX5oTCw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9250331,
@@ -7462,7 +8083,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grünerløkka Brygghus",
-		"place_id": "ChIJqUdI5mhuQUYR1D4a-2P9sHA"
+		"place_id": "ChIJqUdI5mhuQUYR1D4a-2P9sHA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9229679,
@@ -7474,7 +8096,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Underwater Pub",
-		"place_id": "ChIJ7eYGQnpuQUYRJI77aF0lZq0"
+		"place_id": "ChIJ7eYGQnpuQUYRJI77aF0lZq0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9243197,
@@ -7486,7 +8109,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Oslo Microbrewery AS",
-		"place_id": "ChIJI3M8mNdtQUYRujD6wTju9RE"
+		"place_id": "ChIJI3M8mNdtQUYRujD6wTju9RE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9209344,
@@ -7498,7 +8122,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Horgan‘s",
-		"place_id": "ChIJf0rQonhuQUYRyAsKE5qm3h0"
+		"place_id": "ChIJf0rQonhuQUYRyAsKE5qm3h0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.920819,
@@ -7510,7 +8135,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lorry restaurant",
-		"place_id": "ChIJG6_3wHhuQUYRQNMA9X1UR5I"
+		"place_id": "ChIJG6_3wHhuQUYRQNMA9X1UR5I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.92178,
@@ -7522,7 +8148,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cathedral Pub & Spiseri",
-		"place_id": "ChIJH7p--nhuQUYRt0fU2SQ7N58"
+		"place_id": "ChIJH7p--nhuQUYRt0fU2SQ7N58",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9153078,
@@ -7534,7 +8161,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Champagneria",
-		"place_id": "ChIJ0UQfyNRtQUYRO2dn49l9ovY"
+		"place_id": "ChIJ0UQfyNRtQUYRO2dn49l9ovY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.529541,
@@ -7546,7 +8174,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Blomvåg Fjordhotell",
-		"place_id": "ChIJTzTrok8gPUYRCf-y0A3gFwU"
+		"place_id": "ChIJTzTrok8gPUYRCf-y0A3gFwU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5960042,
@@ -7558,7 +8187,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ysteriet",
-		"place_id": "ChIJAQ99AXnaakYRxgJ23cCoEr8"
+		"place_id": "ChIJAQ99AXnaakYRxgJ23cCoEr8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.5530232,
@@ -7570,7 +8200,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jaha pub",
-		"place_id": "ChIJd23-qMl13EUR6sPnw4yaQos"
+		"place_id": "ChIJd23-qMl13EUR6sPnw4yaQos",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2850059,
@@ -7582,7 +8213,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Southeastern Restaurant & Bar",
-		"place_id": "ChIJm1oH5F0Q30URrNdyWAkTGc4"
+		"place_id": "ChIJm1oH5F0Q30URrNdyWAkTGc4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2838606,
@@ -7594,7 +8226,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norlænningen",
-		"place_id": "ChIJIYU1d14Q30URDrFjjD-92Nk"
+		"place_id": "ChIJIYU1d14Q30URDrFjjD-92Nk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2848324,
@@ -7606,7 +8239,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dama Di AS",
-		"place_id": "ChIJt3-1Fl4Q30URtH8HVDaq0vc"
+		"place_id": "ChIJt3-1Fl4Q30URtH8HVDaq0vc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2843885,
@@ -7618,7 +8252,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Public",
-		"place_id": "ChIJr2iV3l0Q30URI3qTU-yljEI"
+		"place_id": "ChIJr2iV3l0Q30URI3qTU-yljEI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2848393,
@@ -7630,7 +8265,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hundholmen",
-		"place_id": "ChIJYd5l1F0Q30URhM-6OfsCS_k"
+		"place_id": "ChIJYd5l1F0Q30URhM-6OfsCS_k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2848467,
@@ -7642,7 +8278,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hundholmen Brygghus",
-		"place_id": "ChIJOVwI6l0Q30URTrIQJJ4TlSU"
+		"place_id": "ChIJOVwI6l0Q30URTrIQJJ4TlSU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.283791,
@@ -7654,7 +8291,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Matkoski Helberg Residence",
-		"place_id": "ChIJ4yCeyV0Q30URmVY0jMrLnf4"
+		"place_id": "ChIJ4yCeyV0Q30URmVY0jMrLnf4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2828534,
@@ -7666,7 +8304,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Piccadilly pub",
-		"place_id": "ChIJsyyXNlwQ30URHeG3QRdykaA"
+		"place_id": "ChIJsyyXNlwQ30URHeG3QRdykaA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2826868,
@@ -7678,7 +8317,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaptein Larsen",
-		"place_id": "ChIJc97wR1wQ30URKWPQRqvKF-0"
+		"place_id": "ChIJc97wR1wQ30URKWPQRqvKF-0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.283562,
@@ -7690,7 +8330,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "En Kopp.restaurant.Cafè&Bar",
-		"place_id": "ChIJ5SZWTVwQ30URxW-DBYFlaKc"
+		"place_id": "ChIJ5SZWTVwQ30URxW-DBYFlaKc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.144474,
@@ -7702,7 +8343,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Becks Brasserie & Bar Osebro",
-		"place_id": "ChIJNShyvHsgR0YRcw-Tc6JXx-U"
+		"place_id": "ChIJNShyvHsgR0YRcw-Tc6JXx-U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1404551,
@@ -7714,7 +8356,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cava",
-		"place_id": "ChIJtyR8s3MgR0YRRQvqsiwTUZ4"
+		"place_id": "ChIJtyR8s3MgR0YRRQvqsiwTUZ4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1401084,
@@ -7726,7 +8369,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Daimlers AS",
-		"place_id": "ChIJ9wpTunMgR0YRCXRoohCzCwo"
+		"place_id": "ChIJ9wpTunMgR0YRCXRoohCzCwo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1402382,
@@ -7738,7 +8382,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rockeklubben I Porsgrunn",
-		"place_id": "ChIJ9wpTunMgR0YRW-nG8QOB1Xw"
+		"place_id": "ChIJ9wpTunMgR0YRW-nG8QOB1Xw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1122074,
@@ -7750,7 +8395,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Comfort Hotel Fosna Kristiansund",
-		"place_id": "ChIJXf6MwDXbE0YRbWtO-MfS50M"
+		"place_id": "ChIJXf6MwDXbE0YRbWtO-MfS50M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1105045,
@@ -7762,7 +8408,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggekanten Brasserie Restaurant & Bar",
-		"place_id": "ChIJMZgBgDXbE0YRa6QYjl_0sBQ"
+		"place_id": "ChIJMZgBgDXbE0YRa6QYjl_0sBQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1092385,
@@ -7774,7 +8421,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Christian's Bar",
-		"place_id": "ChIJRVZ1aUrbE0YRkb43baIBeNA"
+		"place_id": "ChIJRVZ1aUrbE0YRkb43baIBeNA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1086719,
@@ -7786,7 +8434,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "JP Clausens Bar",
-		"place_id": "ChIJNfGCJUrbE0YR67wZqzHlMVg"
+		"place_id": "ChIJNfGCJUrbE0YR67wZqzHlMVg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.110167,
@@ -7798,7 +8447,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar å sånn",
-		"place_id": "ChIJ9wFFbUrbE0YRGkI8enGhRH8"
+		"place_id": "ChIJ9wFFbUrbE0YRGkI8enGhRH8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1120845,
@@ -7810,7 +8460,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kick Off",
-		"place_id": "ChIJ2VSMwDXbE0YRfz5OzmvPOmI"
+		"place_id": "ChIJ2VSMwDXbE0YRfz5OzmvPOmI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1121426,
@@ -7822,7 +8473,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The roof outdoor patio",
-		"place_id": "ChIJ9dlpwDXbE0YR-RYYqAudRnc"
+		"place_id": "ChIJ9dlpwDXbE0YR-RYYqAudRnc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.1118507,
@@ -7834,7 +8486,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "No9 pub",
-		"place_id": "ChIJU23e6DXbE0YRUHW8pP2FFBY"
+		"place_id": "ChIJU23e6DXbE0YRUHW8pP2FFBY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.8048187,
@@ -7846,7 +8499,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bolga Kro",
-		"place_id": "ChIJZ0MhZnV9dUYRrJcN27HXQKQ"
+		"place_id": "ChIJZ0MhZnV9dUYRrJcN27HXQKQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.2458757,
@@ -7858,7 +8512,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "På Hjørnet",
-		"place_id": "ChIJ38r5Ni9DckYRrO5VEIFpVII"
+		"place_id": "ChIJ38r5Ni9DckYRrO5VEIFpVII",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.2182965,
@@ -7870,7 +8525,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vollan Gjestestue AS",
-		"place_id": "ChIJ9_ZKYZLR2kUR6-q1F82yqLM"
+		"place_id": "ChIJ9_ZKYZLR2kUR6-q1F82yqLM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7967255,
@@ -7882,7 +8538,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Chaplin",
-		"place_id": "ChIJceICABjaQUYRok5hFSrBimw"
+		"place_id": "ChIJceICABjaQUYRok5hFSrBimw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.794517,
@@ -7894,7 +8551,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Carriage Toto's Bar",
-		"place_id": "ChIJGXHryRfaQUYRxm5hqZWNv_8"
+		"place_id": "ChIJGXHryRfaQUYRxm5hqZWNv_8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.794441,
@@ -7906,7 +8564,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Pi",
-		"place_id": "ChIJZXsJHD3aQUYRYFdMTmpUNrY"
+		"place_id": "ChIJZXsJHD3aQUYRYFdMTmpUNrY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7877889,
@@ -7918,7 +8577,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Studentenes hus Studentsamskipnaden i Oppland, Teknologivegen, Gjøvik",
-		"place_id": "ChIJVVUp7RTaQUYRhxmCXdMJfGg"
+		"place_id": "ChIJVVUp7RTaQUYRhxmCXdMJfGg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7959648,
@@ -7930,7 +8590,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fahlstrøm Bar and Grill",
-		"place_id": "ChIJtxRk_RfaQUYRsuze9U7HrEs"
+		"place_id": "ChIJtxRk_RfaQUYRsuze9U7HrEs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7969989,
@@ -7942,7 +8603,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Flipp - Games & Bar",
-		"place_id": "ChIJT-JeriLaQUYRbIXA9DoLlXU"
+		"place_id": "ChIJT-JeriLaQUYRbIXA9DoLlXU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7970379,
@@ -7954,7 +8616,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hematt",
-		"place_id": "ChIJvbWoBhjaQUYRKhiR3lv3c9g"
+		"place_id": "ChIJvbWoBhjaQUYRKhiR3lv3c9g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7956011,
@@ -7966,7 +8629,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heim Gjøvik",
-		"place_id": "ChIJ4deXRz3aQUYRqOTP3ECYQ3k"
+		"place_id": "ChIJ4deXRz3aQUYRqOTP3ECYQ3k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7957174,
@@ -7978,7 +8642,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Khalles Corner Gjøvik AS",
-		"place_id": "ChIJM4iwWT3aQUYR-kkSOxHV05Q"
+		"place_id": "ChIJM4iwWT3aQUYR-kkSOxHV05Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.7979098,
@@ -7990,7 +8655,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Havnepuben",
-		"place_id": "ChIJiZBabiPaQUYRpF2yt0D13fQ"
+		"place_id": "ChIJiZBabiPaQUYRpF2yt0D13fQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.29244,
@@ -8002,7 +8668,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Edvard Grieg",
-		"place_id": "ChIJU8w6tAD6PEYRVqH6VaIuKjg"
+		"place_id": "ChIJU8w6tAD6PEYRVqH6VaIuKjg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3605565,
@@ -8014,7 +8681,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stabburet AS",
-		"place_id": "ChIJu8VG1z35PEYRTBdvDG3aimA"
+		"place_id": "ChIJu8VG1z35PEYRTBdvDG3aimA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2300306,
@@ -8026,7 +8694,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Glomma Pizza and Pub",
-		"place_id": "ChIJXUJRynMDREYReaWj1-wvjWc"
+		"place_id": "ChIJXUJRynMDREYReaWj1-wvjWc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.249532,
@@ -8038,7 +8707,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Elias Pizzabar - Rolvsøy",
-		"place_id": "ChIJkXjDr6IDREYRjWHgaapmVdg"
+		"place_id": "ChIJkXjDr6IDREYRjWHgaapmVdg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2328232,
@@ -8050,7 +8720,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Snippen Sportsbar",
-		"place_id": "ChIJ7QHybAwDREYR3t6nJJRlxXk"
+		"place_id": "ChIJ7QHybAwDREYR3t6nJJRlxXk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2483826,
@@ -8062,7 +8733,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ramsum Grill East",
-		"place_id": "ChIJMR3WS_7HRkYR6AKuMmLY3Dk"
+		"place_id": "ChIJMR3WS_7HRkYR6AKuMmLY3Dk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0751837,
@@ -8074,7 +8746,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "CRYSTAL RESTAURANT AS",
-		"place_id": "ChIJ__0geh-EQUYRP8LGDnn9mDY"
+		"place_id": "ChIJ__0geh-EQUYRP8LGDnn9mDY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.124623,
@@ -8086,7 +8759,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Webers Garage",
-		"place_id": "ChIJL6NZ4-jfRkYR-NK1OyY99aA"
+		"place_id": "ChIJL6NZ4-jfRkYR-NK1OyY99aA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1381424,
@@ -8098,7 +8772,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Karjolen pub DA",
-		"place_id": "ChIJHzv9wXIgR0YRajoPAkcdQIU"
+		"place_id": "ChIJHzv9wXIgR0YRajoPAkcdQIU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1387029,
@@ -8110,7 +8785,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sailors in",
-		"place_id": "ChIJ2cava20gR0YRZdIpzo9tnKQ"
+		"place_id": "ChIJ2cava20gR0YRZdIpzo9tnKQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3715604,
@@ -8122,7 +8798,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "neighbor Pub",
-		"place_id": "ChIJQR5zRWs0PEYRZSdvudqYdWM"
+		"place_id": "ChIJQR5zRWs0PEYRZSdvudqYdWM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4403198,
@@ -8134,7 +8811,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Baristas Bar",
-		"place_id": "ChIJeSBe8kU6bUYRlKwOdi4Z8bU"
+		"place_id": "ChIJeSBe8kU6bUYRlKwOdi4Z8bU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.0211702,
@@ -8146,7 +8824,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Onkel Oskar",
-		"place_id": "ChIJ-5I08E7jdEYRaVfFsjzklys"
+		"place_id": "ChIJ-5I08E7jdEYRaVfFsjzklys",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.0223269,
@@ -8158,7 +8837,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurante Soprano",
-		"place_id": "ChIJbcF-qE7jdEYRDVsukwe2cWk"
+		"place_id": "ChIJbcF-qE7jdEYRDVsukwe2cWk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.4445591,
@@ -8170,7 +8850,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pila Pub AS Skaland",
-		"place_id": "ChIJ00-Sjwip3EURsqBNL-8TU1w"
+		"place_id": "ChIJ00-Sjwip3EURsqBNL-8TU1w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7798246,
@@ -8182,7 +8863,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ambolten AS",
-		"place_id": "ChIJD2mS2TI4OkYR_ZMPTHrZKHE"
+		"place_id": "ChIJD2mS2TI4OkYR_ZMPTHrZKHE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7831942,
@@ -8194,7 +8876,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Svensefjøset AS",
-		"place_id": "ChIJ_Sz7gD49QUYRi0q8RZPhnOU"
+		"place_id": "ChIJ_Sz7gD49QUYRi0q8RZPhnOU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7897378,
@@ -8206,7 +8889,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "House Of Bergmann",
-		"place_id": "ChIJ08DyKDY9QUYRjS8mDsVAERU"
+		"place_id": "ChIJ08DyKDY9QUYRjS8mDsVAERU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7901695,
@@ -8218,7 +8902,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Casa del Bjørnstadjordet",
-		"place_id": "ChIJux5s4Ek9QUYRx3sXg2zKVNk"
+		"place_id": "ChIJux5s4Ek9QUYRx3sXg2zKVNk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.6006214,
@@ -8230,7 +8915,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Riverfell recreation",
-		"place_id": "ChIJsTmRmC7rF0YRapG1c7I4890"
+		"place_id": "ChIJsTmRmC7rF0YRapG1c7I4890",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7355302,
@@ -8242,7 +8928,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Centrum Bar Og Restaurant",
-		"place_id": "ChIJPU45i504OkYRi58L0Jevx2k"
+		"place_id": "ChIJPU45i504OkYRi58L0Jevx2k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7354275,
@@ -8254,7 +8941,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mellombels ølstove",
-		"place_id": "ChIJ7d9R8504OkYR0rAKFW2JAzg"
+		"place_id": "ChIJ7d9R8504OkYR0rAKFW2JAzg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7351731,
@@ -8266,7 +8954,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Thime Station",
-		"place_id": "ChIJwZDr8504OkYReC_QYuy_nIw"
+		"place_id": "ChIJwZDr8504OkYReC_QYuy_nIw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7351731,
@@ -8278,7 +8967,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "thime Station",
-		"place_id": "ChIJwZDr8504OkYRBpJP5q3F_z0"
+		"place_id": "ChIJwZDr8504OkYRBpJP5q3F_z0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7359305,
@@ -8290,7 +8980,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Maestro",
-		"place_id": "ChIJGR59bmJHOkYR_yVEqBimT30"
+		"place_id": "ChIJGR59bmJHOkYR_yVEqBimT30",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7349818,
@@ -8302,7 +8993,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Chill Bar",
-		"place_id": "ChIJ65AcCWJHOkYRyWZjKPVD1iM"
+		"place_id": "ChIJ65AcCWJHOkYRyWZjKPVD1iM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4665464,
@@ -8314,7 +9006,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fellini Restaurant & Pizzeria",
-		"place_id": "ChIJOQaJ0KPFFkYRa5kJlal7Th4"
+		"place_id": "ChIJOQaJ0KPFFkYRa5kJlal7Th4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4622689,
@@ -8326,7 +9019,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Strømsheim & Sons Brygg AS",
-		"place_id": "ChIJt9_jwDzFFkYRlA-yUiXHpQ0"
+		"place_id": "ChIJt9_jwDzFFkYRlA-yUiXHpQ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.08772,
@@ -8338,7 +9032,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dampen Bar & Spiseri",
-		"place_id": "ChIJn3bofZ35PUYRIzaKUoEv3a0"
+		"place_id": "ChIJn3bofZ35PUYRIzaKUoEv3a0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.6876061,
@@ -8350,7 +9045,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barrock",
-		"place_id": "ChIJ15WqKzS-EkYRq4LBGOKH3y4"
+		"place_id": "ChIJ15WqKzS-EkYRq4LBGOKH3y4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7942986,
@@ -8362,7 +9058,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rett Vest Partybar",
-		"place_id": "ChIJLYa34c6DPEYRpX0M9P2yEe8"
+		"place_id": "ChIJLYa34c6DPEYRpX0M9P2yEe8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7934327,
@@ -8374,7 +9071,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Main Street Bar & Night Club",
-		"place_id": "ChIJP1I19s6DPEYRgOJsAX2ywig"
+		"place_id": "ChIJP1I19s6DPEYRgOJsAX2ywig",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0969902,
@@ -8386,7 +9084,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Torvets cafe & pub AS",
-		"place_id": "ChIJTa3Xblv2N0YRo6_wlVl0moY"
+		"place_id": "ChIJTa3Xblv2N0YRo6_wlVl0moY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.304214,
@@ -8398,7 +9097,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O75 Restaurant, Bar & Lounge",
-		"place_id": "ChIJB3ZQaxPXEkYRxeqjfM9qZg4"
+		"place_id": "ChIJB3ZQaxPXEkYRxeqjfM9qZg4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3070034,
@@ -8410,7 +9110,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Orklapøbben AS",
-		"place_id": "ChIJEQrt8xTXEkYRCgYwuC-HVdo"
+		"place_id": "ChIJEQrt8xTXEkYRCgYwuC-HVdo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.4733958,
@@ -8422,7 +9123,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kred AS",
-		"place_id": "ChIJNZldCJubdEYRed-IoKUB4iM"
+		"place_id": "ChIJNZldCJubdEYRed-IoKUB4iM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.474235,
@@ -8434,7 +9136,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ritz cafe",
-		"place_id": "ChIJHbm1CJubdEYRwrmChYIqKmk"
+		"place_id": "ChIJHbm1CJubdEYRwrmChYIqKmk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.233198,
@@ -8446,7 +9149,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grana Brewery AS",
-		"place_id": "ChIJ-7m0TiNdckYRJAxKY_k-STA"
+		"place_id": "ChIJ-7m0TiNdckYRJAxKY_k-STA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4593925,
@@ -8458,7 +9162,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rotat Racing Bopel",
-		"place_id": "ChIJrXo9A73PEkYRUgL-lvbWUcY"
+		"place_id": "ChIJrXo9A73PEkYRUgL-lvbWUcY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.999045,
@@ -8470,7 +9175,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pubben AS",
-		"place_id": "ChIJn1-LQei0O0YRJAEHB0cpnhk"
+		"place_id": "ChIJn1-LQei0O0YRJAEHB0cpnhk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0347058,
@@ -8482,7 +9188,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fest og basar",
-		"place_id": "ChIJgzDcJay1O0YRUxOoCnU1WyY"
+		"place_id": "ChIJgzDcJay1O0YRUxOoCnU1WyY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.192358,
@@ -8494,7 +9201,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel & Congress Oslo Airport",
-		"place_id": "ChIJbRyJWXSDQUYRDvEbK4NydjY"
+		"place_id": "ChIJbRyJWXSDQUYRDvEbK4NydjY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1636185,
@@ -8506,7 +9214,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Airport Hotel Gardermoen",
-		"place_id": "ChIJP8Z0JXeBQUYREjaTtQvbZX0"
+		"place_id": "ChIJP8Z0JXeBQUYREjaTtQvbZX0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1937395,
@@ -8518,7 +9227,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "OSL Lounge",
-		"place_id": "ChIJp1IzOJGDQUYRNPBpvmcpDTc"
+		"place_id": "ChIJp1IzOJGDQUYRNPBpvmcpDTc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1938937,
@@ -8530,7 +9240,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Scandinavian Lounge",
-		"place_id": "ChIJY3PeOpGDQUYR8oOG8YXFuCA"
+		"place_id": "ChIJY3PeOpGDQUYR8oOG8YXFuCA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1939373,
@@ -8542,7 +9253,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Scandinavian Gold Lounge",
-		"place_id": "ChIJ_fcCJZGDQUYRzBxt61nSlww"
+		"place_id": "ChIJ_fcCJZGDQUYRzBxt61nSlww",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1942147,
@@ -8554,7 +9266,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "SAS Lounge International OSLO",
-		"place_id": "ChIJIb8PfpODQUYRNAAtfYT2pBM"
+		"place_id": "ChIJIb8PfpODQUYRNAAtfYT2pBM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.19755,
@@ -8566,7 +9279,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJ7UnrN5CDQUYR4nKnlEgN6ik"
+		"place_id": "ChIJ7UnrN5CDQUYR4nKnlEgN6ik",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1480604,
@@ -8578,7 +9292,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "rollling wheels mc",
-		"place_id": "ChIJAZDjvyeCQUYR4tDUEIU_97w"
+		"place_id": "ChIJAZDjvyeCQUYR4tDUEIU_97w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1937502,
@@ -8590,7 +9305,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sea Food Bar",
-		"place_id": "ChIJGQIuzpCDQUYRPfap8SrM3ic"
+		"place_id": "ChIJGQIuzpCDQUYRPfap8SrM3ic",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1938648,
@@ -8602,7 +9318,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Aquavit bar",
-		"place_id": "ChIJ0WOtRJGDQUYR8-C00itVYSg"
+		"place_id": "ChIJ0WOtRJGDQUYR8-C00itVYSg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1947343,
@@ -8614,7 +9331,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hunter Bar Gardermoen",
-		"place_id": "ChIJrQt56pCDQUYRV0Ba8unmp9s"
+		"place_id": "ChIJrQt56pCDQUYRV0Ba8unmp9s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1951422,
@@ -8626,7 +9344,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norgesglasset Oslo Lufthavn",
-		"place_id": "ChIJwekO45CDQUYRgP-t2Oo-3FE"
+		"place_id": "ChIJwekO45CDQUYRgP-t2Oo-3FE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.0134017,
@@ -8638,7 +9357,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Grand, Steinkjer",
-		"place_id": "ChIJ0dE81iSbckYR6qRIubeQrX4"
+		"place_id": "ChIJ0dE81iSbckYR6qRIubeQrX4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.0138341,
@@ -8650,7 +9370,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Madam Brix AS",
-		"place_id": "ChIJMVaQ2iSbckYRmk2pI4RlIKI"
+		"place_id": "ChIJMVaQ2iSbckYRmk2pI4RlIKI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.0138537,
@@ -8662,7 +9383,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Onkel Oskar (Steinkjer Bar)",
-		"place_id": "ChIJPfZrJyWbckYROU2f5-MMEFI"
+		"place_id": "ChIJPfZrJyWbckYROU2f5-MMEFI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.0152567,
@@ -8674,7 +9396,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bodegan",
-		"place_id": "ChIJG0Hc_CSbckYRioiCMINuZQo"
+		"place_id": "ChIJG0Hc_CSbckYRioiCMINuZQo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.017601,
@@ -8686,7 +9409,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vårt Hjem SteinkjerAS",
-		"place_id": "ChIJCXI8PySbckYRoy1svyHaNko"
+		"place_id": "ChIJCXI8PySbckYRoy1svyHaNko",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.995421,
@@ -8698,7 +9422,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sekskanten Tavern and Pub",
-		"place_id": "ChIJVXB49qv9P0YRBolewVY_xAY"
+		"place_id": "ChIJVXB49qv9P0YRBolewVY_xAY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.4499286,
@@ -8710,7 +9435,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Thon Hotel Førde",
-		"place_id": "ChIJR095BdkzFkYRkdWBoCzvK64"
+		"place_id": "ChIJR095BdkzFkYRkdWBoCzvK64",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8841114,
@@ -8722,7 +9448,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brumunddal Live Scene",
-		"place_id": "ChIJ7dBHEX11akYRXliA1lnuQio"
+		"place_id": "ChIJ7dBHEX11akYRXliA1lnuQio",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.503583,
@@ -8734,7 +9461,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sirevåg konferansehotell",
-		"place_id": "ChIJ2U1cKyYROkYRgzyc_TtRcZE"
+		"place_id": "ChIJ2U1cKyYROkYRgzyc_TtRcZE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9287252,
@@ -8746,7 +9474,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel 33",
-		"place_id": "ChIJ8zJmMLZvQUYRHl5kflVKQvI"
+		"place_id": "ChIJ8zJmMLZvQUYRHl5kflVKQvI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7344905,
@@ -8758,7 +9487,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "LYE MEKKECLUB",
-		"place_id": "ChIJ4eA_6xo5OkYRLa2rCeRfVoM"
+		"place_id": "ChIJ4eA_6xo5OkYRLa2rCeRfVoM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0693522,
@@ -8770,7 +9500,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vertshuset",
-		"place_id": "ChIJlcwehuifPkYRChVI9V9teEo"
+		"place_id": "ChIJlcwehuifPkYRChVI9V9teEo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0688866,
@@ -8782,7 +9513,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Iris Scene Odda",
-		"place_id": "ChIJtWAd8uifPkYRIOh99xDoPno"
+		"place_id": "ChIJtWAd8uifPkYRIOh99xDoPno",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0690534,
@@ -8794,7 +9526,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "GLACIER RESTAURANT, BAR, CAFE & CATERING, ODDA",
-		"place_id": "ChIJMaGvjBeePkYRaRqC4K4-0no"
+		"place_id": "ChIJMaGvjBeePkYRaRqC4K4-0no",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9535861,
@@ -8806,7 +9539,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Energy",
-		"place_id": "ChIJBfgJ1J5KOkYR6aWmitlcx_8"
+		"place_id": "ChIJBfgJ1J5KOkYR6aWmitlcx_8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9581042,
@@ -8818,7 +9552,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Farmhouse",
-		"place_id": "ChIJCVhIGsBKOkYRKkBq68EjjDQ"
+		"place_id": "ChIJCVhIGsBKOkYRKkBq68EjjDQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.856881,
@@ -8830,7 +9565,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Myrkdalen Fjellandsby",
-		"place_id": "ChIJ811ww07mPUYR0jxHYFb3q6o"
+		"place_id": "ChIJ811ww07mPUYR0jxHYFb3q6o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.6956902,
@@ -8842,7 +9578,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "blue Bar",
-		"place_id": "ChIJP0CCJuhF3EURjkjLjF2wvZE"
+		"place_id": "ChIJP0CCJuhF3EURjkjLjF2wvZE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9024392,
@@ -8854,7 +9591,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Expo",
-		"place_id": "ChIJw9ODdPNsQUYRjO8Prn7o5uY"
+		"place_id": "ChIJw9ODdPNsQUYRjO8Prn7o5uY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9105716,
@@ -8866,7 +9604,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Beer Palace",
-		"place_id": "ChIJX3KhqYFuQUYRZLBbyx7FraA"
+		"place_id": "ChIJX3KhqYFuQUYRZLBbyx7FraA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9158,
@@ -8878,7 +9617,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mares Restaurant",
-		"place_id": "ChIJZ7htpdRtQUYRACmF7KSBSoc"
+		"place_id": "ChIJZ7htpdRtQUYRACmF7KSBSoc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.911609,
@@ -8890,7 +9630,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Alfred.",
-		"place_id": "ChIJEdCjxYBuQUYRkMiX9oZxZvw"
+		"place_id": "ChIJEdCjxYBuQUYRkMiX9oZxZvw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.908728,
@@ -8902,7 +9643,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rorbua Aker Brygge",
-		"place_id": "ChIJe4n4joFuQUYRMaNe6vdjcRM"
+		"place_id": "ChIJe4n4joFuQUYRMaNe6vdjcRM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9106191,
@@ -8914,7 +9656,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Il Barbera",
-		"place_id": "ChIJW9Sf3IFuQUYR9EdoB6--9_U"
+		"place_id": "ChIJW9Sf3IFuQUYR9EdoB6--9_U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.938061,
@@ -8926,7 +9669,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "ISI-rommet",
-		"place_id": "ChIJ1yWC5YFKOkYR2SoSZge130I"
+		"place_id": "ChIJ1yWC5YFKOkYR2SoSZge130I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9382628,
@@ -8938,7 +9682,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tappetårnet",
-		"place_id": "ChIJSxxFfH41OkYRm2BXqsMrLgc"
+		"place_id": "ChIJSxxFfH41OkYRm2BXqsMrLgc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9561789,
@@ -8950,7 +9695,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "SG Food og Catering",
-		"place_id": "ChIJ5Wkk0x9LOkYRkz8iUxtbi9E"
+		"place_id": "ChIJ5Wkk0x9LOkYRkz8iUxtbi9E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6488692,
@@ -8962,7 +9708,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pub'en",
-		"place_id": "ChIJ_fHDM6n_O0YR7DhSVmGXrXo"
+		"place_id": "ChIJ_fHDM6n_O0YR7DhSVmGXrXo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4400274,
@@ -8974,7 +9721,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel & Congress Trondheim",
-		"place_id": "ChIJq3jrGHYxbUYRWCokKUAb-00"
+		"place_id": "ChIJq3jrGHYxbUYRWCokKUAb-00",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.432693,
@@ -8986,7 +9734,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nova Hotell",
-		"place_id": "ChIJhdWTFZsxbUYRrYpb182o12E"
+		"place_id": "ChIJhdWTFZsxbUYRrYpb182o12E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.438032,
@@ -8998,7 +9747,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ramp Pub & Spiseri",
-		"place_id": "ChIJ81aNcAoxbUYR9A3T2-hoyz4"
+		"place_id": "ChIJ81aNcAoxbUYR9A3T2-hoyz4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4279765,
@@ -9010,7 +9760,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Den Gode Nabo Pub",
-		"place_id": "ChIJnSfpw5kxbUYRrD-oYXLVPTI"
+		"place_id": "ChIJnSfpw5kxbUYRrD-oYXLVPTI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.440875,
@@ -9022,7 +9773,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "E.C. Dahls bryggeri",
-		"place_id": "ChIJlXXIYgkxbUYRlp0vZ6kx-nU"
+		"place_id": "ChIJlXXIYgkxbUYRlp0vZ6kx-nU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4338533,
@@ -9034,7 +9786,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Bare Blåbær",
-		"place_id": "ChIJ0WlxXZ8xbUYRXU_PpZIQCLU"
+		"place_id": "ChIJ0WlxXZ8xbUYRXU_PpZIQCLU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4371043,
@@ -9046,7 +9799,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kudos",
-		"place_id": "ChIJf3_qV6cxbUYRdpMZ2vJy0UI"
+		"place_id": "ChIJf3_qV6cxbUYRdpMZ2vJy0UI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4419195,
@@ -9058,7 +9812,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "E.C.Dahls Bryggeri. Pub Og Kjøkken",
-		"place_id": "ChIJQdOI4QsxbUYRawbfIv9XA00"
+		"place_id": "ChIJQdOI4QsxbUYRawbfIv9XA00",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.434914,
@@ -9070,7 +9825,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Getout.no",
-		"place_id": "ChIJ46AhzaExbUYR4XuorY7VAJA"
+		"place_id": "ChIJ46AhzaExbUYR4XuorY7VAJA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4335019,
@@ -9082,7 +9838,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Løkka",
-		"place_id": "ChIJs-DHJJ8xbUYRslPZTW18HJo"
+		"place_id": "ChIJs-DHJJ8xbUYRslPZTW18HJo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4289138,
@@ -9094,7 +9851,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Havfruen",
-		"place_id": "ChIJFY_TjZkxbUYRdsk7WovnjNI"
+		"place_id": "ChIJFY_TjZkxbUYRdsk7WovnjNI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4346354,
@@ -9106,7 +9864,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heidi's Bier Bar Trondheim",
-		"place_id": "ChIJmxJ5cJ8xbUYRB1gNbagHlLw"
+		"place_id": "ChIJmxJ5cJ8xbUYRB1gNbagHlLw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4349567,
@@ -9118,7 +9877,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Northeast Food & Cocktails",
-		"place_id": "ChIJ39iadJ8xbUYRaxoj-dLz3fk"
+		"place_id": "ChIJ39iadJ8xbUYRaxoj-dLz3fk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4342384,
@@ -9130,7 +9890,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fru Lundgreen // MIRK",
-		"place_id": "ChIJYel9vp4xbUYRsy8uPb57-zk"
+		"place_id": "ChIJYel9vp4xbUYRsy8uPb57-zk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4341806,
@@ -9142,7 +9903,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Three Lions pub",
-		"place_id": "ChIJ3zgMGpwxbUYRfCWR9xxUlk0"
+		"place_id": "ChIJ3zgMGpwxbUYRfCWR9xxUlk0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4346256,
@@ -9154,7 +9916,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Frida Restaurante Mexicano - Trondheim",
-		"place_id": "ChIJPdq_PZwxbUYRbQ-H0R8SK7s"
+		"place_id": "ChIJPdq_PZwxbUYRbQ-H0R8SK7s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.432992,
@@ -9166,7 +9929,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fire fine",
-		"place_id": "ChIJSXoJKZ8xbUYRdJYXK1WbiBg"
+		"place_id": "ChIJSXoJKZ8xbUYRdJYXK1WbiBg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.433866,
@@ -9178,7 +9942,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe 3b AS",
-		"place_id": "ChIJBROAG5wxbUYRXIhUkOYFi5Q"
+		"place_id": "ChIJBROAG5wxbUYRXIhUkOYFi5Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4338102,
@@ -9190,7 +9955,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lounge AS",
-		"place_id": "ChIJ8XR3uZ4xbUYR4zXCutF8-pw"
+		"place_id": "ChIJ8XR3uZ4xbUYR4zXCutF8-pw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4346387,
@@ -9202,7 +9968,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygghus 9",
-		"place_id": "ChIJafMAIZwxbUYRqj-4iEyUuog"
+		"place_id": "ChIJafMAIZwxbUYRqj-4iEyUuog",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4284274,
@@ -9214,7 +9981,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Antikvariatet",
-		"place_id": "ChIJtTyDwJkxbUYRSfa9a56pD5o"
+		"place_id": "ChIJtTyDwJkxbUYRSfa9a56pD5o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4332229,
@@ -9226,7 +9994,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Moskus",
-		"place_id": "ChIJ5_4fB5wxbUYRLMbvQCrjPJA"
+		"place_id": "ChIJ5_4fB5wxbUYRLMbvQCrjPJA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4339602,
@@ -9238,7 +10007,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Good Omens",
-		"place_id": "ChIJYwZDEJwxbUYRWpQ0OTz0jnA"
+		"place_id": "ChIJYwZDEJwxbUYRWpQ0OTz0jnA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4304822,
@@ -9250,7 +10020,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sellanraa Bok & Bar",
-		"place_id": "ChIJw6111psxbUYRtljsA7ciqSM"
+		"place_id": "ChIJw6111psxbUYRtljsA7ciqSM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4338521,
@@ -9262,7 +10033,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bobby's Bar",
-		"place_id": "ChIJy5CKcpwxbUYRSe2vu5E4xe0"
+		"place_id": "ChIJy5CKcpwxbUYRSe2vu5E4xe0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4363261,
@@ -9274,7 +10046,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Casa Di Salvo",
-		"place_id": "ChIJ87Ko-acxbUYRgxtcr7TCXpw"
+		"place_id": "ChIJ87Ko-acxbUYRgxtcr7TCXpw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4379471,
@@ -9286,7 +10059,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mellomveien",
-		"place_id": "ChIJucpiwgkxbUYRltJuwfJjjLA"
+		"place_id": "ChIJucpiwgkxbUYRltJuwfJjjLA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4343295,
@@ -9298,7 +10072,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Passi Dokkhuset",
-		"place_id": "ChIJ6RdPbJ8xbUYRVSosCHalFHs"
+		"place_id": "ChIJ6RdPbJ8xbUYRVSosCHalFHs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4325817,
@@ -9310,7 +10085,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cowsea",
-		"place_id": "ChIJSd-rKpkxbUYRM4jmKeduEgE"
+		"place_id": "ChIJSd-rKpkxbUYRM4jmKeduEgE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4296828,
@@ -9322,7 +10098,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nidelven Bar & Scene",
-		"place_id": "ChIJ1b5Sg5kxbUYRraokneyh8eA"
+		"place_id": "ChIJ1b5Sg5kxbUYRraokneyh8eA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2805473,
@@ -9334,7 +10111,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kallestad Grendahus",
-		"place_id": "ChIJI-030UfvPEYRXkxVXkUctio"
+		"place_id": "ChIJI-030UfvPEYRXkxVXkUctio",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4921491,
@@ -9346,7 +10124,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fugla Bar",
-		"place_id": "ChIJkXp4G1FrQkYRDhPYGREudmI"
+		"place_id": "ChIJkXp4G1FrQkYRDhPYGREudmI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3825676,
@@ -9358,7 +10137,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cornerbaren",
-		"place_id": "ChIJGY3q01T5PEYRIK7f8wbMZAE"
+		"place_id": "ChIJGY3q01T5PEYRIK7f8wbMZAE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.423859,
@@ -9370,7 +10150,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rolf's bar",
-		"place_id": "ChIJTy_y7VHS3UURo6C4WJTstjw"
+		"place_id": "ChIJTy_y7VHS3UURo6C4WJTstjw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.192874,
@@ -9382,7 +10163,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bowling 1 Kongsvinger AS",
-		"place_id": "ChIJiyhc0_dIQkYRm3Bw2PWShvI"
+		"place_id": "ChIJiyhc0_dIQkYRm3Bw2PWShvI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1865058,
@@ -9394,7 +10176,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vinger Hotell & Spa",
-		"place_id": "ChIJ-f12I_pIQkYRGMvcgski0KI"
+		"place_id": "ChIJ-f12I_pIQkYRGMvcgski0KI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1869907,
@@ -9406,7 +10189,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Castrum Spiseri",
-		"place_id": "ChIJIySxp_lIQkYRskk5Gp1_6T0"
+		"place_id": "ChIJIySxp_lIQkYRskk5Gp1_6T0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1869907,
@@ -9418,7 +10202,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vinger Blues & Soul Club",
-		"place_id": "ChIJIySxp_lIQkYRbeFgj40zOtM"
+		"place_id": "ChIJIySxp_lIQkYRbeFgj40zOtM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4225794,
@@ -9430,7 +10215,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Øre Villa Kro",
-		"place_id": "ChIJCQeQZqNSQUYRTVSN6obtRkk"
+		"place_id": "ChIJCQeQZqNSQUYRTVSN6obtRkk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4356136,
@@ -9442,7 +10228,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Queens pub",
-		"place_id": "ChIJMeh9DmJNQUYRplfUNAZRntM"
+		"place_id": "ChIJMeh9DmJNQUYRplfUNAZRntM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.43399,
@@ -9454,7 +10241,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kråkereiret Rockeklubb",
-		"place_id": "ChIJgRFatWZNQUYR5AmKC6n9kag"
+		"place_id": "ChIJgRFatWZNQUYR5AmKC6n9kag",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4349118,
@@ -9466,7 +10254,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tivolikjeller'n",
-		"place_id": "ChIJ8S8NWWFNQUYRVtqcklXk4T0"
+		"place_id": "ChIJ8S8NWWFNQUYRVtqcklXk4T0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4340095,
@@ -9478,7 +10267,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fiskebasaren",
-		"place_id": "ChIJ0wP-6mZNQUYR1G97bqN3kfE"
+		"place_id": "ChIJ0wP-6mZNQUYR1G97bqN3kfE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4184025,
@@ -9490,7 +10280,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rompuben AS",
-		"place_id": "ChIJkyY9QLpSQUYRbhIXmniDmjk"
+		"place_id": "ChIJkyY9QLpSQUYRbhIXmniDmjk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4340842,
@@ -9502,7 +10293,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kontoret bar",
-		"place_id": "ChIJjWvNSmFNQUYRwCW4BqtTxL4"
+		"place_id": "ChIJjWvNSmFNQUYRwCW4BqtTxL4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4344632,
@@ -9514,7 +10306,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "London café og pub",
-		"place_id": "ChIJacfWTGFNQUYRZyl8L8fe1oo"
+		"place_id": "ChIJacfWTGFNQUYRZyl8L8fe1oo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.827229,
@@ -9526,7 +10319,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tjøndalsbu",
-		"place_id": "ChIJjWFPDxCHOUYRA9Xjc1UhsUc"
+		"place_id": "ChIJjWFPDxCHOUYRA9Xjc1UhsUc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2160181,
@@ -9538,7 +10332,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norwego Brewery Dept Ullern",
-		"place_id": "ChIJQa12wCswQkYRJGPk1RFhDq0"
+		"place_id": "ChIJQa12wCswQkYRJGPk1RFhDq0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3034797,
@@ -9550,7 +10345,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rectum Bar & Garasjeanlegg",
-		"place_id": "ChIJP2wZVMzdOUYRuLV9ReJLO-A"
+		"place_id": "ChIJP2wZVMzdOUYRuLV9ReJLO-A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.2973154,
@@ -9562,7 +10358,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Flaminco Bar",
-		"place_id": "ChIJlVHUttvdOUYRnpFJmxDFmX8"
+		"place_id": "ChIJlVHUttvdOUYRnpFJmxDFmX8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.2973473,
@@ -9574,7 +10371,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hestens Bøn",
-		"place_id": "ChIJY-zVsNvdOUYRGM3ZJVZUDq0"
+		"place_id": "ChIJY-zVsNvdOUYRGM3ZJVZUDq0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.745512,
@@ -9586,7 +10384,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Artic Lyngen Sjøcamp",
-		"place_id": "ChIJKesjcN0TxUURFOVp87uFGg4"
+		"place_id": "ChIJKesjcN0TxUURFOVp87uFGg4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3283493,
@@ -9598,7 +10397,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Barolo AS",
-		"place_id": "ChIJ8Yt4aOaIQUYRb8fKIgcHMPg"
+		"place_id": "ChIJ8Yt4aOaIQUYRb8fKIgcHMPg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7086057,
@@ -9610,7 +10410,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Erik Halvorsen",
-		"place_id": "ChIJ55pZXPt4OEYRPvNCu6NywQg"
+		"place_id": "ChIJ55pZXPt4OEYRPvNCu6NywQg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1798734,
@@ -9622,7 +10423,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tapas Tone",
-		"place_id": "ChIJOxAxvdwBOEYRegzajd1n7D8"
+		"place_id": "ChIJOxAxvdwBOEYRegzajd1n7D8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0963408,
@@ -9634,7 +10436,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Playa Bar",
-		"place_id": "ChIJzc8wlDFrR0YRqfC3UD7fFuo"
+		"place_id": "ChIJzc8wlDFrR0YRqfC3UD7fFuo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.66329,
@@ -9646,7 +10449,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Guri Malla",
-		"place_id": "ChIJD_6Z8iJEQUYR3fXGuxToaT8"
+		"place_id": "ChIJD_6Z8iJEQUYR3fXGuxToaT8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6634434,
@@ -9658,7 +10462,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bytinget Drøbak",
-		"place_id": "ChIJXaG4kiJEQUYRYFOP5ZDkDZc"
+		"place_id": "ChIJXaG4kiJEQUYRYFOP5ZDkDZc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.054207,
@@ -9670,7 +10475,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stokkøya Sjøsenter as",
-		"place_id": "ChIJnaTnOtJeDUYRCyh6Clpu4fg"
+		"place_id": "ChIJnaTnOtJeDUYRCyh6Clpu4fg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.0131466,
@@ -9682,7 +10488,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rorbua Café og Pub",
-		"place_id": "ChIJ9yri4bNYDUYRw8YpXIGV90o"
+		"place_id": "ChIJ9yri4bNYDUYRw8YpXIGV90o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.6734132,
@@ -9694,7 +10501,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jøa Kystlag",
-		"place_id": "ChIJW9fEb4onc0YRlOwAcQEALgI"
+		"place_id": "ChIJW9fEb4onc0YRlOwAcQEALgI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.636559,
@@ -9706,7 +10514,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Faksdal Brygge Pøbben",
-		"place_id": "ChIJfV_VP-nYckYRNteQvMTkl7U"
+		"place_id": "ChIJfV_VP-nYckYRNteQvMTkl7U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4543788,
@@ -9718,7 +10527,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barometer",
-		"place_id": "ChIJ1-tUj-QVbUYRg6sFkeYCXto"
+		"place_id": "ChIJ1-tUj-QVbUYRg6sFkeYCXto",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4318535,
@@ -9730,7 +10540,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Knut Roger Størseth",
-		"place_id": "ChIJUyqzJYYWbUYRsRZjeU6GyQo"
+		"place_id": "ChIJUyqzJYYWbUYRsRZjeU6GyQo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.454358,
@@ -9742,7 +10553,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJj_tkpOQVbUYRI5qvVg0XC8s"
+		"place_id": "ChIJj_tkpOQVbUYRI5qvVg0XC8s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.0714383,
@@ -9754,7 +10566,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kalvegjerdet brygghus",
-		"place_id": "ChIJ53viA6ho20URxO9va-6wC8I"
+		"place_id": "ChIJ53viA6ho20URxO9va-6wC8I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4513077,
@@ -9766,7 +10579,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hauen Kro AS",
-		"place_id": "ChIJUa_6gY8cOkYREuYJ7JSi_XI"
+		"place_id": "ChIJUa_6gY8cOkYREuYJ7JSi_XI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.45166,
@@ -9778,7 +10592,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mungåt beer bar",
-		"place_id": "ChIJu1Cgfo8cOkYRmSEoOdU--8w"
+		"place_id": "ChIJu1Cgfo8cOkYRmSEoOdU--8w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4514276,
@@ -9790,7 +10605,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pibbaren og Nelliken",
-		"place_id": "ChIJM8ModoUcOkYRbKBBCbp2IsE"
+		"place_id": "ChIJM8ModoUcOkYRbKBBCbp2IsE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.451059,
@@ -9802,7 +10618,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Tender",
-		"place_id": "ChIJLWfngI8cOkYRZdTHqCsTc4E"
+		"place_id": "ChIJLWfngI8cOkYRZdTHqCsTc4E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.274236,
@@ -9814,7 +10631,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skipperstua",
-		"place_id": "ChIJcbmx5R9iQEYRsq5w_Wobctg"
+		"place_id": "ChIJcbmx5R9iQEYRsq5w_Wobctg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8605998,
@@ -9826,7 +10644,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Casa del Haugen",
-		"place_id": "ChIJJWp3sTQYQUYRGkaYZHq50Wk"
+		"place_id": "ChIJJWp3sTQYQUYRGkaYZHq50Wk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7281984,
@@ -9838,7 +10657,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Momarka Grendehus",
-		"place_id": "ChIJ-yP1359lbUYRAQWr4ahIBbQ"
+		"place_id": "ChIJ-yP1359lbUYRAQWr4ahIBbQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7471753,
@@ -9850,7 +10670,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Oskar's Pub and Bar",
-		"place_id": "ChIJnWLjqgBlbUYR9IBYyHrNQdU"
+		"place_id": "ChIJnWLjqgBlbUYR9IBYyHrNQdU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7467891,
@@ -9862,7 +10683,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Banken disco og bar",
-		"place_id": "ChIJr9iIVAdlbUYRM0j9biMxSOY"
+		"place_id": "ChIJr9iIVAdlbUYRM0j9biMxSOY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.727899,
@@ -9874,7 +10696,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ofelas Pub & Disco / Ofelas Arena",
-		"place_id": "ChIJ89C5r-VIy0UR0xyxAtFx7PU"
+		"place_id": "ChIJ89C5r-VIy0UR0xyxAtFx7PU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.7275428,
@@ -9886,7 +10709,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pub 1 AS",
-		"place_id": "ChIJmd2eWORIy0URaCp3jQdA7i0"
+		"place_id": "ChIJmd2eWORIy0URaCp3jQdA7i0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.7274895,
@@ -9898,7 +10722,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rallar'n Pub",
-		"place_id": "ChIJW5Jm9uRIy0URsDtppXke6UA"
+		"place_id": "ChIJW5Jm9uRIy0URsDtppXke6UA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.7292335,
@@ -9910,7 +10735,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Havruen Pub",
-		"place_id": "ChIJe2iwEOVIy0URnZa9Zwahhc4"
+		"place_id": "ChIJe2iwEOVIy0URnZa9Zwahhc4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2215037,
@@ -9922,7 +10748,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Villmarksleir",
-		"place_id": "ChIJZyJ4VGLuPEYRhrRAvdNWbsU"
+		"place_id": "ChIJZyJ4VGLuPEYRhrRAvdNWbsU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2285405,
@@ -9934,7 +10761,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Garasjen til Nils Magne Vorland",
-		"place_id": "ChIJgQEAlIzuPEYRRfiEsTrf7Q0"
+		"place_id": "ChIJgQEAlIzuPEYRRfiEsTrf7Q0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4830186,
@@ -9946,7 +10774,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Landsbypuben",
-		"place_id": "ChIJ588XO-csQUYRvQ9udXvKpEc"
+		"place_id": "ChIJ588XO-csQUYRvQ9udXvKpEc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.892245,
@@ -9958,7 +10787,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bergtatt Experiences",
-		"place_id": "ChIJR5MDRG3iE0YRL5mZ7KVjf3c"
+		"place_id": "ChIJR5MDRG3iE0YRL5mZ7KVjf3c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.4678895,
@@ -9970,7 +10800,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Vøringsfoss",
-		"place_id": "ChIJ9RbRB19hPkYRdH-YtVoODWo"
+		"place_id": "ChIJ9RbRB19hPkYRdH-YtVoODWo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.465605,
@@ -9982,7 +10813,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sjel Og Gane I Heggjagarden",
-		"place_id": "ChIJldUa3F9hPkYRB2xkHafw3CQ"
+		"place_id": "ChIJldUa3F9hPkYRB2xkHafw3CQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.2517789,
@@ -9994,7 +10826,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bjørn Andree Indreeide",
-		"place_id": "ChIJaZBMqQ8gFEYRunc4BFSehbQ"
+		"place_id": "ChIJaZBMqQ8gFEYRunc4BFSehbQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3939801,
@@ -10006,7 +10839,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bank1Bar",
-		"place_id": "ChIJYahbh6j-PEYRNTQnK181dhA"
+		"place_id": "ChIJYahbh6j-PEYRNTQnK181dhA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3936999,
@@ -10018,7 +10852,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaffelade Matbørsen",
-		"place_id": "ChIJMRBxbaj-PEYRuqQiqYF_Lqo"
+		"place_id": "ChIJMRBxbaj-PEYRuqQiqYF_Lqo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3935312,
@@ -10030,7 +10865,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "tempo tempo",
-		"place_id": "ChIJVX1Rl6j-PEYRgp1ewqyzp84"
+		"place_id": "ChIJVX1Rl6j-PEYRgp1ewqyzp84",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3964604,
@@ -10042,7 +10878,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Belgio Gastro Pub",
-		"place_id": "ChIJIZVnsKf-PEYRyIIdV9VD92o"
+		"place_id": "ChIJIZVnsKf-PEYRyIIdV9VD92o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3953741,
@@ -10054,7 +10891,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vinyl",
-		"place_id": "ChIJU7T2zKf-PEYRhPf0DMg1P4g"
+		"place_id": "ChIJU7T2zKf-PEYRhPf0DMg1P4g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3952295,
@@ -10066,7 +10904,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Magda",
-		"place_id": "ChIJc5Kizaf-PEYR-s3kKSAjiZY"
+		"place_id": "ChIJc5Kizaf-PEYR-s3kKSAjiZY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3951162,
@@ -10078,7 +10917,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Microbryggeriet",
-		"place_id": "ChIJvzvZ5af-PEYRANn4XFMipCc"
+		"place_id": "ChIJvzvZ5af-PEYRANn4XFMipCc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3942721,
@@ -10090,7 +10930,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Villa Blanca",
-		"place_id": "ChIJURkpeaj-PEYRfTedFtYL1kw"
+		"place_id": "ChIJURkpeaj-PEYRfTedFtYL1kw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3960735,
@@ -10102,7 +10943,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BarKollektiv",
-		"place_id": "ChIJVXCMtqf-PEYRRuOj6O08x0Q"
+		"place_id": "ChIJVXCMtqf-PEYRRuOj6O08x0Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3959865,
@@ -10114,7 +10956,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Inside Fløien Rock cafe",
-		"place_id": "ChIJs7rbtKf-PEYRBiLXYm_td2g"
+		"place_id": "ChIJs7rbtKf-PEYRBiLXYm_td2g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3949476,
@@ -10126,7 +10969,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tonga Bar",
-		"place_id": "ChIJubqJ26f-PEYR9VhU3e4jp0g"
+		"place_id": "ChIJubqJ26f-PEYR9VhU3e4jp0g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3948762,
@@ -10138,7 +10982,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Metz Bar",
-		"place_id": "ChIJJ3UQ3Kf-PEYR0Kpst7Rbx8U"
+		"place_id": "ChIJJ3UQ3Kf-PEYR0Kpst7Rbx8U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.394432,
@@ -10150,7 +10995,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Roll & Rock Bar & Diner",
-		"place_id": "ChIJabHpKab-PEYRiQSt-RqyjZo"
+		"place_id": "ChIJabHpKab-PEYRiQSt-RqyjZo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5603482,
@@ -10162,7 +11008,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Øyra Pub",
-		"place_id": "ChIJaxHVDBy2FkYRKW3WHAMokzU"
+		"place_id": "ChIJaxHVDBy2FkYRKW3WHAMokzU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0775585,
@@ -10174,7 +11021,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vertshuset Høllen Brygge AS",
-		"place_id": "ChIJHyWj3fD2N0YRI9eBMLTF12c"
+		"place_id": "ChIJHyWj3fD2N0YRI9eBMLTF12c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0784021,
@@ -10186,7 +11034,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Free Beer",
-		"place_id": "ChIJxyEjyw73N0YRvkLzyx0TStg"
+		"place_id": "ChIJxyEjyw73N0YRvkLzyx0TStg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.733394,
@@ -10198,7 +11047,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bøndernes Hus i Enebakk",
-		"place_id": "ChIJb5Y2qQzgQ0YRm7lvVbBEHyU"
+		"place_id": "ChIJb5Y2qQzgQ0YRm7lvVbBEHyU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.999532,
@@ -10210,7 +11060,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rockers",
-		"place_id": "ChIJ_-m6LffjRkYReRiaZKydEjI"
+		"place_id": "ChIJ_-m6LffjRkYReRiaZKydEjI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.9152128,
@@ -10222,7 +11073,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Høttn Pub",
-		"place_id": "ChIJJ1wTuaxU3EURxAmEJA8uxpc"
+		"place_id": "ChIJJ1wTuaxU3EURxAmEJA8uxpc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.4028565,
@@ -10234,7 +11086,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "fjellbakken",
-		"place_id": "ChIJQ35hS5nmdUYR6oBEwML9pYI"
+		"place_id": "ChIJQ35hS5nmdUYR6oBEwML9pYI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.359386,
@@ -10246,7 +11099,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Panorama, Trondheim",
-		"place_id": "ChIJ-V9QQWgubUYRdo2YKDVFWvU"
+		"place_id": "ChIJ-V9QQWgubUYRdo2YKDVFWvU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3618596,
@@ -10258,7 +11112,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tiller Restaurant & Bar",
-		"place_id": "ChIJO9Px-0MubUYR2uNvPHPBqNI"
+		"place_id": "ChIJO9Px-0MubUYR2uNvPHPBqNI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7797155,
@@ -10270,7 +11125,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygga 11 Stord",
-		"place_id": "ChIJL3YVQSJ5PEYR_1Z5sR1X5k0"
+		"place_id": "ChIJL3YVQSJ5PEYR_1Z5sR1X5k0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7801543,
@@ -10282,7 +11138,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Osvald Pub AS",
-		"place_id": "ChIJ6W4dTCJ5PEYR9cfs6XcM4ew"
+		"place_id": "ChIJ6W4dTCJ5PEYR9cfs6XcM4ew",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7783058,
@@ -10294,7 +11151,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sjøhuset",
-		"place_id": "ChIJQRPVJyJ5PEYR3lavFU07t8I"
+		"place_id": "ChIJQRPVJyJ5PEYR3lavFU07t8I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.877435,
@@ -10306,7 +11164,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Grill Restaurant",
-		"place_id": "ChIJr_ka1K4BakYRxumjpuTMWzk"
+		"place_id": "ChIJr_ka1K4BakYRxumjpuTMWzk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.882372,
@@ -10318,7 +11177,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "San Marino Elverum",
-		"place_id": "ChIJEzRv5KsBakYREMPTl_H17K0"
+		"place_id": "ChIJEzRv5KsBakYREMPTl_H17K0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8822713,
@@ -10330,7 +11190,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Soundgarden pub DA",
-		"place_id": "ChIJ_aNZ-KsBakYRVDgGKxbMKtc"
+		"place_id": "ChIJ_aNZ-KsBakYRVDgGKxbMKtc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8836505,
@@ -10342,7 +11203,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brødr. STENSBY Eftf.",
-		"place_id": "ChIJiyV4Q6kBakYR0YiGEXLswXU"
+		"place_id": "ChIJiyV4Q6kBakYR0YiGEXLswXU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8836778,
@@ -10354,7 +11216,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lokket Pub & Bar",
-		"place_id": "ChIJbaTua6kBakYRIOjywcubYZk"
+		"place_id": "ChIJbaTua6kBakYRIOjywcubYZk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8675559,
@@ -10366,7 +11229,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Andy's Bar",
-		"place_id": "ChIJ1csk-lAAakYRdc0W4t04rKA"
+		"place_id": "ChIJ1csk-lAAakYRdc0W4t04rKA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5762876,
@@ -10378,7 +11242,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vertshuset Røros",
-		"place_id": "ChIJ8VK9cedkbEYRzrf11nSM3a8"
+		"place_id": "ChIJ8VK9cedkbEYRzrf11nSM3a8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5794702,
@@ -10390,7 +11255,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lobby Bar",
-		"place_id": "ChIJvb5f6ehkbEYRpmgul-BeIHU"
+		"place_id": "ChIJvb5f6ehkbEYRpmgul-BeIHU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5746226,
@@ -10402,7 +11268,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nilsenhjørnet",
-		"place_id": "ChIJX0uscd1kbEYRAFKcgdSit4o"
+		"place_id": "ChIJX0uscd1kbEYRAFKcgdSit4o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5759858,
@@ -10414,7 +11281,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skanckebua Bar & Restaurant",
-		"place_id": "ChIJGaOFeedkbEYR9W15SxSq48s"
+		"place_id": "ChIJGaOFeedkbEYR9W15SxSq48s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.5762876,
@@ -10426,7 +11294,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Berkel and Bar",
-		"place_id": "ChIJL7YAcedkbEYRR31sb5CXflE"
+		"place_id": "ChIJL7YAcedkbEYRR31sb5CXflE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.0345439,
@@ -10438,7 +11307,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skjervøy Pub",
-		"place_id": "ChIJf_hw672hxUURyOHyD-d4rAA"
+		"place_id": "ChIJf_hw672hxUURyOHyD-d4rAA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.9221597,
@@ -10450,7 +11320,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The marina bar restaurant Moelv",
-		"place_id": "ChIJh0EcpRl4akYRHas4wI8odKE"
+		"place_id": "ChIJh0EcpRl4akYRHas4wI8odKE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2583456,
@@ -10462,7 +11333,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaptein Larsen - Fauske",
-		"place_id": "ChIJy3IXCbQt30URUlRJVfr3wrI"
+		"place_id": "ChIJy3IXCbQt30URUlRJVfr3wrI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2591054,
@@ -10474,7 +11346,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fagers",
-		"place_id": "ChIJB7snjrMt30UR0oYe5uOGnL4"
+		"place_id": "ChIJB7snjrMt30UR0oYe5uOGnL4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.8038526,
@@ -10486,7 +11359,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ludo bar & stage",
-		"place_id": "ChIJyUQ4Pjh83EURBGLj5iYBk7M"
+		"place_id": "ChIJyUQ4Pjh83EURBGLj5iYBk7M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.800381,
@@ -10498,7 +11372,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bark Spiseri og Bar",
-		"place_id": "ChIJp5Z_xjh83EURZOVdKwzJMdo"
+		"place_id": "ChIJp5Z_xjh83EURZOVdKwzJMdo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.8047037,
@@ -10510,7 +11385,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The inn Utheim",
-		"place_id": "ChIJ69T9wEd83EURBg2KN8V03DA"
+		"place_id": "ChIJ69T9wEd83EURBg2KN8V03DA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.7999214,
@@ -10522,7 +11398,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "City Bar",
-		"place_id": "ChIJk0F5yTh83EURGihNZwLzjpw"
+		"place_id": "ChIJk0F5yTh83EURGihNZwLzjpw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.342491,
@@ -10534,7 +11411,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Gallery AS",
-		"place_id": "ChIJsbh1iWPuR0YR-VQFLrczboQ"
+		"place_id": "ChIJsbh1iWPuR0YR-VQFLrczboQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3417472,
@@ -10546,7 +11424,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Apotekergaarden - Mad & Leven AS",
-		"place_id": "ChIJ_yAQk2PuR0YRUR95LrUi1RA"
+		"place_id": "ChIJ_yAQk2PuR0YRUR95LrUi1RA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3347123,
@@ -10558,7 +11437,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bluebox",
-		"place_id": "ChIJVVWFjkLuR0YRu6F23Oa2jUE"
+		"place_id": "ChIJVVWFjkLuR0YRu6F23Oa2jUE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3718317,
@@ -10570,7 +11450,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar \"Roald Dahl\"",
-		"place_id": "ChIJYYYpTAzsR0YR3sUiAHRb_2U"
+		"place_id": "ChIJYYYpTAzsR0YR3sUiAHRb_2U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3427066,
@@ -10582,7 +11463,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Loftet pub & Bar",
-		"place_id": "ChIJKWgihmPuR0YRiiGLBbxFvWw"
+		"place_id": "ChIJKWgihmPuR0YRiiGLBbxFvWw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3427881,
@@ -10594,7 +11476,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "number 4",
-		"place_id": "ChIJ9dF5eGTuR0YRg4dwXJnWSlc"
+		"place_id": "ChIJ9dF5eGTuR0YRg4dwXJnWSlc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.342875,
@@ -10606,7 +11489,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Smaue Bar",
-		"place_id": "ChIJPTt6h2PuR0YRgWMQLrtrnC4"
+		"place_id": "ChIJPTt6h2PuR0YRgWMQLrtrnC4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3809793,
@@ -10618,7 +11502,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Helben",
-		"place_id": "ChIJC5cgp3bsR0YREacwABi9WiA"
+		"place_id": "ChIJC5cgp3bsR0YREacwABi9WiA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8977668,
@@ -10630,7 +11515,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "VannHøle Bar",
-		"place_id": "ChIJw9KNRLYtOkYRAUvgkKx50RQ"
+		"place_id": "ChIJw9KNRLYtOkYRAUvgkKx50RQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0281066,
@@ -10642,7 +11528,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Marna Café",
-		"place_id": "ChIJEVPA15GON0YR2RWss9vGNng"
+		"place_id": "ChIJEVPA15GON0YR2RWss9vGNng",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0267628,
@@ -10654,7 +11541,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kroen Pub",
-		"place_id": "ChIJOf2hwY2ON0YRZjSFJUOGZlI"
+		"place_id": "ChIJOf2hwY2ON0YRZjSFJUOGZlI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0278795,
@@ -10666,7 +11554,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Alfreds Hjørne",
-		"place_id": "ChIJoQT2KI6ON0YRfCtDSUBRdt4"
+		"place_id": "ChIJoQT2KI6ON0YRfCtDSUBRdt4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.0256584,
@@ -10678,7 +11567,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sjøboden pub",
-		"place_id": "ChIJMSzvyo2ON0YRmyvgsYyDdWc"
+		"place_id": "ChIJMSzvyo2ON0YRmyvgsYyDdWc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.4060114,
@@ -10690,7 +11580,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nødingen Pub",
-		"place_id": "ChIJ78oUjPnsR0YRrRgjBBj-WGQ"
+		"place_id": "ChIJ78oUjPnsR0YRrRgjBBj-WGQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5693768,
@@ -10702,7 +11593,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "At the corner Nesbyen AS",
-		"place_id": "ChIJzXP5hMt1QEYRjMXspUhnQ8I"
+		"place_id": "ChIJzXP5hMt1QEYRjMXspUhnQ8I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.2153519,
@@ -10714,7 +11606,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Storåsen, Saltstraumen",
-		"place_id": "ChIJw_3FAT4W30URzks_Ok-vAnE"
+		"place_id": "ChIJw_3FAT4W30URzks_Ok-vAnE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1314304,
@@ -10726,7 +11619,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lillehammer Bryggerlaug",
-		"place_id": "ChIJTxEUzWuIakYRfZJ0gEnuTdg"
+		"place_id": "ChIJTxEUzWuIakYRfZJ0gEnuTdg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.9853478,
@@ -10738,7 +11632,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vertshuset Fagernes",
-		"place_id": "ChIJ7S3o0kAAQEYRiW8NU3wNDsw"
+		"place_id": "ChIJ7S3o0kAAQEYRiW8NU3wNDsw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.9853478,
@@ -10750,7 +11645,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "park Bar",
-		"place_id": "ChIJ7S3o0kAAQEYRt1yaPrf-JH8"
+		"place_id": "ChIJ7S3o0kAAQEYRt1yaPrf-JH8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.430697,
@@ -10762,7 +11658,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Augustin Hotel og Konferanse, Trondheim",
-		"place_id": "ChIJIXFaIJsxbUYRNkJzkn2gJW0"
+		"place_id": "ChIJIXFaIJsxbUYRNkJzkn2gJW0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4290498,
@@ -10774,7 +11671,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sukkerhuset Kjeller & Scene",
-		"place_id": "ChIJ2ZqLuZoxbUYRfbVSVOuHF5U"
+		"place_id": "ChIJ2ZqLuZoxbUYRfbVSVOuHF5U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4331322,
@@ -10786,7 +11684,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Circus",
-		"place_id": "ChIJ0wJ4iJsxbUYRBkfauBPP1E4"
+		"place_id": "ChIJ0wJ4iJsxbUYRBkfauBPP1E4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.431171,
@@ -10798,7 +11697,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trondhjem Mikrobryggeri",
-		"place_id": "ChIJGx1UIZsxbUYRRAFpkkE77OU"
+		"place_id": "ChIJGx1UIZsxbUYRRAFpkkE77OU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.433773,
@@ -10810,7 +11710,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Graffi Grill and Bar",
-		"place_id": "ChIJ2_xijJsxbUYRH9bkAyVQljM"
+		"place_id": "ChIJ2_xijJsxbUYRH9bkAyVQljM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4331023,
@@ -10822,7 +11723,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nightingale Bar",
-		"place_id": "ChIJZ73cfpsxbUYRYJQJyQRjXUA"
+		"place_id": "ChIJZ73cfpsxbUYRYJQJyQRjXUA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4333081,
@@ -10834,7 +11736,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJvYjuYJsxbUYRWZL9K3cDQYM"
+		"place_id": "ChIJvYjuYJsxbUYRWZL9K3cDQYM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4340811,
@@ -10846,7 +11749,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Raus Bar",
-		"place_id": "ChIJQzvHfJwxbUYRVPyw6-XneRM"
+		"place_id": "ChIJQzvHfJwxbUYRVPyw6-XneRM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.433975,
@@ -10858,7 +11762,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille London AS",
-		"place_id": "ChIJI9CvepwxbUYRIwTvD2dNmW4"
+		"place_id": "ChIJI9CvepwxbUYRIwTvD2dNmW4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4284112,
@@ -10870,7 +11775,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "mickey mouse clubhouse",
-		"place_id": "ChIJodqqSiYybUYRt9ohfQVs1YE"
+		"place_id": "ChIJodqqSiYybUYRt9ohfQVs1YE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4264417,
@@ -10882,7 +11788,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "mickey mouse clubhouse",
-		"place_id": "ChIJtSAd9SQybUYRDF3xaCb6KPg"
+		"place_id": "ChIJtSAd9SQybUYRDF3xaCb6KPg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4328859,
@@ -10894,7 +11801,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Work-Work",
-		"place_id": "ChIJQ10xXZsxbUYRfU9OX7DetVU"
+		"place_id": "ChIJQ10xXZsxbUYRfU9OX7DetVU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4318548,
@@ -10906,7 +11814,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "No 13",
-		"place_id": "ChIJm8E_PpsxbUYRILwby12oC2o"
+		"place_id": "ChIJm8E_PpsxbUYRILwby12oC2o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4333826,
@@ -10918,7 +11827,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grå",
-		"place_id": "ChIJIQCyd5wxbUYREKyuq7XxQro"
+		"place_id": "ChIJIQCyd5wxbUYREKyuq7XxQro",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4303894,
@@ -10930,7 +11840,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cruise Trondheim as",
-		"place_id": "ChIJbxgf3poxbUYRmJs5yfnbLgg"
+		"place_id": "ChIJbxgf3poxbUYRmJs5yfnbLgg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4309766,
@@ -10942,7 +11853,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "ØX Tap Room",
-		"place_id": "ChIJOc9QG5sxbUYRewas9c5Up4g"
+		"place_id": "ChIJOc9QG5sxbUYRewas9c5Up4g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4336527,
@@ -10954,7 +11866,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tasting",
-		"place_id": "ChIJhRFgh5wxbUYRUSyCG9kFwho"
+		"place_id": "ChIJhRFgh5wxbUYRUSyCG9kFwho",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4309982,
@@ -10966,7 +11879,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kieglekroa",
-		"place_id": "ChIJISwp1poxbUYRPyBPPPQ6mOE"
+		"place_id": "ChIJISwp1poxbUYRPyBPPPQ6mOE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4340376,
@@ -10978,7 +11892,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Studio 26",
-		"place_id": "ChIJKYEa9ZkxbUYRS-OMj2dk82Y"
+		"place_id": "ChIJKYEa9ZkxbUYRS-OMj2dk82Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4315032,
@@ -10990,7 +11905,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ilsvika Restaurant",
-		"place_id": "ChIJ2Tl1uSgybUYR_-fkojPjnCg"
+		"place_id": "ChIJ2Tl1uSgybUYR_-fkojPjnCg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4357157,
@@ -11002,7 +11918,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Troll Restaurant",
-		"place_id": "ChIJNf1E-pwxbUYRqQ37umV_TYI"
+		"place_id": "ChIJNf1E-pwxbUYRqQ37umV_TYI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4334626,
@@ -11014,7 +11931,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Habitat",
-		"place_id": "ChIJr2mnYpsxbUYRSznWuTJ_OBQ"
+		"place_id": "ChIJr2mnYpsxbUYRSznWuTJ_OBQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4333412,
@@ -11026,7 +11944,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Habitat",
-		"place_id": "ChIJV1UlY5sxbUYRefmjvIE2M0M"
+		"place_id": "ChIJV1UlY5sxbUYRefmjvIE2M0M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4337557,
@@ -11038,7 +11957,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Graffi Grill & Bar",
-		"place_id": "ChIJ0_QNfJwxbUYRZ9l6Z8UtD40"
+		"place_id": "ChIJ0_QNfJwxbUYRZ9l6Z8UtD40",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.433098,
@@ -11050,7 +11970,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lounge AS",
-		"place_id": "ChIJA7ffgZsxbUYRRKnUDH9XEDo"
+		"place_id": "ChIJA7ffgZsxbUYRRKnUDH9XEDo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4330556,
@@ -11062,7 +11983,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bror",
-		"place_id": "ChIJ_94PgZsxbUYRxuQKHe8g9OY"
+		"place_id": "ChIJ_94PgZsxbUYRxuQKHe8g9OY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4321328,
@@ -11074,7 +11996,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "spontaneous wine bar",
-		"place_id": "ChIJL1KydZsxbUYRhHOA_U_hHgg"
+		"place_id": "ChIJL1KydZsxbUYRhHOA_U_hHgg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4304295,
@@ -11086,7 +12009,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Dublin",
-		"place_id": "ChIJO1Y53poxbUYRedBvqSoWryI"
+		"place_id": "ChIJO1Y53poxbUYRedBvqSoWryI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4337909,
@@ -11098,7 +12022,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Diskoteket",
-		"place_id": "ChIJfVjucpwxbUYRa00Sxq0vmLs"
+		"place_id": "ChIJfVjucpwxbUYRa00Sxq0vmLs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4308717,
@@ -11110,7 +12035,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Døgnvill Burger",
-		"place_id": "ChIJSUXAApsxbUYRQV8tez2Azxs"
+		"place_id": "ChIJSUXAApsxbUYRQV8tez2Azxs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1542019,
@@ -11122,7 +12048,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tor Inge Melhus",
-		"place_id": "ChIJvxhbHlyoO0YRtX6ScOmBMFg"
+		"place_id": "ChIJvxhbHlyoO0YRtX6ScOmBMFg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1489866,
@@ -11134,7 +12061,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vila Terra Alta do Sul",
-		"place_id": "ChIJkaQP4kWoO0YR4ZYWJrLccbY"
+		"place_id": "ChIJkaQP4kWoO0YR4ZYWJrLccbY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1489866,
@@ -11146,7 +12074,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norioca Handcrafted Beer",
-		"place_id": "ChIJkaQP4kWoO0YRIciFUU8SfGc"
+		"place_id": "ChIJkaQP4kWoO0YRIciFUU8SfGc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1610395,
@@ -11158,7 +12087,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nortun Ungdomshus",
-		"place_id": "ChIJMfQU77L4FUYR8Ndt8ARHz8A"
+		"place_id": "ChIJMfQU77L4FUYR8Ndt8ARHz8A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3104168,
@@ -11170,7 +12100,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tya Bar",
-		"place_id": "ChIJ-47RW76aFUYRucLWfI2JtRA"
+		"place_id": "ChIJ-47RW76aFUYRucLWfI2JtRA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3106831,
@@ -11182,7 +12113,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Samhold",
-		"place_id": "ChIJLyVaTb6aFUYRKMXDoK5JtEc"
+		"place_id": "ChIJLyVaTb6aFUYRKMXDoK5JtEc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.860167,
@@ -11194,7 +12126,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skistua Hemsedal",
-		"place_id": "ChIJ05ApAwboP0YR1MtXQSKwfbc"
+		"place_id": "ChIJ05ApAwboP0YR1MtXQSKwfbc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8602242,
@@ -11206,7 +12139,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hollvin Restaurang & Bar",
-		"place_id": "ChIJQ4XZaK_CP0YRjKLxQ8B-olI"
+		"place_id": "ChIJQ4XZaK_CP0YRjKLxQ8B-olI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8626669,
@@ -11218,7 +12152,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stavkroa Sportsbar",
-		"place_id": "ChIJe685zq7CP0YRtFKqc41XQIA"
+		"place_id": "ChIJe685zq7CP0YRtFKqc41XQIA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.862393,
@@ -11230,7 +12165,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stavkroa",
-		"place_id": "ChIJEdnNLanCP0YRumIxYEMQEUE"
+		"place_id": "ChIJEdnNLanCP0YRumIxYEMQEUE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.863775,
@@ -11242,7 +12178,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjøkken Kroken",
-		"place_id": "ChIJjQYREAboP0YRFcI43d-0BFo"
+		"place_id": "ChIJjQYREAboP0YRFcI43d-0BFo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.860014,
@@ -11254,7 +12191,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJgfvZaK_CP0YRdwNdH497alE"
+		"place_id": "ChIJgfvZaK_CP0YRdwNdH497alE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8516564,
@@ -11266,7 +12204,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skigaarden",
-		"place_id": "ChIJ23aqesDCP0YRNb2g86YbUog"
+		"place_id": "ChIJ23aqesDCP0YRNb2g86YbUog",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8625776,
@@ -11278,7 +12217,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar(t)",
-		"place_id": "ChIJb1mXSw_oP0YRXT3ABQOfCuo"
+		"place_id": "ChIJb1mXSw_oP0YRXT3ABQOfCuo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9283288,
@@ -11290,7 +12230,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulating Pub - Fetsund",
-		"place_id": "ChIJiVsMk019QUYRutjRD2fuBMo"
+		"place_id": "ChIJiVsMk019QUYRutjRD2fuBMo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9210436,
@@ -11302,7 +12243,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lensepuben",
-		"place_id": "ChIJoda_jrNiQUYRGMtSE1l_mg0"
+		"place_id": "ChIJoda_jrNiQUYRGMtSE1l_mg0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.709553,
@@ -11314,7 +12256,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stangholmen Lighthouses",
-		"place_id": "ChIJa66ey5aoR0YRdKiM0KFpLIs"
+		"place_id": "ChIJa66ey5aoR0YRdKiM0KFpLIs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7188792,
@@ -11326,7 +12269,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Peterhead",
-		"place_id": "ChIJdaEVg4WoR0YRI9XC83fJPbc"
+		"place_id": "ChIJdaEVg4WoR0YRI9XC83fJPbc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7200083,
@@ -11338,7 +12282,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hukken",
-		"place_id": "ChIJuevKuYWoR0YRtpoEXasBWFU"
+		"place_id": "ChIJuevKuYWoR0YRtpoEXasBWFU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7205977,
@@ -11350,7 +12295,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brygga Restaurant & Pizza",
-		"place_id": "ChIJtaFCMYSoR0YREJ0OqYMKq9w"
+		"place_id": "ChIJtaFCMYSoR0YREJ0OqYMKq9w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.2292085,
@@ -11362,7 +12308,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pinne",
-		"place_id": "ChIJG6iCnbtG20URtO2G-RFYSSI"
+		"place_id": "ChIJG6iCnbtG20URtO2G-RFYSSI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.2298925,
@@ -11374,7 +12321,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Otto's Pub",
-		"place_id": "ChIJO3CQur5G20URDVvlUO_TRuw"
+		"place_id": "ChIJO3CQur5G20URDVvlUO_TRuw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.862681,
@@ -11386,7 +12334,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sea and Mountain AS",
-		"place_id": "ChIJvxsAtw37xEURhhiLjVAr9Go"
+		"place_id": "ChIJvxsAtw37xEURhhiLjVAr9Go",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.769749,
@@ -11398,7 +12347,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "MIX Harøy Kro",
-		"place_id": "ChIJSQyzMW8xEUYR1maWp1uVhXg"
+		"place_id": "ChIJSQyzMW8xEUYR1maWp1uVhXg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.967513,
@@ -11410,7 +12360,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tyrifjord Hotel",
-		"place_id": "ChIJCenECYMdQUYRw0mFcVXBZhY"
+		"place_id": "ChIJCenECYMdQUYRw0mFcVXBZhY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.4609141,
@@ -11422,7 +12373,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Red & Hot",
-		"place_id": "ChIJyVlwyNLaFkYR7xpgpEgz1KM"
+		"place_id": "ChIJyVlwyNLaFkYR7xpgpEgz1KM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8109044,
@@ -11434,7 +12386,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gamle Tårnhuset restaurant",
-		"place_id": "ChIJQRXDcmFoQUYRebt7leC0QbA"
+		"place_id": "ChIJQRXDcmFoQUYRebt7leC0QbA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8352741,
@@ -11446,7 +12399,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kings Pub",
-		"place_id": "ChIJ33urUupoQUYRNei_fKvYfME"
+		"place_id": "ChIJ33urUupoQUYRNei_fKvYfME",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8730177,
@@ -11458,7 +12412,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olive Kitchen & Bar",
-		"place_id": "ChIJDTsCwTlvQUYR0ywSp0R2Uig"
+		"place_id": "ChIJDTsCwTlvQUYR0ywSp0R2Uig",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8662545,
@@ -11470,7 +12425,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norsk Modellseilforening",
-		"place_id": "ChIJuSRn7tJuQUYRs1MMZohwm-0"
+		"place_id": "ChIJuSRn7tJuQUYRs1MMZohwm-0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.1026556,
@@ -11482,7 +12438,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Boyhekken",
-		"place_id": "ChIJG1PEnro030URyBRO4qs7k1Y"
+		"place_id": "ChIJG1PEnro030URyBRO4qs7k1Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.733578,
@@ -11494,7 +12451,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lindas Brygge",
-		"place_id": "ChIJoVuN0BMRPUYRo0TpwB9q7b4"
+		"place_id": "ChIJoVuN0BMRPUYRo0TpwB9q7b4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3849141,
@@ -11506,7 +12464,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Integrerbar",
-		"place_id": "ChIJXQVRbav-PEYRnh2vwPlKTRY"
+		"place_id": "ChIJXQVRbav-PEYRnh2vwPlKTRY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3735241,
@@ -11518,7 +12477,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mingel Gastrobar",
-		"place_id": "ChIJ9xhd_U75PEYRWpA2nb3Y4Yo"
+		"place_id": "ChIJ9xhd_U75PEYRWpA2nb3Y4Yo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3768128,
@@ -11530,7 +12490,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bien Snackbar",
-		"place_id": "ChIJS5Qu5035PEYR7hFoeRul-Fs"
+		"place_id": "ChIJS5Qu5035PEYR7hFoeRul-Fs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8634038,
@@ -11542,7 +12503,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Flåmsbrygga Hotel",
-		"place_id": "ChIJh8UjZs4TPkYRGJBYqsCQWVg"
+		"place_id": "ChIJh8UjZs4TPkYRGJBYqsCQWVg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.5089686,
@@ -11554,7 +12516,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fridtun Ungdomshus",
-		"place_id": "ChIJUUWDDTX5ckYR5gb3Mt4RuVI"
+		"place_id": "ChIJUUWDDTX5ckYR5gb3Mt4RuVI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7061422,
@@ -11566,7 +12529,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lyngås Låven",
-		"place_id": "ChIJd5CJPrpgEkYRsfFzFkXVqaE"
+		"place_id": "ChIJd5CJPrpgEkYRsfFzFkXVqaE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.792796,
@@ -11578,7 +12542,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Deera Bar",
-		"place_id": "ChIJl44Fn4R8bUYR02YunqVTmVQ"
+		"place_id": "ChIJl44Fn4R8bUYR02YunqVTmVQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.600757,
@@ -11590,7 +12555,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Florø",
-		"place_id": "ChIJM-K2zE7rF0YRlJEL_ZHHMso"
+		"place_id": "ChIJM-K2zE7rF0YRlJEL_ZHHMso",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5998148,
@@ -11602,7 +12568,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Comfort Hotel Florø",
-		"place_id": "ChIJhxfRyUnrF0YRVqh4ogFiLJo"
+		"place_id": "ChIJhxfRyUnrF0YRVqh4ogFiLJo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5864904,
@@ -11614,7 +12581,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Færøykavlen sea house",
-		"place_id": "ChIJtWqqxJ3sF0YRhlKe9d9oQZc"
+		"place_id": "ChIJtWqqxJ3sF0YRhlKe9d9oQZc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5864522,
@@ -11626,7 +12594,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Færøykavlen sea house",
-		"place_id": "ChIJPyMGHUnrF0YRzjM3EBnILAQ"
+		"place_id": "ChIJPyMGHUnrF0YRzjM3EBnILAQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.5999463,
@@ -11638,7 +12607,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vesle Kinn",
-		"place_id": "ChIJyzw4GknrF0YRvctA6nQstYM"
+		"place_id": "ChIJyzw4GknrF0YRvctA6nQstYM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3874082,
@@ -11650,7 +12620,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fossegrenda Restaurant Cafe And Bar",
-		"place_id": "ChIJv7VJUSYubUYRt7Vd93TqVTc"
+		"place_id": "ChIJv7VJUSYubUYRt7Vd93TqVTc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.383677,
@@ -11662,7 +12633,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brew Lab",
-		"place_id": "ChIJGVahrwUubUYR6mYKL0WGMb4"
+		"place_id": "ChIJGVahrwUubUYR6mYKL0WGMb4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3823236,
@@ -11674,7 +12646,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pen invest",
-		"place_id": "ChIJUesIoggubUYRBfnafGpe4Ks"
+		"place_id": "ChIJUesIoggubUYRBfnafGpe4Ks",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3618885,
@@ -11686,7 +12659,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stures crib",
-		"place_id": "ChIJ2ergIncubUYRMmK7Rcx4hw0"
+		"place_id": "ChIJ2ergIncubUYRMmK7Rcx4hw0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.147619,
@@ -11698,7 +12672,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Volda turisthotell AS",
-		"place_id": "ChIJxQVAyMDkFkYRTymePMfJoqk"
+		"place_id": "ChIJxQVAyMDkFkYRTymePMfJoqk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.14497,
@@ -11710,7 +12685,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Só és Bors",
-		"place_id": "ChIJ2yy__rjkFkYRGMb-VN5iYLc"
+		"place_id": "ChIJ2yy__rjkFkYRGMb-VN5iYLc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.907216,
@@ -11722,7 +12698,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lanternen",
-		"place_id": "ChIJAQxP5jBsQUYRsHEk0Ans30w"
+		"place_id": "ChIJAQxP5jBsQUYRsHEk0Ans30w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9165337,
@@ -11734,7 +12711,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bekkestuene Brasserie & Bar",
-		"place_id": "ChIJK9T2DtFsQUYRfFbI5FEM274"
+		"place_id": "ChIJK9T2DtFsQUYRfFbI5FEM274",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.908127,
@@ -11746,7 +12724,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Detapas",
-		"place_id": "ChIJP0HqQjQTQUYRgvgUku_d49g"
+		"place_id": "ChIJP0HqQjQTQUYRgvgUku_d49g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9220262,
@@ -11758,7 +12737,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "corner Cafe",
-		"place_id": "ChIJQZvNUrJtQUYRE7U3ZyZUrJ0"
+		"place_id": "ChIJQZvNUrJtQUYRE7U3ZyZUrJ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9201467,
@@ -11770,7 +12750,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vineria Ventidue",
-		"place_id": "ChIJ2dFk7M1tQUYR6AE_qg2TgsA"
+		"place_id": "ChIJ2dFk7M1tQUYR6AE_qg2TgsA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.916563,
@@ -11782,7 +12763,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Andy's Pub Sports Bar",
-		"place_id": "ChIJM3W5a9NtQUYRTKMD78WC8MI"
+		"place_id": "ChIJM3W5a9NtQUYRTKMD78WC8MI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.915651,
@@ -11794,7 +12776,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Crianza Vinimport AS",
-		"place_id": "ChIJSTS4FWxuQUYRIF82xgNhlAA"
+		"place_id": "ChIJSTS4FWxuQUYRIF82xgNhlAA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9047712,
@@ -11806,7 +12789,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Local",
-		"place_id": "ChIJYybICO5sQUYR1zg0v2LOAnE"
+		"place_id": "ChIJYybICO5sQUYR1zg0v2LOAnE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9170917,
@@ -11818,7 +12802,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Funkis Bar & Café",
-		"place_id": "ChIJz72dBNFsQUYR6s4W26UeC5w"
+		"place_id": "ChIJz72dBNFsQUYR6s4W26UeC5w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9049715,
@@ -11830,7 +12815,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Job's Retreat",
-		"place_id": "ChIJt34cIzYTQUYRYckrOIaUo5o"
+		"place_id": "ChIJt34cIzYTQUYRYckrOIaUo5o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9232831,
@@ -11842,7 +12828,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Espen Beverfjord",
-		"place_id": "ChIJKTfUDrZtQUYRhsvW-NGoy5Y"
+		"place_id": "ChIJKTfUDrZtQUYRhsvW-NGoy5Y",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.916766,
@@ -11854,7 +12841,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Andys Pub",
-		"place_id": "ChIJw6paadNtQUYR4760oUWLbBg"
+		"place_id": "ChIJw6paadNtQUYR4760oUWLbBg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4446558,
@@ -11866,7 +12854,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "R-Ranch",
-		"place_id": "ChIJG5-4AT4SbUYR454uUnpdtuE"
+		"place_id": "ChIJG5-4AT4SbUYR454uUnpdtuE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8893193,
@@ -11878,7 +12867,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Pond",
-		"place_id": "ChIJ9RKa_OI1OkYRedRNnYLbaM8"
+		"place_id": "ChIJ9RKa_OI1OkYRedRNnYLbaM8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9212117,
@@ -11890,7 +12880,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hinna Bistro",
-		"place_id": "ChIJq5K4u6I1OkYRoBRpDi_4ols"
+		"place_id": "ChIJq5K4u6I1OkYRoBRpDi_4ols",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2290546,
@@ -11902,7 +12893,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Furulund Cafe Aremark",
-		"place_id": "ChIJ16rNUCl3REYRQskNneM0xBI"
+		"place_id": "ChIJ16rNUCl3REYRQskNneM0xBI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9671801,
@@ -11914,7 +12906,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sagodden tavern",
-		"place_id": "ChIJP3DM_wYSR0YRyQRt5Hetzdw"
+		"place_id": "ChIJP3DM_wYSR0YRyQRt5Hetzdw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.117518,
@@ -11926,7 +12919,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Knaus Pub",
-		"place_id": "ChIJ84hF_4DARkYRKp5PvIK0zIQ"
+		"place_id": "ChIJ84hF_4DARkYRKp5PvIK0zIQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2112624,
@@ -11938,7 +12932,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Fredrikstad",
-		"place_id": "ChIJDYUscScDREYRelLjEcR3KSQ"
+		"place_id": "ChIJDYUscScDREYRelLjEcR3KSQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.212894,
@@ -11950,7 +12945,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Scandic City",
-		"place_id": "ChIJkz01WCcDREYRdQlD1z1NXJg"
+		"place_id": "ChIJkz01WCcDREYRdQlD1z1NXJg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2032634,
@@ -11962,7 +12958,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Majorens Stue og Kro",
-		"place_id": "ChIJD2HLtTEDREYRfzm1-mjjFyk"
+		"place_id": "ChIJD2HLtTEDREYRfzm1-mjjFyk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2167081,
@@ -11974,7 +12971,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Odin Kro",
-		"place_id": "ChIJmavJtMACREYR81uiUb7iYm8"
+		"place_id": "ChIJmavJtMACREYR81uiUb7iYm8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.213231,
@@ -11986,7 +12984,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "LILLE Food and Wine House",
-		"place_id": "ChIJIaBXvi4DREYR4vAyJbYblo4"
+		"place_id": "ChIJIaBXvi4DREYR4vAyJbYblo4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2113681,
@@ -11998,7 +12997,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bart",
-		"place_id": "ChIJq1vfDScDREYR_dIeQM-XpJ8"
+		"place_id": "ChIJq1vfDScDREYR_dIeQM-XpJ8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.211391,
@@ -12010,7 +13010,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O.M.G Bar and Restaurant",
-		"place_id": "ChIJhftEgCcDREYR3TWUWj6rtZ8"
+		"place_id": "ChIJhftEgCcDREYR3TWUWj6rtZ8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2133275,
@@ -12022,7 +13023,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Havnelageret Gastropub",
-		"place_id": "ChIJW2hl2NgCREYRoo2nbCGQDXA"
+		"place_id": "ChIJW2hl2NgCREYRoo2nbCGQDXA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2120052,
@@ -12034,7 +13036,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJpcITQNkCREYR5h8sJcRsyl4"
+		"place_id": "ChIJpcITQNkCREYR5h8sJcRsyl4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2040577,
@@ -12046,7 +13049,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tamburen",
-		"place_id": "ChIJc5DMMzADREYRiMW3F6OZFlM"
+		"place_id": "ChIJc5DMMzADREYRiMW3F6OZFlM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2016016,
@@ -12058,7 +13062,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Magenta",
-		"place_id": "ChIJAbCpDS4DREYRA1ovh_pBYZ8"
+		"place_id": "ChIJAbCpDS4DREYRA1ovh_pBYZ8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2119296,
@@ -12070,7 +13075,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dragen pub",
-		"place_id": "ChIJBVT9YycDREYRHWdmJ50r4UU"
+		"place_id": "ChIJBVT9YycDREYRHWdmJ50r4UU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2122141,
@@ -12082,7 +13088,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holwech",
-		"place_id": "ChIJ00QTmdgCREYRBTa-KVZuh4g"
+		"place_id": "ChIJ00QTmdgCREYRBTa-KVZuh4g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2138284,
@@ -12094,7 +13101,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hawk Fredrikstad",
-		"place_id": "ChIJLRMm1NgCREYRqh0gEX4T0Vg"
+		"place_id": "ChIJLRMm1NgCREYRqh0gEX4T0Vg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2153565,
@@ -12106,7 +13114,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "West end pub",
-		"place_id": "ChIJeR0Px94CREYRDEV2nWVrtIs"
+		"place_id": "ChIJeR0Px94CREYRDEV2nWVrtIs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2223746,
@@ -12118,7 +13127,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Limpans Bryggeri",
-		"place_id": "ChIJI1ln2uACREYR-oS89xPbS5E"
+		"place_id": "ChIJI1ln2uACREYR-oS89xPbS5E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.1768589,
@@ -12130,7 +13140,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holte Open Tiki bar",
-		"place_id": "ChIJr7Wxid4cREYRDCQMFYftfHM"
+		"place_id": "ChIJr7Wxid4cREYRDCQMFYftfHM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.119369,
@@ -12142,7 +13153,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Absolutt Bar",
-		"place_id": "ChIJ5xlFe9wSREYRFzCzsSxHNE0"
+		"place_id": "ChIJ5xlFe9wSREYRFzCzsSxHNE0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.616784,
@@ -12154,7 +13166,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bakery Pub and Cafe",
-		"place_id": "ChIJJe8M8WvAEkYRdghbklepi10"
+		"place_id": "ChIJJe8M8WvAEkYRdghbklepi10",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9531994,
@@ -12166,7 +13179,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Amatøren",
-		"place_id": "ChIJ8Vf4v_ttQUYRN7bGAViwcpc"
+		"place_id": "ChIJ8Vf4v_ttQUYRN7bGAViwcpc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9461208,
@@ -12178,7 +13192,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Videren Pub & Bistro",
-		"place_id": "ChIJn0fLZuxtQUYR2n-ZZlSzUmY"
+		"place_id": "ChIJn0fLZuxtQUYR2n-ZZlSzUmY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3255498,
@@ -12190,7 +13205,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ekspedisjonen Skjenkestove",
-		"place_id": "ChIJ0_-nIIGBPkYRDzFJX_55SYw"
+		"place_id": "ChIJ0_-nIIGBPkYRDzFJX_55SYw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.3377516,
@@ -12202,7 +13218,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jelsa Bygdahus",
-		"place_id": "ChIJYxofDRzoO0YRPMk2SjTCI-s"
+		"place_id": "ChIJYxofDRzoO0YRPMk2SjTCI-s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3407906,
@@ -12214,7 +13231,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Ulstein",
-		"place_id": "ChIJxTq048whF0YRyMipRtU2jFU"
+		"place_id": "ChIJxTq048whF0YRyMipRtU2jFU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3419022,
@@ -12226,7 +13244,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holsekervegen Country Club And Lounge",
-		"place_id": "ChIJkY7WMjIgF0YRZtAa4BAHTj0"
+		"place_id": "ChIJkY7WMjIgF0YRZtAa4BAHTj0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3435494,
@@ -12238,7 +13257,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaffebaren",
-		"place_id": "ChIJS30s8swhF0YR5hxf6ka2YZo"
+		"place_id": "ChIJS30s8swhF0YR5hxf6ka2YZo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8932191,
@@ -12250,7 +13270,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Airport Hotel Stavanger",
-		"place_id": "ChIJUy-H-ChKOkYRDvnpp_fpH0k"
+		"place_id": "ChIJUy-H-ChKOkYRDvnpp_fpH0k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8881581,
@@ -12262,7 +13283,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Clarion Hotel Air",
-		"place_id": "ChIJM34vl49JOkYRQm07mFHb4Ms"
+		"place_id": "ChIJM34vl49JOkYRQm07mFHb4Ms",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8829418,
@@ -12274,7 +13296,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brisen Bar",
-		"place_id": "ChIJR9k_5oVJOkYRDBtwGF-R2JQ"
+		"place_id": "ChIJR9k_5oVJOkYRDBtwGF-R2JQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9308599,
@@ -12286,7 +13309,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Maku Norway AS",
-		"place_id": "ChIJtzr-WAc1OkYRAKA4okB5jBI"
+		"place_id": "ChIJtzr-WAc1OkYRAKA4okB5jBI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.061174,
@@ -12298,7 +13322,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gautefall Ski Center",
-		"place_id": "ChIJoXpkg7dlR0YRAiHhf7BkxHU"
+		"place_id": "ChIJoXpkg7dlR0YRAiHhf7BkxHU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.059918,
@@ -12310,7 +13335,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ski Lodge Gautefall",
-		"place_id": "ChIJfzA9_rZlR0YRBsxdaFpEWcI"
+		"place_id": "ChIJfzA9_rZlR0YRBsxdaFpEWcI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.264774,
@@ -12322,7 +13348,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Tønsberg",
-		"place_id": "ChIJOcS-XBW3RkYRxK8g7J_A_Vc"
+		"place_id": "ChIJOcS-XBW3RkYRxK8g7J_A_Vc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2682413,
@@ -12334,7 +13361,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Hotel Klubben",
-		"place_id": "ChIJoT7SRhS3RkYRJvJIEsnP_ec"
+		"place_id": "ChIJoT7SRhS3RkYRJvJIEsnP_ec",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2650007,
@@ -12346,7 +13374,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kverneriet Tønsberg",
-		"place_id": "ChIJX7SAzhS3RkYRKzvUrWBqQWg"
+		"place_id": "ChIJX7SAzhS3RkYRKzvUrWBqQWg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2606529,
@@ -12358,7 +13387,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vallø Bowling & Billiards AS",
-		"place_id": "ChIJyQbCKhS0RkYR_mjMyUk2--4"
+		"place_id": "ChIJyQbCKhS0RkYR_mjMyUk2--4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2662954,
@@ -12370,7 +13400,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Harbor AS",
-		"place_id": "ChIJhV_4pxW3RkYRW7ZTOrx9WJo"
+		"place_id": "ChIJhV_4pxW3RkYRW7ZTOrx9WJo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2633494,
@@ -12382,7 +13413,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gamle Total Scene & Bar",
-		"place_id": "ChIJUb3VrTi3RkYRwiAitNm7Wsc"
+		"place_id": "ChIJUb3VrTi3RkYRwiAitNm7Wsc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2699234,
@@ -12394,7 +13426,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Plan B Sportsbar",
-		"place_id": "ChIJX7Dzexa3RkYR44LVv22L7ig"
+		"place_id": "ChIJX7Dzexa3RkYR44LVv22L7ig",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2671252,
@@ -12406,7 +13439,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Boondocks Hideout",
-		"place_id": "ChIJmXzvpBW3RkYR-2XrdFFbe6c"
+		"place_id": "ChIJmXzvpBW3RkYR-2XrdFFbe6c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.266506,
@@ -12418,7 +13452,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Barkaden",
-		"place_id": "ChIJ4UMhARW3RkYRDtChY28jY-M"
+		"place_id": "ChIJ4UMhARW3RkYRDtChY28jY-M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2701055,
@@ -12430,7 +13465,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Standard kafe AS",
-		"place_id": "ChIJSatTbRa3RkYRSn-xz1Y7kII"
+		"place_id": "ChIJSatTbRa3RkYRSn-xz1Y7kII",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.266756,
@@ -12442,7 +13478,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lauritz Tønsberg",
-		"place_id": "ChIJKT5IqBW3RkYRModYlrqiM_8"
+		"place_id": "ChIJKT5IqBW3RkYRModYlrqiM_8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.266335,
@@ -12454,7 +13491,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar(t)",
-		"place_id": "ChIJqTYMBhW3RkYRGh57kXauaVM"
+		"place_id": "ChIJqTYMBhW3RkYRGh57kXauaVM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.8192832,
@@ -12466,7 +13504,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jan Georg Vassgård",
-		"place_id": "ChIJn2AuLhRQEUYRhw8NVMKWoTc"
+		"place_id": "ChIJn2AuLhRQEUYRhw8NVMKWoTc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.746899,
@@ -12478,7 +13517,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Pan Garden AS",
-		"place_id": "ChIJx9-SwkSBR0YRduBhsKP6we0"
+		"place_id": "ChIJx9-SwkSBR0YRduBhsKP6we0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2274856,
@@ -12490,7 +13530,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skogvar",
-		"place_id": "ChIJoR2hYtfFRkYRQ63rlqNdxto"
+		"place_id": "ChIJoR2hYtfFRkYRQ63rlqNdxto",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.789302,
@@ -12502,7 +13543,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Visit Hessdalen",
-		"place_id": "ChIJ2xCm-Rv1bEYR8Y2Um1-Q_S4"
+		"place_id": "ChIJ2xCm-Rv1bEYR8Y2Um1-Q_S4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.558666,
@@ -12514,7 +13556,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJ3ZyoO9rWFkYR4aRTM4GblKg"
+		"place_id": "ChIJ3ZyoO9rWFkYR4aRTM4GblKg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4274944,
@@ -12526,7 +13569,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stable pizza restaurant",
-		"place_id": "ChIJVepQJNr2Q0YRNwxgT6Dpnv4"
+		"place_id": "ChIJVepQJNr2Q0YRNwxgT6Dpnv4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8478159,
@@ -12538,7 +13582,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vidsyn hotel and restaurant",
-		"place_id": "ChIJ19-onCoVPUYRRbm4Cj23KrU"
+		"place_id": "ChIJ19-onCoVPUYRRbm4Cj23KrU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.9959371,
@@ -12550,7 +13595,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Wagon Wheel Brewery",
-		"place_id": "ChIJd1QwHKa0O0YRXuimCQ8ZNMY"
+		"place_id": "ChIJd1QwHKa0O0YRXuimCQ8ZNMY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.045328,
@@ -12562,7 +13608,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mandelhuset",
-		"place_id": "ChIJWxMovSthPEYRrP4n2QAwtnc"
+		"place_id": "ChIJWxMovSthPEYRrP4n2QAwtnc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9273096,
@@ -12574,7 +13621,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Liebling",
-		"place_id": "ChIJXVr3xG5uQUYRnv5ZGtHNQrQ"
+		"place_id": "ChIJXVr3xG5uQUYRnv5ZGtHNQrQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9231899,
@@ -12586,7 +13634,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "La Boheme",
-		"place_id": "ChIJD8v5ZnpuQUYRWigOcuBR1Wk"
+		"place_id": "ChIJD8v5ZnpuQUYRWigOcuBR1Wk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9590649,
@@ -12598,7 +13647,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grefsenkollen Restaurant",
-		"place_id": "ChIJ37NDc99xQUYR0yJB8JBtIgQ"
+		"place_id": "ChIJ37NDc99xQUYR0yJB8JBtIgQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3805408,
@@ -12610,7 +13660,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulsvik Brygge",
-		"place_id": "ChIJX7lN4HFdQEYRx9pBs-hMAjI"
+		"place_id": "ChIJX7lN4HFdQEYRx9pBs-hMAjI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.4151349,
@@ -12622,7 +13673,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jan Ivar Bakkens Residens",
-		"place_id": "ChIJr5vGYMiAdEYRBTG-2E_EbWE"
+		"place_id": "ChIJr5vGYMiAdEYRBTG-2E_EbWE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3079664,
@@ -12634,7 +13686,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rugrats MC",
-		"place_id": "ChIJo4ihI87vR0YReXJhcE09L3Q"
+		"place_id": "ChIJo4ihI87vR0YReXJhcE09L3Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.971163,
@@ -12646,7 +13699,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Løvland - spiseri og pub",
-		"place_id": "ChIJJyouXKqLFkYRmcRBvY9A0ZU"
+		"place_id": "ChIJJyouXKqLFkYRmcRBvY9A0ZU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9446706,
@@ -12658,7 +13712,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Villa Veitvet",
-		"place_id": "ChIJIUb26N1vQUYRZASppOkXnDs"
+		"place_id": "ChIJIUb26N1vQUYRZASppOkXnDs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.972504,
@@ -12670,7 +13725,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rudolf Pub & Restaurant",
-		"place_id": "ChIJoyiDqJZ6QUYR33fGMEx3LPI"
+		"place_id": "ChIJoyiDqJZ6QUYR33fGMEx3LPI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.920458,
@@ -12682,7 +13738,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Chef Muratti Catering AS",
-		"place_id": "ChIJAw4n0_hvQUYR8XS7lRugiZM"
+		"place_id": "ChIJAw4n0_hvQUYR8XS7lRugiZM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9271955,
@@ -12694,7 +13751,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Serranos Bodega",
-		"place_id": "ChIJNVykZthkQUYR3esM_99gG8U"
+		"place_id": "ChIJNVykZthkQUYR3esM_99gG8U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9587238,
@@ -12706,7 +13764,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Hyggelig",
-		"place_id": "ChIJNy758xpwQUYRn2ywVKV8m0s"
+		"place_id": "ChIJNy758xpwQUYRn2ywVKV8m0s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9302001,
@@ -12718,7 +13777,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tiansbar @ Radisson blu alna",
-		"place_id": "ChIJPzzlyPNvQUYRJAQc-_5de-U"
+		"place_id": "ChIJPzzlyPNvQUYRJAQc-_5de-U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9614105,
@@ -12730,7 +13790,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys",
-		"place_id": "ChIJC-NnmlRuQUYRFQsUfUdErUk"
+		"place_id": "ChIJC-NnmlRuQUYRFQsUfUdErUk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9614161,
@@ -12742,7 +13803,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "O'Learys Stovner",
-		"place_id": "ChIJ-f__ULl6QUYRDZ3-AQbFpOk"
+		"place_id": "ChIJ-f__ULl6QUYRDZ3-AQbFpOk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4866802,
@@ -12754,7 +13816,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bache Bar eftf AS",
-		"place_id": "ChIJqRGIsKw1QUYRtXL_3itfuzA"
+		"place_id": "ChIJqRGIsKw1QUYRtXL_3itfuzA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.1529428,
@@ -12766,7 +13829,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trevarefabrikken",
-		"place_id": "ChIJ9Wbd-Ah73kURWQa6azmOJHk"
+		"place_id": "ChIJ9Wbd-Ah73kURWQa6azmOJHk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.012243,
@@ -12778,7 +13842,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Maras Pub",
-		"place_id": "ChIJa6QIoVwszkURvdtKdxmuFOk"
+		"place_id": "ChIJa6QIoVwszkURvdtKdxmuFOk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4298789,
@@ -12790,7 +13855,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Villa Bruserud",
-		"place_id": "ChIJf1cU8rTKRkYRSNIBdpTi1zI"
+		"place_id": "ChIJf1cU8rTKRkYRSNIBdpTi1zI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.8374159,
@@ -12802,7 +13868,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "NANO",
-		"place_id": "ChIJBWjtOmhadEYRpg54sbTMrfQ"
+		"place_id": "ChIJBWjtOmhadEYRpg54sbTMrfQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.6713716,
@@ -12814,7 +13881,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Finnmark Pizza Restaurant AS",
-		"place_id": "ChIJdZ3FwbK7yEURicqYFehUfQY"
+		"place_id": "ChIJdZ3FwbK7yEURicqYFehUfQY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.6621737,
@@ -12826,7 +13894,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Arctic cafe & Restaurant dept. Turistua",
-		"place_id": "ChIJO0rguzW6yEURFpxPOENtZsA"
+		"place_id": "ChIJO0rguzW6yEURFpxPOENtZsA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.6634338,
@@ -12838,7 +13907,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jernteppet",
-		"place_id": "ChIJ56aThzW6yEUR73rUYcL73Y8"
+		"place_id": "ChIJ56aThzW6yEUR73rUYcL73Y8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.0849461,
@@ -12850,7 +13920,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Idunngården",
-		"place_id": "ChIJN-BqhZmm3kUR_mVQTRtERvM"
+		"place_id": "ChIJN-BqhZmm3kUR_mVQTRtERvM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.8858169,
@@ -12862,7 +13933,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hyttå te Halvi",
-		"place_id": "ChIJqWHFv-egOUYRHDo3L_IB8UY"
+		"place_id": "ChIJqWHFv-egOUYRHDo3L_IB8UY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.6657459,
@@ -12874,7 +13946,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holdeplassen",
-		"place_id": "ChIJt6xWHHw_OkYRlqhGtE6e190"
+		"place_id": "ChIJt6xWHHw_OkYRlqhGtE6e190",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.8613093,
@@ -12886,7 +13959,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rederiet Pub & Bar",
-		"place_id": "ChIJk9d-4_8vc0YR3uuFSjSLNfI"
+		"place_id": "ChIJk9d-4_8vc0YR3uuFSjSLNfI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.5890235,
@@ -12898,7 +13972,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "open Krane",
-		"place_id": "ChIJ26s3RK3ixUURAkR3BHOX48k"
+		"place_id": "ChIJ26s3RK3ixUURAkR3BHOX48k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.812496,
@@ -12910,7 +13985,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hordatun Hotel & Apt.",
-		"place_id": "ChIJf17fkTawPkYR2rIj-4ZPl_s"
+		"place_id": "ChIJf17fkTawPkYR2rIj-4ZPl_s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8171126,
@@ -12922,7 +13998,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Røldalsterrassen",
-		"place_id": "ChIJlTiCyjawPkYRzwFNH_XWkX8"
+		"place_id": "ChIJlTiCyjawPkYRzwFNH_XWkX8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8167751,
@@ -12934,7 +14011,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Octahuset",
-		"place_id": "ChIJ7XhtdS-wPkYRrTTxVpfrYTI"
+		"place_id": "ChIJ7XhtdS-wPkYRrTTxVpfrYTI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.045362,
@@ -12946,7 +14024,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Åheimsbuda Bar",
-		"place_id": "ChIJiymvd5cLF0YRLDLRxT1Hjwc"
+		"place_id": "ChIJiymvd5cLF0YRLDLRxT1Hjwc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.5840054,
@@ -12958,7 +14037,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Klostergården",
-		"place_id": "ChIJbSwnsQBIbUYRc7VlycZIUxM"
+		"place_id": "ChIJbSwnsQBIbUYRc7VlycZIUxM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.5581989,
@@ -12970,7 +14050,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Egil Lein",
-		"place_id": "ChIJLxlfPHk4bUYRvxPm9cirio0"
+		"place_id": "ChIJLxlfPHk4bUYRvxPm9cirio0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0624708,
@@ -12982,7 +14063,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Canela Cafe, Ciudad Jardin Palomar",
-		"place_id": "ChIJAQAAAAAfREYRHZQP_nRkd5I"
+		"place_id": "ChIJAQAAAAAfREYRHZQP_nRkd5I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.914889,
@@ -12994,7 +14076,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sinnes Fjellstue",
-		"place_id": "ChIJyydZWJmgOUYR3UlYvRTf9cY"
+		"place_id": "ChIJyydZWJmgOUYR3UlYvRTf9cY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.313607,
@@ -13006,7 +14089,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Roan Kroa Cafe",
-		"place_id": "ChIJIbfEgk25OEYRscno35nZB9k"
+		"place_id": "ChIJIbfEgk25OEYRscno35nZB9k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1662557,
@@ -13018,7 +14102,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Comfort Hotel Ringerike",
-		"place_id": "ChIJU1J3OEEHQUYRALnV_WaucQk"
+		"place_id": "ChIJU1J3OEEHQUYRALnV_WaucQk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1652597,
@@ -13030,7 +14115,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eger & Co.",
-		"place_id": "ChIJCUH4J0EHQUYRXoLWx6hjpj8"
+		"place_id": "ChIJCUH4J0EHQUYRXoLWx6hjpj8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1670563,
@@ -13042,7 +14128,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Clint",
-		"place_id": "ChIJ_Uu0AEQHQUYR0T-C2EKRFS4"
+		"place_id": "ChIJ_Uu0AEQHQUYR0T-C2EKRFS4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1669794,
@@ -13054,7 +14141,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lloyds pub",
-		"place_id": "ChIJwzc3EUQHQUYRIfg5DNgn0kM"
+		"place_id": "ChIJwzc3EUQHQUYRIfg5DNgn0kM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1676536,
@@ -13066,7 +14154,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Rock",
-		"place_id": "ChIJi2BKmkYHQUYRH9fKuMhDHYs"
+		"place_id": "ChIJi2BKmkYHQUYRH9fKuMhDHYs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1664171,
@@ -13078,7 +14167,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "2 Brødre",
-		"place_id": "ChIJoYQCyUYHQUYRk_vtVURbNog"
+		"place_id": "ChIJoYQCyUYHQUYRk_vtVURbNog",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1668603,
@@ -13090,7 +14180,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grand Sports (Grand cafe AS)",
-		"place_id": "ChIJP97Fv0YHQUYRR8CQtckGEQU"
+		"place_id": "ChIJP97Fv0YHQUYRR8CQtckGEQU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1705511,
@@ -13102,7 +14193,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kooperativen",
-		"place_id": "ChIJ1TwhnUMHQUYRajviynp8l3U"
+		"place_id": "ChIJ1TwhnUMHQUYRajviynp8l3U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1675614,
@@ -13114,7 +14206,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Wall Street Nightclub",
-		"place_id": "ChIJgaHrmUYHQUYRE1VdNI18VUo"
+		"place_id": "ChIJgaHrmUYHQUYRE1VdNI18VUo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1813292,
@@ -13126,7 +14219,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Haldenjordet",
-		"place_id": "ChIJGSANoVkHQUYRs1RGOFm3DBc"
+		"place_id": "ChIJGSANoVkHQUYRs1RGOFm3DBc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.623915,
@@ -13138,7 +14232,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tapaz AS",
-		"place_id": "ChIJrzEzNSxFQUYR7hjjNx4n2Ak"
+		"place_id": "ChIJrzEzNSxFQUYR7hjjNx4n2Ak",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2839064,
@@ -13150,7 +14245,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaffibaren",
-		"place_id": "ChIJmYPT_iWhO0YRcGQ6bTdhNNs"
+		"place_id": "ChIJmYPT_iWhO0YRcGQ6bTdhNNs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.922402,
@@ -13162,7 +14258,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Di Roma",
-		"place_id": "ChIJvxZ-GmZuQUYRIWcskzdKwzM"
+		"place_id": "ChIJvxZ-GmZuQUYRIWcskzdKwzM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3588348,
@@ -13174,7 +14271,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heimdal Brygghus",
-		"place_id": "ChIJQwJS73kubUYRc8uBmpeI2to"
+		"place_id": "ChIJQwJS73kubUYRc8uBmpeI2to",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.173841,
@@ -13186,7 +14284,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Straum Ungdomshus",
-		"place_id": "ChIJL2MhXOJNDUYRhzQ5jeUwDAw"
+		"place_id": "ChIJL2MhXOJNDUYRhzQ5jeUwDAw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.084059,
@@ -13198,7 +14297,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Peer Gynt Galleriet AS",
-		"place_id": "ChIJeYMe0taEFkYRcVYLbHqZ8YU"
+		"place_id": "ChIJeYMe0taEFkYRcVYLbHqZ8YU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.467963,
@@ -13210,7 +14310,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality Airport Hotel Værnes",
-		"place_id": "ChIJD0LSZfIVbUYRhw7fxbgOvuo"
+		"place_id": "ChIJD0LSZfIVbUYRhw7fxbgOvuo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4679262,
@@ -13222,7 +14323,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "NO:20 Restaurant og Bar",
-		"place_id": "ChIJ01s2ZvIVbUYRBxF2YyUBJd4"
+		"place_id": "ChIJ01s2ZvIVbUYRBxF2YyUBJd4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4682741,
@@ -13234,7 +14336,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stjørdal Sportsbar Café",
-		"place_id": "ChIJ1SglCu0VbUYRmQJMtZezr1w"
+		"place_id": "ChIJ1SglCu0VbUYRmQJMtZezr1w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.468385,
@@ -13246,7 +14349,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bamses Pub",
-		"place_id": "ChIJX2o6rvMVbUYRWiKNyMWoBlQ"
+		"place_id": "ChIJX2o6rvMVbUYRWiKNyMWoBlQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.4678832,
@@ -13258,7 +14362,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "BS Pub og Kultur",
-		"place_id": "ChIJdxU0VewVbUYRqmpGAbXGjtQ"
+		"place_id": "ChIJdxU0VewVbUYRqmpGAbXGjtQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.422821,
@@ -13270,7 +14375,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Marcus' Og Tom's Cognac Bar",
-		"place_id": "ChIJfw1SrLE9bUYRUb7KPWPapOY"
+		"place_id": "ChIJfw1SrLE9bUYRUb7KPWPapOY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3940876,
@@ -13282,7 +14388,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Børskjelleren Bergen",
-		"place_id": "ChIJ4-F926f-PEYRmboAwWF9Yeo"
+		"place_id": "ChIJ4-F926f-PEYRmboAwWF9Yeo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3940379,
@@ -13294,7 +14401,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Parken Nattbar",
-		"place_id": "ChIJuxPrc6j-PEYRTrzgP5IwvrM"
+		"place_id": "ChIJuxPrc6j-PEYRTrzgP5IwvrM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.570823,
@@ -13306,7 +14414,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Strand Fjordhotel",
-		"place_id": "ChIJ4-e0qL56PkYRLzB6iX3g8l4"
+		"place_id": "ChIJ4-e0qL56PkYRLzB6iX3g8l4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.567113,
@@ -13318,7 +14427,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Green Cafe",
-		"place_id": "ChIJ6YPOmL96PkYRhCwgOm_uYMk"
+		"place_id": "ChIJ6YPOmL96PkYRhCwgOm_uYMk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.917786,
@@ -13330,7 +14440,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Folven Camping Afterski Café",
-		"place_id": "ChIJ4X4o92srFEYRPvg49GlkCEY"
+		"place_id": "ChIJ4X4o92srFEYRPvg49GlkCEY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5562576,
@@ -13342,7 +14453,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tveiten & Tin Bakken Ølcompagnie",
-		"place_id": "ChIJqzEvO_XKQEYRSF3AKClPvu4"
+		"place_id": "ChIJqzEvO_XKQEYRSF3AKClPvu4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7512198,
@@ -13354,7 +14466,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eiker Ølfabrikk AS",
-		"place_id": "ChIJP3MuREQhQUYRFQEYGOyZC-Q"
+		"place_id": "ChIJP3MuREQhQUYRFQEYGOyZC-Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7509723,
@@ -13366,7 +14479,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Olsen on The Corner",
-		"place_id": "ChIJFVXwJjohQUYRQAr9hf7mI9g"
+		"place_id": "ChIJFVXwJjohQUYRQAr9hf7mI9g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7504768,
@@ -13378,7 +14492,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mjøndalen Sportsbar",
-		"place_id": "ChIJA62MGDohQUYRiB0xcMs6D0g"
+		"place_id": "ChIJA62MGDohQUYRiB0xcMs6D0g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7508149,
@@ -13390,7 +14505,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "1etage Mjøndalen Station",
-		"place_id": "ChIJt75tkTkhQUYRYB-oAIG0tqg"
+		"place_id": "ChIJt75tkTkhQUYRYB-oAIG0tqg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.460432,
@@ -13402,7 +14518,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Smøla Deep Sea Fishing center",
-		"place_id": "ChIJ0aEjzaI2EkYR3x6U-N6Isd4"
+		"place_id": "ChIJ0aEjzaI2EkYR3x6U-N6Isd4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.516843,
@@ -13414,7 +14531,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Son Spa",
-		"place_id": "ChIJx8epyRlOQUYRv6iYAfqDiQI"
+		"place_id": "ChIJx8epyRlOQUYRv6iYAfqDiQI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.523237,
@@ -13426,7 +14544,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Son Kro - Bar & Restaurant",
-		"place_id": "ChIJ4znj1yJOQUYRYtKHmoBHDNc"
+		"place_id": "ChIJ4znj1yJOQUYRYtKHmoBHDNc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8905251,
@@ -13438,7 +14557,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Prammen",
-		"place_id": "ChIJUVcqX2cTQUYRx1Fp18hbMmc"
+		"place_id": "ChIJUVcqX2cTQUYRx1Fp18hbMmc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.891391,
@@ -13450,7 +14570,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sir James",
-		"place_id": "ChIJNVpbo10TQUYRglMVFTsMfdU"
+		"place_id": "ChIJNVpbo10TQUYRglMVFTsMfdU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8911094,
@@ -13462,7 +14583,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "East Kitchen & Bar",
-		"place_id": "ChIJOxIDYmcTQUYRRtHPTALdNw4"
+		"place_id": "ChIJOxIDYmcTQUYRRtHPTALdNw4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8922405,
@@ -13474,7 +14596,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Baracoa Spiseri, Bar og Scene",
-		"place_id": "ChIJkZ6df2cTQUYRSfjWAgpGQtA"
+		"place_id": "ChIJkZ6df2cTQUYRSfjWAgpGQtA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8758984,
@@ -13486,7 +14609,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gavin AS",
-		"place_id": "ChIJ50ACoYUUQUYRyQcrR_Eq7lI"
+		"place_id": "ChIJ50ACoYUUQUYRyQcrR_Eq7lI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8850316,
@@ -13498,7 +14622,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Zibi Dom",
-		"place_id": "ChIJ8aY-9oEUQUYR0ZK0Hf3GQmw"
+		"place_id": "ChIJ8aY-9oEUQUYR0ZK0Hf3GQmw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8905251,
@@ -13510,7 +14635,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Toothfairy",
-		"place_id": "ChIJUVcqX2cTQUYRi1PvAq2cazk"
+		"place_id": "ChIJUVcqX2cTQUYRi1PvAq2cazk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.943069,
@@ -13522,7 +14648,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Escape",
-		"place_id": "ChIJnWSYHOZtQUYRVX42Vn_Fv6I"
+		"place_id": "ChIJnWSYHOZtQUYRVX42Vn_Fv6I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9402344,
@@ -13534,7 +14661,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "RF-kjelleren",
-		"place_id": "ChIJ4cxfH-dtQUYRUHwNb0PcQlI"
+		"place_id": "ChIJ4cxfH-dtQUYRUHwNb0PcQlI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.940125,
@@ -13546,7 +14674,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Realistforeningen",
-		"place_id": "ChIJp3IoIudtQUYR26BqRuSqONs"
+		"place_id": "ChIJp3IoIudtQUYR26BqRuSqONs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.929928,
@@ -13558,7 +14687,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Perrongen Drift AS",
-		"place_id": "ChIJyUFJJNttQUYRaaqW5olmQQk"
+		"place_id": "ChIJyUFJJNttQUYRaaqW5olmQQk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9387636,
@@ -13570,7 +14700,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kjellern",
-		"place_id": "ChIJCTjkmudtQUYRJEHM1hZgMwo"
+		"place_id": "ChIJCTjkmudtQUYRJEHM1hZgMwo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9411448,
@@ -13582,7 +14713,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "U1",
-		"place_id": "ChIJoSQUzuZtQUYRMcx4L6935Ho"
+		"place_id": "ChIJoSQUzuZtQUYRMcx4L6935Ho",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9333271,
@@ -13594,7 +14726,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Café Marienlyst",
-		"place_id": "ChIJz1bR6N5tQUYRMFOvZDZU5a8"
+		"place_id": "ChIJz1bR6N5tQUYRMFOvZDZU5a8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9292107,
@@ -13606,7 +14739,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kverneriet",
-		"place_id": "ChIJtV2k_NptQUYRc1t_cOjm4PQ"
+		"place_id": "ChIJtV2k_NptQUYRc1t_cOjm4PQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.7072751,
@@ -13618,7 +14752,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lundebrygga",
-		"place_id": "ChIJZfQpY_9L3EURlqHqIOoHh6Q"
+		"place_id": "ChIJZfQpY_9L3EURlqHqIOoHh6Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7190596,
@@ -13630,7 +14765,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Børst Sportsbar",
-		"place_id": "ChIJadv14B1dQUYRg6t-yLTrpYI"
+		"place_id": "ChIJadv14B1dQUYRg6t-yLTrpYI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7194167,
@@ -13642,7 +14778,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dinos Pizza Pub",
-		"place_id": "ChIJR8Sg3R1dQUYRlKvCs1LvGec"
+		"place_id": "ChIJR8Sg3R1dQUYRlKvCs1LvGec",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.1280268,
@@ -13654,7 +14791,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grendahuset Øytun",
-		"place_id": "ChIJGXn0KjrtPEYR_Ysvjvtl93k"
+		"place_id": "ChIJGXn0KjrtPEYR_Ysvjvtl93k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.9816019,
@@ -13666,7 +14804,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Artico Ice Bar AS",
-		"place_id": "ChIJT0y120KpyUURMi0BOEURYS4"
+		"place_id": "ChIJT0y120KpyUURMi0BOEURYS4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.982975,
@@ -13678,7 +14817,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The emergency Pub",
-		"place_id": "ChIJndeM01ypyUURXH5cAnM_NuQ"
+		"place_id": "ChIJndeM01ypyUURXH5cAnM_NuQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.9823101,
@@ -13690,7 +14830,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nightlife in Nordkapp AS",
-		"place_id": "ChIJcRtKKV2pyUURKAf8ADpo2rw"
+		"place_id": "ChIJcRtKKV2pyUURKAf8ADpo2rw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.9823101,
@@ -13702,7 +14843,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "corner Spiseri",
-		"place_id": "ChIJQZvNUrJtQUYRSUs0SUlJP2c"
+		"place_id": "ChIJQZvNUrJtQUYRSUs0SUlJP2c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.9804252,
@@ -13714,7 +14856,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Karl Tore Hansen",
-		"place_id": "ChIJiwVk-DqpyUURq-w-AKcrqAM"
+		"place_id": "ChIJiwVk-DqpyUURq-w-AKcrqAM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5705357,
@@ -13726,7 +14869,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nesbyen Kro",
-		"place_id": "ChIJHdcvSTR0QEYRIz6NAVCC3CU"
+		"place_id": "ChIJHdcvSTR0QEYRIz6NAVCC3CU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.200145,
@@ -13738,7 +14882,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norrøna Pub",
-		"place_id": "ChIJHQTpV8rlFkYRgU5rhx938t4"
+		"place_id": "ChIJHQTpV8rlFkYRgU5rhx938t4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.570998,
@@ -13750,7 +14895,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hovden Alpin Lodge",
-		"place_id": "ChIJZYHwV2osOUYR6N1qUJ8m0jU"
+		"place_id": "ChIJZYHwV2osOUYR6N1qUJ8m0jU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5604387,
@@ -13762,7 +14908,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "XO Chilloutzone",
-		"place_id": "ChIJ8WmjMRIsOUYRcPJ-7rJ-43s"
+		"place_id": "ChIJ8WmjMRIsOUYRcPJ-7rJ-43s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.568872,
@@ -13774,7 +14921,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "offpiste Hovden",
-		"place_id": "ChIJQ-gNVWosOUYRX1kqujjHSPs"
+		"place_id": "ChIJQ-gNVWosOUYRX1kqujjHSPs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3033247,
@@ -13786,7 +14934,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skihytta",
-		"place_id": "ChIJT--9ksWQaUYRKoloDtzmVq8"
+		"place_id": "ChIJT--9ksWQaUYRKoloDtzmVq8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3073551,
@@ -13798,7 +14947,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "ski pub'n",
-		"place_id": "ChIJqcWa1V6QaUYRFVKgfRqLEAM"
+		"place_id": "ChIJqcWa1V6QaUYRFVKgfRqLEAM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.307703,
@@ -13810,7 +14960,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Happy Faces",
-		"place_id": "ChIJNQuF1V6QaUYRslO4XAjMVUU"
+		"place_id": "ChIJNQuF1V6QaUYRslO4XAjMVUU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3139032,
@@ -13822,7 +14973,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Boe's Bistro and Joffes pizza",
-		"place_id": "ChIJddtRoY2QaUYR_F75cCpxfiQ"
+		"place_id": "ChIJddtRoY2QaUYR_F75cCpxfiQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3139274,
@@ -13834,7 +14986,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bøes Brasserie & Bar",
-		"place_id": "ChIJExoToY2QaUYR7-c8BGE_yiU"
+		"place_id": "ChIJExoToY2QaUYR7-c8BGE_yiU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3140888,
@@ -13846,7 +14999,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trysil food & catering AS",
-		"place_id": "ChIJHQkwqY2QaUYRsuxFZFhN6OU"
+		"place_id": "ChIJHQkwqY2QaUYRsuxFZFhN6OU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3140888,
@@ -13858,7 +15012,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar Trysil - Fladhagen",
-		"place_id": "ChIJHQkwqY2QaUYRuWbjEg2-uXg"
+		"place_id": "ChIJHQkwqY2QaUYRuWbjEg2-uXg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3777663,
@@ -13870,7 +15025,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "kursethagen",
-		"place_id": "ChIJk0kyuVzBFkYRB8hDfyHDFlo"
+		"place_id": "ChIJk0kyuVzBFkYRB8hDfyHDFlo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.8595977,
@@ -13882,7 +15038,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brako AS",
-		"place_id": "ChIJh9Srs0cF20URFTv8UlLwUfA"
+		"place_id": "ChIJh9Srs0cF20URFTv8UlLwUfA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.8622209,
@@ -13894,7 +15051,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vinbanken",
-		"place_id": "ChIJz8-Ym0gF20URKVee4A9MUVM"
+		"place_id": "ChIJz8-Ym0gF20URKVee4A9MUVM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 65.904561,
@@ -13906,7 +15064,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sea urchin cafe",
-		"place_id": "ChIJSUCsK4nCdEYRMOEiKNFqd1c"
+		"place_id": "ChIJSUCsK4nCdEYRMOEiKNFqd1c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.3069343,
@@ -13918,7 +15077,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tanem Grendahus",
-		"place_id": "ChIJedrdtTkvbUYR1V05bh6tozc"
+		"place_id": "ChIJedrdtTkvbUYR1V05bh6tozc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0165872,
@@ -13930,7 +15090,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brugbar",
-		"place_id": "ChIJNTwm3FDSO0YR0Hnskh4IwwU"
+		"place_id": "ChIJNTwm3FDSO0YR0Hnskh4IwwU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.2676073,
@@ -13942,7 +15103,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hatteng Grillbar & Camping AS",
-		"place_id": "ChIJU4bnQFDL2kURn3bLhgXwa2s"
+		"place_id": "ChIJU4bnQFDL2kURn3bLhgXwa2s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.373455,
@@ -13954,7 +15116,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nordpol Kro AS",
-		"place_id": "ChIJjw8d_yDGykURD2bHY7lPaJ0"
+		"place_id": "ChIJjw8d_yDGykURD2bHY7lPaJ0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.2536206,
@@ -13966,7 +15129,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Christian Gaard Bygdetun AS",
-		"place_id": "ChIJJexThtfqFkYRhvIor6b9vBM"
+		"place_id": "ChIJJexThtfqFkYRhvIor6b9vBM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2977057,
@@ -13978,7 +15142,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Røtters'",
-		"place_id": "ChIJ9xDnv5IIREYRlEYWwI5EzBA"
+		"place_id": "ChIJ9xDnv5IIREYRlEYWwI5EzBA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.626018,
@@ -13990,7 +15155,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bobler og Brus AS",
-		"place_id": "ChIJj-4H92J3dUYRnSiLEVbC3Hk"
+		"place_id": "ChIJj-4H92J3dUYRnSiLEVbC3Hk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.675452,
@@ -14002,7 +15168,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nabo`n AS",
-		"place_id": "ChIJqZNxhYUFQkYRQ98V-guUVYQ"
+		"place_id": "ChIJqZNxhYUFQkYRQ98V-guUVYQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2414408,
@@ -14014,7 +15181,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vivaldi cafe Bar AS",
-		"place_id": "ChIJ2xCi6ZaoQUYR_8-AzPmwe08"
+		"place_id": "ChIJ2xCi6ZaoQUYR_8-AzPmwe08",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.0216488,
@@ -14026,7 +15194,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jørpeland Torg",
-		"place_id": "ChIJVVVFI07SO0YRvK6rd43BrGk"
+		"place_id": "ChIJVVVFI07SO0YRvK6rd43BrGk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.2323885,
@@ -14038,7 +15207,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lofoten Suite Hotel",
-		"place_id": "ChIJ8aAL_XmA3kURkB28QhEfgfw"
+		"place_id": "ChIJ8aAL_XmA3kURkB28QhEfgfw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.229647,
@@ -14050,7 +15220,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Magic Ice Lofoten",
-		"place_id": "ChIJQTMsf3mA3kURvv_i4cT6S4A"
+		"place_id": "ChIJQTMsf3mA3kURvv_i4cT6S4A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.2312176,
@@ -14062,7 +15233,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Aurora Restaurant",
-		"place_id": "ChIJOXLbmHmA3kURhI3i1_VyTwU"
+		"place_id": "ChIJOXLbmHmA3kURhI3i1_VyTwU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.23202,
@@ -14074,7 +15246,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar T",
-		"place_id": "ChIJAbzNvnmA3kURvF8xNm0PNVI"
+		"place_id": "ChIJAbzNvnmA3kURvF8xNm0PNVI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.2326229,
@@ -14086,7 +15259,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bacalao",
-		"place_id": "ChIJPR759nmA3kURNQyMPAdWiUA"
+		"place_id": "ChIJPR759nmA3kURNQyMPAdWiUA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.0012772,
@@ -14098,7 +15272,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Karlsøyfestivalen",
-		"place_id": "ChIJ14MNLHD-xEURrBdnh1KOakw"
+		"place_id": "ChIJ14MNLHD-xEURrBdnh1KOakw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8577861,
@@ -14110,7 +15285,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Husnes Camping and Gry Helge's Bar & Restaurant",
-		"place_id": "ChIJEW0UoINxPEYRkgk4keGWaNo"
+		"place_id": "ChIJEW0UoINxPEYRkgk4keGWaNo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8576234,
@@ -14122,7 +15298,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gryhelges Bar & restaurant",
-		"place_id": "ChIJ_fpaM8JzPEYRBdSEujaKPJc"
+		"place_id": "ChIJ_fpaM8JzPEYRBdSEujaKPJc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.859988,
@@ -14134,7 +15311,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar 5460 AS",
-		"place_id": "ChIJ-eIfY4RxPEYRiM_pXIhiC5c"
+		"place_id": "ChIJ-eIfY4RxPEYRiM_pXIhiC5c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.2232408,
@@ -14146,7 +15324,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bognes Veikro",
-		"place_id": "ChIJ90ra1skD3EUR17p-c_nvvDM"
+		"place_id": "ChIJ90ra1skD3EUR17p-c_nvvDM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.1224854,
@@ -14158,7 +15337,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skjærbrygga & Burekka AS",
-		"place_id": "ChIJY-2syhFu3kURWVpTSITxBOg"
+		"place_id": "ChIJY-2syhFu3kURWVpTSITxBOg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.1232542,
@@ -14170,7 +15350,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Mannfallet",
-		"place_id": "ChIJ59Lp1g9u3kURGLIE9uoerMQ"
+		"place_id": "ChIJ59Lp1g9u3kURGLIE9uoerMQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.69344,
@@ -14182,7 +15363,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Drammen Golf, Imjelt Pitch & Putt AS",
-		"place_id": "ChIJa7XcEMMkQUYReF1AuiztZ9Q"
+		"place_id": "ChIJa7XcEMMkQUYReF1AuiztZ9Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.69344,
@@ -14194,7 +15376,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Imjelt Golf Center, Pitch & Putt, Cafe & Bar",
-		"place_id": "ChIJYRu5EMMkQUYRADGYLK8CQ1I"
+		"place_id": "ChIJYRu5EMMkQUYRADGYLK8CQ1I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.649698,
@@ -14206,7 +15389,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Forest Restaurant As",
-		"place_id": "ChIJVVUFWb1zQkYRppkpzE8TA_Q"
+		"place_id": "ChIJVVUFWb1zQkYRppkpzE8TA_Q",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.0944227,
@@ -14218,7 +15402,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Stetind Hotel AS",
-		"place_id": "ChIJvWviD4lV2UURfCxvAQ7T4Yw"
+		"place_id": "ChIJvWviD4lV2UURfCxvAQ7T4Yw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.979277,
@@ -14230,7 +15415,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Quality hotel Olavsgaard",
-		"place_id": "ChIJQSbnswh7QUYR-vjZP40d-yc"
+		"place_id": "ChIJQSbnswh7QUYR-vjZP40d-yc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.951037,
@@ -14242,7 +15428,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jk Pub - ROCKWOOD PUB",
-		"place_id": "ChIJNzJ4XUZ7QUYRqk3S2VC5kNQ"
+		"place_id": "ChIJNzJ4XUZ7QUYRqk3S2VC5kNQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9464349,
@@ -14254,7 +15441,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gulating Pub Strømmen",
-		"place_id": "ChIJqboH_Eh7QUYR9S7StkLQaEE"
+		"place_id": "ChIJqboH_Eh7QUYR9S7StkLQaEE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3897524,
@@ -14266,7 +15454,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Huset pub",
-		"place_id": "ChIJb40yEAL8PEYRmDkK4Gd4WY4"
+		"place_id": "ChIJb40yEAL8PEYRmDkK4Gd4WY4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3912365,
@@ -14278,7 +15467,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hectors Hybel",
-		"place_id": "ChIJO6_HewL8PEYRZpCh6H6wOuc"
+		"place_id": "ChIJO6_HewL8PEYRZpCh6H6wOuc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915869,
@@ -14290,7 +15480,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Privaten Bar",
-		"place_id": "ChIJWX8CfgL8PEYRaUrntrz3EaA"
+		"place_id": "ChIJWX8CfgL8PEYRaUrntrz3EaA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3915523,
@@ -14302,7 +15493,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kråken",
-		"place_id": "ChIJuy6WYwL8PEYRMeIWRsgOMSc"
+		"place_id": "ChIJuy6WYwL8PEYRMeIWRsgOMSc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.390653,
@@ -14314,7 +15506,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Baran",
-		"place_id": "ChIJ-f9DQQL8PEYRs5X91bajARU"
+		"place_id": "ChIJ-f9DQQL8PEYRs5X91bajARU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3901946,
@@ -14326,7 +15519,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heidi's Bier Bar Bergen",
-		"place_id": "ChIJRxUOFQL8PEYRqjTp0NPahk8"
+		"place_id": "ChIJRxUOFQL8PEYRqjTp0NPahk8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.2085989,
@@ -14338,7 +15532,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sogn hotel AS",
-		"place_id": "ChIJM7JrZeQpFkYRfJi3YQJJgUo"
+		"place_id": "ChIJM7JrZeQpFkYRfJi3YQJJgUo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.2309934,
@@ -14350,7 +15545,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kvål Pizza Grill",
-		"place_id": "ChIJ15tHEvUpbUYRjkIfqmfkyJ4"
+		"place_id": "ChIJ15tHEvUpbUYRjkIfqmfkyJ4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.432163,
@@ -14362,7 +15558,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Berg Servicesenter AS",
-		"place_id": "ChIJP8LmNxMiQkYRn3FxMVUobCk"
+		"place_id": "ChIJP8LmNxMiQkYRn3FxMVUobCk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7679083,
@@ -14374,7 +15571,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "SchnabelBräu mikrobrauerei",
-		"place_id": "ChIJ4w1tMgBoQUYRff4pDHbsrrk"
+		"place_id": "ChIJ4w1tMgBoQUYRff4pDHbsrrk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.1394726,
@@ -14386,7 +15584,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ryttergården",
-		"place_id": "ChIJ39PsXmkAOEYRF4vllN_DPyg"
+		"place_id": "ChIJ39PsXmkAOEYRF4vllN_DPyg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3906477,
@@ -14398,7 +15597,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Terminus Whiskybar",
-		"place_id": "ChIJV2bd5a7-PEYRpjluICZI9E0"
+		"place_id": "ChIJV2bd5a7-PEYRpjluICZI9E0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.390027,
@@ -14410,7 +15610,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Amalies Hage",
-		"place_id": "ChIJkf8HyK7-PEYRibcgs6Nlyh4"
+		"place_id": "ChIJkf8HyK7-PEYRibcgs6Nlyh4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.6274573,
@@ -14422,7 +15623,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kiærvollen",
-		"place_id": "ChIJIflEEMVlbEYRwBsClXCzNO4"
+		"place_id": "ChIJIflEEMVlbEYRwBsClXCzNO4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.0826986,
@@ -14434,7 +15636,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Postaabneriet pub & cafe AS",
-		"place_id": "ChIJr8gFyh0qPkYRPBG6zTIj_gc"
+		"place_id": "ChIJr8gFyh0qPkYRPBG6zTIj_gc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.3161855,
@@ -14446,7 +15649,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bryggerhuset Restaurant & Terrace A / s",
-		"place_id": "ChIJlVkbGQHROUYRAi-SKzrwf_U"
+		"place_id": "ChIJlVkbGQHROUYRAi-SKzrwf_U",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.5764244,
@@ -14458,7 +15662,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lyngseidet Gjestegård",
-		"place_id": "ChIJZz42ExU8xUURLtyreugwiuU"
+		"place_id": "ChIJZz42ExU8xUURLtyreugwiuU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.5764244,
@@ -14470,7 +15675,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Brannkassa, Diskotek & Bar",
-		"place_id": "ChIJZz42ExU8xUUR2VG6keWKwqs"
+		"place_id": "ChIJZz42ExU8xUUR2VG6keWKwqs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.5740365,
@@ -14482,7 +15688,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sorheim Brygge",
-		"place_id": "ChIJWWTuLBQ8xUUR303EN9OR0wM"
+		"place_id": "ChIJWWTuLBQ8xUUR303EN9OR0wM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.0713905,
@@ -14494,7 +15701,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vannøy Mathuset (Vågen Pub)",
-		"place_id": "ChIJc1_dGo__xEURh_pfYmyMpJA"
+		"place_id": "ChIJc1_dGo__xEURh_pfYmyMpJA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7547077,
@@ -14506,7 +15714,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ararat",
-		"place_id": "ChIJS6IwpGddQUYR63WRab6hKi0"
+		"place_id": "ChIJS6IwpGddQUYR63WRab6hKi0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.117231,
@@ -14518,7 +15727,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Toppen Bar",
-		"place_id": "ChIJ6fSBkAWIakYRWf63FSJldc4"
+		"place_id": "ChIJ6fSBkAWIakYRWf63FSJldc4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1170884,
@@ -14530,7 +15740,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "DølaJazz - Lillehammer Jazzfestival",
-		"place_id": "ChIJmdEcrwWIakYRz0PIM5MYajU"
+		"place_id": "ChIJmdEcrwWIakYRz0PIM5MYajU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.117152,
@@ -14542,7 +15753,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Heim Lillehammer",
-		"place_id": "ChIJzycdrwWIakYRjL8BS2rgJfE"
+		"place_id": "ChIJzycdrwWIakYRjL8BS2rgJfE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.1173338,
@@ -14554,7 +15766,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nikkers Sport",
-		"place_id": "ChIJmWyHqwWIakYRco7M1_gutws"
+		"place_id": "ChIJmWyHqwWIakYRco7M1_gutws",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.118323,
@@ -14566,7 +15779,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Paddy's",
-		"place_id": "ChIJVd5LDAWIakYRuokhOSNUljk"
+		"place_id": "ChIJVd5LDAWIakYRuokhOSNUljk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.064621,
@@ -14578,7 +15792,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Larvik selskapslokale AS",
-		"place_id": "ChIJA6LptuvpRkYR9OrzL7USnDw"
+		"place_id": "ChIJA6LptuvpRkYR9OrzL7USnDw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.436539,
@@ -14590,7 +15805,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Norda Pub",
-		"place_id": "ChIJzavmp94aOkYR_7l48x7_aL8"
+		"place_id": "ChIJzavmp94aOkYR_7l48x7_aL8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.2037334,
@@ -14602,7 +15818,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ringholmen Sjøhus",
-		"place_id": "ChIJL4-OJsXIE0YRdKtXo2bOy_o"
+		"place_id": "ChIJL4-OJsXIE0YRdKtXo2bOy_o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.8976364,
@@ -14614,7 +15831,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Armo light & joy",
-		"place_id": "ChIJ-xQdCbH-aUYRxXaoEcmJy_0"
+		"place_id": "ChIJ-xQdCbH-aUYRxXaoEcmJy_0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.911621,
@@ -14626,7 +15844,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Expeditionen",
-		"place_id": "ChIJ4TdoSHdWFkYR0pZYnbdcf1w"
+		"place_id": "ChIJ4TdoSHdWFkYR0pZYnbdcf1w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.9069257,
@@ -14638,7 +15857,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bank Kjellaren Bar & Guest Stove",
-		"place_id": "ChIJZxX8KWVWFkYRSDT3K7T2Yb4"
+		"place_id": "ChIJZxX8KWVWFkYRSDT3K7T2Yb4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7339522,
@@ -14650,7 +15870,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Haugsdalen",
-		"place_id": "ChIJy3MuUKyzEkYR6b0V_0RiTZo"
+		"place_id": "ChIJy3MuUKyzEkYR6b0V_0RiTZo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.7595993,
@@ -14662,7 +15883,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Midtstøl Sommer Støl På Fjellet",
-		"place_id": "ChIJw47twReYOUYRNRRmw8Ny_a8"
+		"place_id": "ChIJw47twReYOUYRNRRmw8Ny_a8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.4487034,
@@ -14674,7 +15896,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "StudioH Kvitfjell",
-		"place_id": "ChIJLaSCJNroakYRks-txO-1Xhw"
+		"place_id": "ChIJLaSCJNroakYRks-txO-1Xhw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.4697409,
@@ -14686,7 +15909,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Koia",
-		"place_id": "ChIJPYpXj9noakYR6lyIwMvpuxU"
+		"place_id": "ChIJPYpXj9noakYR6lyIwMvpuxU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.4548263,
@@ -14698,7 +15922,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kvitfjell",
-		"place_id": "ChIJY0MGGRjpakYRJ7ZIJaeZEpA"
+		"place_id": "ChIJY0MGGRjpakYRJ7ZIJaeZEpA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.7760526,
@@ -14710,7 +15935,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sagvåg pub og kaffe.",
-		"place_id": "ChIJI0sKRqt_PEYR0do3M-Sr8-s"
+		"place_id": "ChIJI0sKRqt_PEYR0do3M-Sr8-s",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.0203645,
@@ -14722,7 +15948,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Meierigaarden Kro og Selskapslokaler",
-		"place_id": "ChIJI138hvjVQ0YRnaVtliIVCPo"
+		"place_id": "ChIJI138hvjVQ0YRnaVtliIVCPo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.3695619,
@@ -14734,7 +15961,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Emaus Pub",
-		"place_id": "ChIJa22mLas9dUYRyIgFpcjTrOU"
+		"place_id": "ChIJa22mLas9dUYRyIgFpcjTrOU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.8851379,
@@ -14746,7 +15974,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ne'Om & Hjæm Pøbben AS",
-		"place_id": "ChIJ_cBykPKjEkYR1qJZOINaIgc"
+		"place_id": "ChIJ_cBykPKjEkYR1qJZOINaIgc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3278547,
@@ -14758,7 +15987,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vatle Lodge",
-		"place_id": "ChIJb3_6AOyPaUYRyxVn-ltcmq4"
+		"place_id": "ChIJb3_6AOyPaUYRyxVn-ltcmq4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.3223696,
@@ -14770,7 +16000,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Puben Sankt Olav After Ski",
-		"place_id": "ChIJY-MsDOePaUYRzaWu6KdEGgw"
+		"place_id": "ChIJY-MsDOePaUYRzaWu6KdEGgw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.1020415,
@@ -14782,7 +16013,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Restaurant Olebuda",
-		"place_id": "ChIJUXM5KUEmFEYRDG32BlO8EIA"
+		"place_id": "ChIJUXM5KUEmFEYRDG32BlO8EIA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.5897422,
@@ -14794,7 +16026,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trysild",
-		"place_id": "ChIJEY_WbTr2QUYREMagVoDWEW8"
+		"place_id": "ChIJEY_WbTr2QUYREMagVoDWEW8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.7642152,
@@ -14806,7 +16039,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Holmgården",
-		"place_id": "ChIJHQVrqSHB3kURx65Lz5pvWYs"
+		"place_id": "ChIJHQVrqSHB3kURx65Lz5pvWYs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.489386,
@@ -14818,7 +16052,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Øybaren, Rong, Hordaland, Norway",
-		"place_id": "ChIJ0-uUCx7gPEYReEaaZq9TToQ"
+		"place_id": "ChIJ0-uUCx7gPEYReEaaZq9TToQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.3561,
@@ -14830,7 +16065,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Langneset og Naustpuben AS",
-		"place_id": "ChIJ2-0A-_sWdUYRt4myiipTuHQ"
+		"place_id": "ChIJ2-0A-_sWdUYRt4myiipTuHQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.7366177,
@@ -14842,7 +16078,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Valhall",
-		"place_id": "ChIJ_xkZouNTEUYRxONzGSU8uWM"
+		"place_id": "ChIJ_xkZouNTEUYRxONzGSU8uWM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.7374678,
@@ -14854,7 +16091,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tap & Cork",
-		"place_id": "ChIJazh2Qh1UEUYRHpB9tCMEQZg"
+		"place_id": "ChIJazh2Qh1UEUYRHpB9tCMEQZg",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.736314,
@@ -14866,7 +16104,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sportspuben 1911",
-		"place_id": "ChIJl7SrJB1UEUYREjsEIUUqzT8"
+		"place_id": "ChIJl7SrJB1UEUYREjsEIUUqzT8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.7347677,
@@ -14878,7 +16117,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bar A",
-		"place_id": "ChIJ48c6zRxUEUYR0CumET4OXZM"
+		"place_id": "ChIJ48c6zRxUEUYR0CumET4OXZM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.7371091,
@@ -14890,7 +16130,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tangenten",
-		"place_id": "ChIJ9RKpdR1UEUYROH-xIgwrl4w"
+		"place_id": "ChIJ9RKpdR1UEUYROH-xIgwrl4w",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.585383,
@@ -14902,7 +16143,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vågen Inn",
-		"place_id": "ChIJP9EHnM9AbUYRlivI63sJ290"
+		"place_id": "ChIJP9EHnM9AbUYRlivI63sJ290",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3897413,
@@ -14914,7 +16156,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kurerbar",
-		"place_id": "ChIJ2xWc7Kn-PEYRuhJ7gvD6KLM"
+		"place_id": "ChIJ2xWc7Kn-PEYRuhJ7gvD6KLM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3894993,
@@ -14926,7 +16169,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Don Pippo",
-		"place_id": "ChIJVxCF-qn-PEYRe18_AHul3NM"
+		"place_id": "ChIJVxCF-qn-PEYRe18_AHul3NM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3908007,
@@ -14938,7 +16182,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Sanaa",
-		"place_id": "ChIJzTaO1K7-PEYR_eFGagzku2E"
+		"place_id": "ChIJzTaO1K7-PEYR_eFGagzku2E",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3910325,
@@ -14950,7 +16195,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Damp",
-		"place_id": "ChIJzTaO1K7-PEYRl_9u6g_PB44"
+		"place_id": "ChIJzTaO1K7-PEYRl_9u6g_PB44",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.3902129,
@@ -14962,7 +16208,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Muskedunder",
-		"place_id": "ChIJrVr156n-PEYRp6Dt_mMK5eo"
+		"place_id": "ChIJrVr156n-PEYRp6Dt_mMK5eo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5626754,
@@ -14974,7 +16221,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bellman Pub",
-		"place_id": "ChIJq1jZ13zKQEYR6y6rH438NbU"
+		"place_id": "ChIJq1jZ13zKQEYR6y6rH438NbU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.5613906,
@@ -14986,7 +16234,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Arno Musikkbar",
-		"place_id": "ChIJRWj6DH3KQEYRe1uhbnrye_k"
+		"place_id": "ChIJRWj6DH3KQEYRe1uhbnrye_k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.2594255,
@@ -14998,7 +16247,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sjernarøy Maritim",
-		"place_id": "ChIJIxfYgiXBO0YRQPfLuB5jEsQ"
+		"place_id": "ChIJIxfYgiXBO0YRQPfLuB5jEsQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.875671,
@@ -15010,7 +16260,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Laukhamar Fritid",
-		"place_id": "ChIJJxrvLXZlPEYRWwLaAz7oexk"
+		"place_id": "ChIJJxrvLXZlPEYRWwLaAz7oexk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9273968,
@@ -15022,7 +16273,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Shamrock Pub",
-		"place_id": "ChIJ-Tw_7mluQUYR7Uooz2S3FC8"
+		"place_id": "ChIJ-Tw_7mluQUYR7Uooz2S3FC8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9075784,
@@ -15034,7 +16286,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Times Bar",
-		"place_id": "ChIJryMSR_huQUYRLu1Y6_cBvvQ"
+		"place_id": "ChIJryMSR_huQUYRLu1Y6_cBvvQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9146456,
@@ -15046,7 +16299,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "norð&natt",
-		"place_id": "ChIJc163c1luQUYRytC7cfV3aBA"
+		"place_id": "ChIJc163c1luQUYRytC7cfV3aBA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9122349,
@@ -15058,7 +16312,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Andys pub Greenland AS",
-		"place_id": "ChIJl6Rkn19uQUYRO9koSiaBV90"
+		"place_id": "ChIJl6Rkn19uQUYRO9koSiaBV90",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.915237,
@@ -15070,7 +16325,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Saunahuset Hercules",
-		"place_id": "ChIJtfyDDWFuQUYRbgd27h_VHd4"
+		"place_id": "ChIJtfyDDWFuQUYRbgd27h_VHd4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9132029,
@@ -15082,7 +16338,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bob's Pub",
-		"place_id": "ChIJaW3VaWBuQUYRPC3X9Pl2zlU"
+		"place_id": "ChIJaW3VaWBuQUYRPC3X9Pl2zlU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9074816,
@@ -15094,7 +16351,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vesper Gastrobar",
-		"place_id": "ChIJ0RM63fRuQUYRQpztbbGKrKo"
+		"place_id": "ChIJ0RM63fRuQUYRQpztbbGKrKo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9199606,
@@ -15106,7 +16364,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ocean Cafe & Bar AS",
-		"place_id": "ChIJ9QjTDF1uQUYRwvmWVzfDkw4"
+		"place_id": "ChIJ9QjTDF1uQUYRwvmWVzfDkw4",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9082518,
@@ -15118,7 +16377,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Tosca Bar",
-		"place_id": "ChIJlRJWJotuQUYRabEIoWGqOW8"
+		"place_id": "ChIJlRJWJotuQUYRabEIoWGqOW8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9314604,
@@ -15130,7 +16390,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "House of Nerds",
-		"place_id": "ChIJ3eP6IkhuQUYRrQ1AFND31ts"
+		"place_id": "ChIJ3eP6IkhuQUYRrQ1AFND31ts",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9137007,
@@ -15142,7 +16403,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Queens Pub",
-		"place_id": "ChIJq5Kkr2FuQUYR2rYYoTOv_bk"
+		"place_id": "ChIJq5Kkr2FuQUYR2rYYoTOv_bk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.92444,
@@ -15154,7 +16416,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Trakteriet Cafe",
-		"place_id": "ChIJ68S3eENuQUYRm4NlQlZFu5I"
+		"place_id": "ChIJ68S3eENuQUYRm4NlQlZFu5I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9130224,
@@ -15166,7 +16429,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Gloria Flames",
-		"place_id": "ChIJga7P219uQUYR966VspuTK3I"
+		"place_id": "ChIJga7P219uQUYR966VspuTK3I",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9124687,
@@ -15178,7 +16442,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Galway Bay",
-		"place_id": "ChIJIQtoNGBuQUYRlFd6ZzaJ4pw"
+		"place_id": "ChIJIQtoNGBuQUYRlFd6ZzaJ4pw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9183724,
@@ -15190,7 +16455,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bettola",
-		"place_id": "ChIJjR3ZamduQUYRuzVd_4CzUOo"
+		"place_id": "ChIJjR3ZamduQUYRuzVd_4CzUOo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9197003,
@@ -15202,7 +16468,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dr. Kneipp's Wine Bar",
-		"place_id": "ChIJZyak9mZuQUYRm1qAf6Txmi8"
+		"place_id": "ChIJZyak9mZuQUYRm1qAf6Txmi8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9160626,
@@ -15214,7 +16481,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skjenkestua Studentbar",
-		"place_id": "ChIJ7w0MuWBuQUYREQbBX5uguRI"
+		"place_id": "ChIJ7w0MuWBuQUYREQbBX5uguRI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.914153,
@@ -15226,7 +16494,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Karoline Spiseri og Pub",
-		"place_id": "ChIJuYVAYVNuQUYRtZ8rpwtIBq0"
+		"place_id": "ChIJuYVAYVNuQUYRtZ8rpwtIBq0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9087358,
@@ -15238,7 +16507,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafékontoret - Restaurant & Bar",
-		"place_id": "ChIJlfISdfZuQUYRLpfyztOuk9k"
+		"place_id": "ChIJlfISdfZuQUYRLpfyztOuk9k",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9131311,
@@ -15250,7 +16520,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ivars Kro",
-		"place_id": "ChIJl6Rkn19uQUYRsFg0G2AZm7o"
+		"place_id": "ChIJl6Rkn19uQUYRsFg0G2AZm7o",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9064845,
@@ -15262,7 +16533,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Ruinen Bar & Cafe",
-		"place_id": "ChIJZ8MbmvZuQUYR-hkrgFz9GUU"
+		"place_id": "ChIJZ8MbmvZuQUYR-hkrgFz9GUU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9106172,
@@ -15274,7 +16546,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kim's bar & café",
-		"place_id": "ChIJk-RH31VuQUYRbI7KNst_j5A"
+		"place_id": "ChIJk-RH31VuQUYRbI7KNst_j5A",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.910869,
@@ -15286,7 +16559,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eik & Tid",
-		"place_id": "ChIJkRHTd1ZuQUYR7VUlOIOPLMI"
+		"place_id": "ChIJkRHTd1ZuQUYR7VUlOIOPLMI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.910842,
@@ -15298,7 +16572,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Eik & Tid",
-		"place_id": "ChIJpTFJdlZuQUYRChm-kiX8XOQ"
+		"place_id": "ChIJpTFJdlZuQUYRChm-kiX8XOQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.90746,
@@ -15310,7 +16585,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Enga Pub",
-		"place_id": "ChIJ--i-Uv9uQUYR3rNM5gPBmIQ"
+		"place_id": "ChIJ--i-Uv9uQUYR3rNM5gPBmIQ",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.913946,
@@ -15322,7 +16598,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Kampen",
-		"place_id": "ChIJvR1KQlduQUYRjhx_mQX1DNs"
+		"place_id": "ChIJvR1KQlduQUYRjhx_mQX1DNs",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9078937,
@@ -15334,7 +16611,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Klosterenga Cafè",
-		"place_id": "ChIJUZa8WvZuQUYRvmDPeL0MrBE"
+		"place_id": "ChIJUZa8WvZuQUYRvmDPeL0MrBE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9144682,
@@ -15346,7 +16624,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Human Mote",
-		"place_id": "ChIJ16m9nFluQUYR-PAwJBWOGic"
+		"place_id": "ChIJ16m9nFluQUYR-PAwJBWOGic",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.563324,
@@ -15358,7 +16637,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Seilet Sportsbar AS",
-		"place_id": "ChIJs2UBnyUxQUYR4MFhSc55HmU"
+		"place_id": "ChIJs2UBnyUxQUYR4MFhSc55HmU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 60.2240806,
@@ -15370,7 +16650,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nilsebu",
-		"place_id": "ChIJBe1emY31QEYRoTAXJ97iiJE"
+		"place_id": "ChIJBe1emY31QEYRoTAXJ97iiJE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 69.0261493,
@@ -15382,7 +16663,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kaffebrenneriet",
-		"place_id": "ChIJM2Wek_fc2kURsO9SY1YN0D0"
+		"place_id": "ChIJM2Wek_fc2kURsO9SY1YN0D0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 68.0159474,
@@ -15394,7 +16676,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The clerk Pub",
-		"place_id": "ChIJH1cf-sWi3kURXL74jZ8UWVc"
+		"place_id": "ChIJH1cf-sWi3kURXL74jZ8UWVc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.6419487,
@@ -15406,7 +16689,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "På Hjørnet Trøgstad AS",
-		"place_id": "ChIJTSbYVW3mQ0YR5RdIxZHbuh8"
+		"place_id": "ChIJTSbYVW3mQ0YR5RdIxZHbuh8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.643894,
@@ -15418,7 +16702,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sauda Fjordhotell",
-		"place_id": "ChIJg23O3B__O0YReUgOo-UqpFM"
+		"place_id": "ChIJg23O3B__O0YReUgOo-UqpFM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.8787171,
@@ -15430,7 +16715,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Huset Pub As",
-		"place_id": "ChIJ4zEKeUlcP0YRbCtSQPVTyXc"
+		"place_id": "ChIJ4zEKeUlcP0YRbCtSQPVTyXc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.928628,
@@ -15442,7 +16728,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Den Gamle Major",
-		"place_id": "ChIJk5OLV9ptQUYR_MuSo7j1998"
+		"place_id": "ChIJk5OLV9ptQUYR_MuSo7j1998",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9274995,
@@ -15454,7 +16741,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Highbury Pub",
-		"place_id": "ChIJQwPDGNptQUYR276Fswo8tfo"
+		"place_id": "ChIJQwPDGNptQUYR276Fswo8tfo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9262958,
@@ -15466,7 +16754,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Broker",
-		"place_id": "ChIJ5TvP4NltQUYRc7oJtuz8DIo"
+		"place_id": "ChIJ5TvP4NltQUYRc7oJtuz8DIo",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.927639,
@@ -15478,7 +16767,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Pub",
-		"place_id": "ChIJ9_yLYdptQUYRD0v9FDY4EcU"
+		"place_id": "ChIJ9_yLYdptQUYRD0v9FDY4EcU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9237108,
@@ -15490,7 +16780,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Kundalini Yoga Skolen AS",
-		"place_id": "ChIJPzSj9SxvQUYR_Q6mfPdlPK0"
+		"place_id": "ChIJPzSj9SxvQUYR_Q6mfPdlPK0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.927639,
@@ -15502,7 +16793,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lille Chef",
-		"place_id": "ChIJ-UWXYdptQUYR2VceVqJ6a_g"
+		"place_id": "ChIJ-UWXYdptQUYR2VceVqJ6a_g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9263457,
@@ -15514,7 +16806,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "The Finest Cut AS",
-		"place_id": "ChIJf2Df5tltQUYRy4wXnO5ERaM"
+		"place_id": "ChIJf2Df5tltQUYRy4wXnO5ERaM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9262425,
@@ -15526,7 +16819,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dave's Bar",
-		"place_id": "ChIJ9_G-09ltQUYRON5mjZEl0ng"
+		"place_id": "ChIJ9_G-09ltQUYRON5mjZEl0ng",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 66.657062,
@@ -15538,7 +16832,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Rødøy Kro & Bar",
-		"place_id": "ChIJyTvNv6R6dUYR6a_8MS8yyS8"
+		"place_id": "ChIJyTvNv6R6dUYR6a_8MS8yyS8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.6546849,
@@ -15550,7 +16845,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Lofoten Værøy Brygge",
-		"place_id": "ChIJY-vucMks3kURRTloWdk_Og0"
+		"place_id": "ChIJY-vucMks3kURRTloWdk_Og0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 67.6548882,
@@ -15562,7 +16858,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Drømmebua Pub",
-		"place_id": "ChIJ_2Gn7s4s3kURymb7Hp-17oY"
+		"place_id": "ChIJ_2Gn7s4s3kURymb7Hp-17oY",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 63.7608824,
@@ -15574,7 +16871,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Jørgensenhytta",
-		"place_id": "ChIJx0V7bIVnbUYRJGUWhOuWOyI"
+		"place_id": "ChIJx0V7bIVnbUYRJGUWhOuWOyI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 58.68397,
@@ -15586,7 +16884,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Plan B AS",
-		"place_id": "ChIJC-JRrmiZR0YRwQ6e0pl0qcM"
+		"place_id": "ChIJC-JRrmiZR0YRwQ6e0pl0qcM",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 64.6429027,
@@ -15598,7 +16897,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Skorovasmat as",
-		"place_id": "ChIJraAJGzvJc0YRTEkJQziYpSA"
+		"place_id": "ChIJraAJGzvJc0YRTEkJQziYpSA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9375792,
@@ -15610,7 +16910,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sagene Lunsjbar",
-		"place_id": "ChIJ_aUa-RJuQUYR4RM5jHuykAk"
+		"place_id": "ChIJ_aUa-RJuQUYR4RM5jHuykAk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.938208,
@@ -15622,7 +16923,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Nazar café-bar AS",
-		"place_id": "ChIJpQJigA1uQUYREmIlHqAObdI"
+		"place_id": "ChIJpQJigA1uQUYREmIlHqAObdI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.91696,
@@ -15634,7 +16936,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fuglen",
-		"place_id": "ChIJc8XN8nxuQUYRVgqbPUEYzLE"
+		"place_id": "ChIJc8XN8nxuQUYRVgqbPUEYzLE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9158638,
@@ -15646,7 +16949,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Fru Burum",
-		"place_id": "ChIJ-8aUvNRtQUYRN5i99KvpYiE"
+		"place_id": "ChIJ-8aUvNRtQUYRN5i99KvpYiE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.927874,
@@ -15658,7 +16962,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Colonel Mustard",
-		"place_id": "ChIJuTxTQm5uQUYRiqQX3qpcvgI"
+		"place_id": "ChIJuTxTQm5uQUYRiqQX3qpcvgI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9234993,
@@ -15670,7 +16975,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Josefine Inn",
-		"place_id": "ChIJOzn22NdtQUYRabrYs5__whI"
+		"place_id": "ChIJOzn22NdtQUYRabrYs5__whI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9151067,
@@ -15682,7 +16988,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Sirkus (Gamle Baroque)",
-		"place_id": "ChIJR-EDtNRtQUYR2Og7kgEAwI0"
+		"place_id": "ChIJR-EDtNRtQUYR2Og7kgEAwI0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9137102,
@@ -15694,7 +17001,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Dr. Jekyll’s Pub",
-		"place_id": "ChIJj1eI-X1uQUYR6l8gEbSanSc"
+		"place_id": "ChIJj1eI-X1uQUYR6l8gEbSanSc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.916808,
@@ -15706,7 +17014,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Forest & Brown AS",
-		"place_id": "ChIJwbfdY9NtQUYRmOMzx2hXMr8"
+		"place_id": "ChIJwbfdY9NtQUYRmOMzx2hXMr8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9206029,
@@ -15718,7 +17027,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Bjorungs",
-		"place_id": "ChIJNWOAuXhuQUYRpGDhimBEKVw"
+		"place_id": "ChIJNWOAuXhuQUYRpGDhimBEKVw",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9181834,
@@ -15730,7 +17040,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Summit Bar",
-		"place_id": "ChIJwQGJvH5uQUYRUksO5ChR88g"
+		"place_id": "ChIJwQGJvH5uQUYRUksO5ChR88g",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.926355,
@@ -15742,7 +17053,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Cafe Nero",
-		"place_id": "ChIJcTo-63duQUYRBcW0ATJPrCA"
+		"place_id": "ChIJcTo-63duQUYRBcW0ATJPrCA",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9141259,
@@ -15754,7 +17066,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "National Jazz Scene",
-		"place_id": "ChIJQzAKdH1uQUYR6UG01xQkgu0"
+		"place_id": "ChIJQzAKdH1uQUYR6UG01xQkgu0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9257958,
@@ -15766,7 +17079,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Store Stå Pub",
-		"place_id": "ChIJdUHu8nduQUYRmh8E0LL-Wc8"
+		"place_id": "ChIJdUHu8nduQUYRmh8E0LL-Wc8",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9101742,
@@ -15778,7 +17092,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Louise Restaurant & Bar",
-		"place_id": "ChIJg2afGoFuQUYRxzRil8hmP0c"
+		"place_id": "ChIJg2afGoFuQUYRxzRil8hmP0c",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.9211042,
@@ -15790,7 +17105,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Welhavens Café",
-		"place_id": "ChIJ8U8Z53huQUYRu2KdvHEUhrc"
+		"place_id": "ChIJ8U8Z53huQUYRu2KdvHEUhrc",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.4589064,
@@ -15802,7 +17118,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Texneslia Bryggeri",
-		"place_id": "ChIJFyl4dJZTQUYRaHk_l1_kVDI"
+		"place_id": "ChIJFyl4dJZTQUYRaHk_l1_kVDI",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.059501,
@@ -15814,7 +17131,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Valdres Høyfjellshotell",
-		"place_id": "ChIJq6qqqmqnakYRzRym1ZkZ9hE"
+		"place_id": "ChIJq6qqqmqnakYRzRym1ZkZ9hE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.3082834,
@@ -15826,7 +17144,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Grand Pub Stranda",
-		"place_id": "ChIJhWqKw0SiFkYRBjU-YEMsV0M"
+		"place_id": "ChIJhWqKw0SiFkYRBjU-YEMsV0M",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.454979,
@@ -15838,7 +17157,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Vaagebu Kvitfjell Vest",
-		"place_id": "ChIJ80on8A_pakYRgDX_uygQKm0"
+		"place_id": "ChIJ80on8A_pakYRgDX_uygQKm0",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 59.529352,
@@ -15850,7 +17170,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Hof Kro & Catering",
-		"place_id": "ChIJhWoNxO4tQUYRcavcw5TlajE"
+		"place_id": "ChIJhWoNxO4tQUYRcavcw5TlajE",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 61.497193,
@@ -15862,7 +17183,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Svanøy Kro",
-		"place_id": "ChIJK-7vJgjCF0YR-Mym7bDz5IU"
+		"place_id": "ChIJK-7vJgjCF0YR-Mym7bDz5IU",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 62.1531364,
@@ -15874,7 +17196,8 @@ var utesteder = [
 			"female": 0
 		},
 		"name": "Furuhaugli Turisthytter AS",
-		"place_id": "ChIJNUpTuMG3FEYR6E1Y1TGqaUk"
+		"place_id": "ChIJNUpTuMG3FEYR6E1Y1TGqaUk",
+		"icon": "./img/utested.png"
 	}, {
 		"position": {
 			"lat": 70.0739921,

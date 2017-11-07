@@ -117,7 +117,7 @@ document.addEventListener('deviceready', function() {
             icons: [{
                     min: 2,
                     max: 100,
-                    url: "./img/blue.png",
+                    url: "./img/green.png",
                     anchor: {
                         x: 16,
                         y: 16
@@ -126,7 +126,7 @@ document.addEventListener('deviceready', function() {
                 {
                     min: 100,
                     max: 1000,
-                    url: "./img/purple.png",
+                    url: "./img/blue.png",
                     anchor: {
                         x: 16,
                         y: 16
@@ -135,7 +135,7 @@ document.addEventListener('deviceready', function() {
                 {
                     min: 1000,
                     max: 2000,
-                    url: "./img/blue.png",
+                    url: "./img/purple.png",
                     anchor: {
                         x: 24,
                         y: 24
@@ -143,7 +143,7 @@ document.addEventListener('deviceready', function() {
                 },
                 {
                     min: 2000,
-                    url: "./img/purple.png",
+                    url: "./img/red.png",
                     anchor: {
                         x: 32,
                         y: 32
