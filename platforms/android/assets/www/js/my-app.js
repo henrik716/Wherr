@@ -108,27 +108,11 @@ document.addEventListener('deviceready', function() {
     });
 
 
-    // Markercluster, men bugga seg etter jeg definerte markersa i annen fil
+    // Oppretting av punkter med clustering
     map.on(plugin.google.maps.event.MAP_READY, function() {
-        // Test for å se om funksjonen fungerer i det heletatt
-        map.addMarker({
-            "position": {
-                "lat": "59.911491",
-                "lng": "10.757933"
-            }
-        });
 
-        //var map = this;
 
-        //var label = document.getElementById("label");
-
-        //------------------------------------------------------
-        // Create a marker cluster.
-        // Providing all locations at the creating is the best.
-        //------------------------------------------------------
         map.addMarkerCluster({
-            //debug: true,
-            //maxZoomLevel: 5,
             markers: utesteder,
             icons: [{
                     min: 2,
@@ -167,23 +151,5 @@ document.addEventListener('deviceready', function() {
                 },
             ]
         });
-
-        function dummyData() {
-            return [{
-                    "position": {
-                        "lat": 59.1288558,
-                        "lng": 10.2271811
-                    },
-                    "name": "Starbucks - HI - Aiea  03641"
-                },
-                {
-                    "position": {
-                        "lat": 59.1317198,
-                        "lng": 10.2167628
-                    },
-                    "name": "Starbucks - HI - Aiea  03642"
-                }
-            ];
-        };
     });
 });
