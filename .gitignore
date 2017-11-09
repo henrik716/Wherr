@@ -32,4 +32,7 @@ platforms/wp8/*.csproj.user
 resources/signing
 
 # idea
-.idea/*
+.idea/
+
+# node_modules
+node_modules/
