@@ -13,7 +13,6 @@
     "com.googlemaps.ios": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk",
     "cordova-android": "^6.3.0",
     "cordova-ios": "^4.5.2",
-    "cordova-plugin-firebase-realtime-database": "0.0.2",
     "cordova-plugin-googlemaps": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps",
     "cordova-plugin-googlemaps-sdk": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk.git",
     "cordova-plugin-googleplayservices-check": "^1.0.4",
@@ -29,8 +28,7 @@
         "API_KEY_FOR_IOS": "AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o",
         "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
         "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map"
-      },
-      "cordova-plugin-firebase-realtime-database": {}
+      }
     },
     "platforms": [
       "android",

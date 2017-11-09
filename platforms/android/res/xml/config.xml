@@ -62,8 +62,4 @@
     <allow-intent href="geo:*" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
-    <feature name="FirebaseDatabasePlugin">
-        <param name="android-package" value="org.apache.cordova.firebase.FirebaseDatabasePlugin" />
-        <param name="onload" value="true" />
-    </feature>
 </widget>

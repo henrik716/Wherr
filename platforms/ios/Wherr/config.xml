@@ -87,8 +87,4 @@
     <feature name="MarkerCluster">
         <param name="ios-package" value="PluginMarkerCluster" />
     </feature>
-    <feature name="FirebaseDatabasePlugin">
-        <param name="ios-package" value="FirebaseDatabasePlugin" />
-        <param name="onload" value="true" />
-    </feature>
 </widget>

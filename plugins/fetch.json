@@ -34,13 +34,5 @@
       "API_KEY_FOR_ANDROID": "AIzaSyBPxerSuuOoZ0dts1YcUA4O-EPMgQ_JD6M",
       "API_KEY_FOR_IOS": "AIzaSyDZ0K-qrqqO4gIYJ4-LVwfIi7iIgamJ36o"
     }
-  },
-  "cordova-plugin-firebase-realtime-database": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-firebase-realtime-database"
-    },
-    "is_top_level": true,
-    "variables": {}
   }
 }
