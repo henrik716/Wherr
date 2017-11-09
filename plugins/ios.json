@@ -21,6 +21,9 @@
       "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
       "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
       "PACKAGE_NAME": "com.myCompany.Wherr"
+    },
+    "cordova-plugin-firebase-realtime-database": {
+      "PACKAGE_NAME": "com.myCompany.Wherr"
     }
   },
   "dependent_plugins": {}

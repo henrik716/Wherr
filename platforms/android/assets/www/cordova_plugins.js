@@ -177,6 +177,14 @@ module.exports = [
     "clobbers": [
       "plugin.google.maps"
     ]
+  },
+  {
+    "id": "cordova-plugin-firebase-realtime-database.FirebaseDatabasePlugin",
+    "file": "plugins/cordova-plugin-firebase-realtime-database/www/firebase.js",
+    "pluginId": "cordova-plugin-firebase-realtime-database",
+    "clobbers": [
+      "FirebaseDatabasePlugin"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -185,7 +193,8 @@ module.exports.metadata =
   "cordova-plugin-whitelist": "1.3.2",
   "cordova-plugin-googleplayservices-check": "1.0.0",
   "com.googlemaps.ios": "2.4.0",
-  "cordova-plugin-googlemaps": "2.1.0-beta-20171027-0054"
+  "cordova-plugin-googlemaps": "2.1.0-beta-20171027-0054",
+  "cordova-plugin-firebase-realtime-database": "0.0.2"
 };
 // BOTTOM OF METADATA
 });
