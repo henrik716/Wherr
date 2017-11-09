@@ -518,6 +518,14 @@
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
 				);
 			};
 			name = Debug;
@@ -549,6 +557,14 @@
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
 					"\"Wherr/Plugins/com.googlemaps.ios\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
+					"\"Wherr/Plugins/cordova-plugin-firebase-realtime-database\"",
 				);
 			};
 			name = Release;

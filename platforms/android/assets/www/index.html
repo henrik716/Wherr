@@ -38,92 +38,25 @@
     -->
     <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: 'unsafe-inline' https://ssl.gstatic.com; style-src 'self' 'unsafe-inline'; media-src *" /> -->
 
-    <!--<link rel="stylesheet" type="text/css" href="css/index.css" />-->
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
     <title>Wherr</title>
-	
-	logo_background {
-    background-color: purple;
-	}
+
+
 </head>
 
 <body>
-	<div style="width100%;height:20px" id="logo_background"></div>
-    <div style="width:100%;height:500px" id="map_canvas"></div>
-
+	<div class="logo_background"></div>
+    <div id="map_canvas">
+	<span class="smallPanel"><button>Click here</button></span>
+	</div>
+	<div class="footer_background">Her skal knapper</div>
 
     <script type="text/javascript" src="cordova.js"></script>
+	<script type="text/javascript" src="data/utesteder_norge.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="js/my-app.js"></script>
 
-    <script type="text/javascript">
-        document.addEventListener('deviceready', function() {
 
-            var success = function(response) {
-                // response.isGooglePlayServicesAvailable is a boolean value 
-                response.isGooglePlayServicesAvailable;
-            }
-
-            var failure = function(response) {
-                response.isGooglePlayServicesAvailable;
-            }
-
-            GooglePlayServicesCheck.check(success, failure);
-
-            var div = document.getElementById("map_canvas");
-            var map = plugin.google.maps.Map.getMap(div, {
-                'mapType': plugin.google.maps.MapTypeId.ROADMAP,
-                'controls': {
-                    'compass': true,
-                    'myLocationButton': false,
-                    'indoorPicker': true,
-                    'zoom': true
-                },
-                'gestures': {
-                    'scroll': true,
-                    'tilt': true,
-                    'rotate': true,
-                    'zoom': true
-                },
-                'styles': [{
-                    featureType: "all",
-                    stylers: [{
-                        saturation: -80
-                    }]
-                }, {
-                    featureType: "road.arterial",
-                    elementType: "geometry",
-                    stylers: [{
-                            hue: "#00ffee"
-                        },
-                        {
-                            saturation: 50
-                        }
-                    ]
-                }, {
-                    featureType: "poi.business",
-                    elementType: "labels",
-                    stylers: [{
-                        visibility: "off"
-                    }]
-                }],
-                'camera': {
-                    target: {
-                        lat: 37.422375,
-                        lng: -122.084207
-                    },
-                    zoom: 10
-                },
-                'preferences': {
-                    'zoom': {
-                        'minZoom': 10,
-                        'maxZoom': 18
-                    },
-                    'building': false
-                }
-            });
-            map.one(plugin.google.maps.event.MAP_READY, function() {
-                console.log("--> map : ready.");
-            });
-        });
     </script>
 
 </body>
