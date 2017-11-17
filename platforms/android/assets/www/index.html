@@ -45,18 +45,29 @@
 </head>
 
 <body>
-	<div class="logo_background"></div>
+    <div class="logo_background"></div>
     <div id="map_canvas">
-	<span class="smallPanel"><button>Click here</button></span>
-	</div>
-	<div class="footer_background">Her skal knapper</div>
+        <span class="smallPanel"><button>Click here</button></span>
+    </div>
+    <div class="footer_background">Her skal knapper</div>
 
     <script type="text/javascript" src="cordova.js"></script>
-	<script type="text/javascript" src="data/utesteder_norge.js"></script>
+    <script type="text/javascript" src="data/utesteder_norge.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
     <script type="text/javascript" src="js/my-app.js"></script>
 
-
+    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDLLVFhDnSifKRX0GwX9MyP6pHtlRQdOK4",
+            authDomain: "werr-db547.firebaseapp.com",
+            databaseURL: "https://werr-db547.firebaseio.com",
+            projectId: "werr-db547",
+            storageBucket: "werr-db547.appspot.com",
+            messagingSenderId: "157214372980"
+        };
+        firebase.initializeApp(config);
     </script>
 
 </body>
